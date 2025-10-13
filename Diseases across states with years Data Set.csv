@@ -1,0 +1,2881 @@
+state,region,disease,year,cases,incidence_per_100k,population
+Andhra Pradesh,South,Tuberculosis,2015,48926,42.16,116048524
+Andhra Pradesh,South,Malaria,2015,69352,,116048524
+Andhra Pradesh,South,Dengue,2015,65130,56.12,116048524
+Andhra Pradesh,South,HIV/AIDS,2015,97021,83.6,116048524
+Andhra Pradesh,South,Measles,2015,79569,68.57,116048524
+Andhra Pradesh,South,Hepatitis B,2015,56306,48.52,116048524
+Andhra Pradesh,South,Diarrhoeal Disease,2015,19610,16.9,116048524
+Andhra Pradesh,South,Pneumonia,2015,40188,34.63,116048524
+Andhra Pradesh,South,Tuberculosis,2016,12532,24.74,50664892
+Andhra Pradesh,South,Malaria,2016,46764,92.3,50664892
+Andhra Pradesh,South,Dengue,2016,2932,5.79,50664892
+Andhra Pradesh,South,HIV/AIDS,2016,49868,98.43,50664892
+Andhra Pradesh,South,Measles,2016,84399,166.58,50664892
+Andhra Pradesh,South,Hepatitis B,2016,65936,130.14,50664892
+Andhra Pradesh,South,Diarrhoeal Disease,2016,33524,66.17,50664892
+Andhra Pradesh,South,Pneumonia,2016,76691,151.37,50664892
+Andhra Pradesh,South,Tuberculosis,2017,47097,56.18,83827364
+Andhra Pradesh,South,Malaria,2017,91403,109.04,83827364
+Andhra Pradesh,South,Dengue,2017,9968,11.89,83827364
+Andhra Pradesh,South,HIV/AIDS,2017,51778,61.77,83827364
+Andhra Pradesh,South,Measles,2017,15007,17.9,83827364
+Andhra Pradesh,South,Hepatitis B,2017,34695,41.39,83827364
+Andhra Pradesh,South,Diarrhoeal Disease,2017,98956,118.05,83827364
+Andhra Pradesh,South,Pneumonia,2017,34942,41.68,83827364
+Andhra Pradesh,South,Tuberculosis,2018,84573,,119996719
+Andhra Pradesh,South,Malaria,2018,30181,25.15,119996719
+Andhra Pradesh,South,Dengue,2018,30667,25.56,119996719
+Andhra Pradesh,South,HIV/AIDS,2018,59102,49.25,119996719
+Andhra Pradesh,South,Measles,2018,92555,77.13,119996719
+Andhra Pradesh,South,Hepatitis B,2018,56374,46.98,119996719
+Andhra Pradesh,South,Diarrhoeal Disease,2018,67477,56.23,119996719
+Andhra Pradesh,South,Pneumonia,2018,36369,30.31,119996719
+Andhra Pradesh,South,Tuberculosis,2019,62579,56.43,110890241
+Andhra Pradesh,South,Malaria,2019,97243,87.69,110890241
+Andhra Pradesh,South,Dengue,2019,68796,62.04,110890241
+Andhra Pradesh,South,HIV/AIDS,2019,35678,32.17,110890241
+Andhra Pradesh,South,Measles,2019,73311,66.11,110890241
+Andhra Pradesh,South,Hepatitis B,2019,49934,45.03,110890241
+Andhra Pradesh,South,Diarrhoeal Disease,2019,94534,85.25,110890241
+Andhra Pradesh,South,Pneumonia,2019,36960,33.33,110890241
+Andhra Pradesh,South,Tuberculosis,2020,62697,59.3,105729462
+Andhra Pradesh,South,Malaria,2020,53370,50.48,105729462
+Andhra Pradesh,South,Dengue,2020,70886,67.04,105729462
+Andhra Pradesh,South,HIV/AIDS,2020,21746,20.57,105729462
+Andhra Pradesh,South,Measles,2020,75845,71.73,105729462
+Andhra Pradesh,South,Hepatitis B,2020,30506,28.85,105729462
+Andhra Pradesh,South,Diarrhoeal Disease,2020,89158,84.33,105729462
+Andhra Pradesh,South,Pneumonia,2020,40029,37.86,105729462
+Andhra Pradesh,South,Tuberculosis,2021,65078,309.45,21030500
+Andhra Pradesh,South,Malaria,2021,90422,429.96,21030500
+Andhra Pradesh,South,Dengue,2021,72626,345.34,21030500
+Andhra Pradesh,South,HIV/AIDS,2021,10693,50.85,21030500
+Andhra Pradesh,South,Measles,2021,59036,280.72,21030500
+Andhra Pradesh,South,Hepatitis B,2021,36951,175.7,21030500
+Andhra Pradesh,South,Diarrhoeal Disease,2021,64598,307.16,21030500
+Andhra Pradesh,South,Pneumonia,2021,22293,106.0,21030500
+Andhra Pradesh,South,Tuberculosis,2022,71790,60.38,118900684
+Andhra Pradesh,South,Malaria,2022,13255,11.15,118900684
+Andhra Pradesh,South,Dengue,2022,67506,56.78,118900684
+Andhra Pradesh,South,HIV/AIDS,2022,81773,68.77,118900684
+Andhra Pradesh,South,Measles,2022,58358,49.08,118900684
+Andhra Pradesh,South,Hepatitis B,2022,89609,,118900684
+Andhra Pradesh,South,Diarrhoeal Disease,2022,99359,83.56,118900684
+Andhra Pradesh,South,Pneumonia,2022,29887,25.14,118900684
+Andhra Pradesh,South,Tuberculosis,2023,23910,59.56,40141661
+Andhra Pradesh,South,Malaria,2023,94801,236.17,40141661
+Andhra Pradesh,South,Dengue,2023,82746,206.13,40141661
+Andhra Pradesh,South,HIV/AIDS,2023,42830,106.7,40141661
+Andhra Pradesh,South,Measles,2023,34196,85.19,40141661
+Andhra Pradesh,South,Hepatitis B,2023,22362,55.71,40141661
+Andhra Pradesh,South,Diarrhoeal Disease,2023,36509,90.95,40141661
+Andhra Pradesh,South,Pneumonia,2023,98961,246.53,40141661
+Andhra Pradesh,South,Tuberculosis,2024,52236,45.78,114114501
+Andhra Pradesh,South,Malaria,2024,43118,37.78,114114501
+Andhra Pradesh,South,Dengue,2024,17654,15.47,114114501
+Andhra Pradesh,South,HIV/AIDS,2024,36732,32.19,114114501
+Andhra Pradesh,South,Measles,2024,41779,36.61,114114501
+Andhra Pradesh,South,Hepatitis B,2024,53228,46.64,114114501
+Andhra Pradesh,South,Diarrhoeal Disease,2024,10882,9.54,114114501
+Andhra Pradesh,South,Pneumonia,2024,26828,23.51,114114501
+Arunachal Pradesh,Northeast,Tuberculosis,2015,17913,27.91,64174537
+Arunachal Pradesh,Northeast,Malaria,2015,54926,85.59,64174537
+Arunachal Pradesh,Northeast,Dengue,2015,52217,81.37,64174537
+Arunachal Pradesh,Northeast,HIV/AIDS,2015,7675,11.96,64174537
+Arunachal Pradesh,Northeast,Measles,2015,20065,31.27,64174537
+Arunachal Pradesh,Northeast,Hepatitis B,2015,95045,148.1,64174537
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2015,25158,39.2,64174537
+Arunachal Pradesh,Northeast,Pneumonia,2015,68201,106.27,64174537
+Arunachal Pradesh,Northeast,Tuberculosis,2016,23220,71.33,32552928
+Arunachal Pradesh,Northeast,Malaria,2016,6607,20.3,32552928
+Arunachal Pradesh,Northeast,Dengue,2016,3223,9.9,32552928
+Arunachal Pradesh,Northeast,HIV/AIDS,2016,65087,,32552928
+Arunachal Pradesh,Northeast,Measles,2016,53724,165.04,32552928
+Arunachal Pradesh,Northeast,Hepatitis B,2016,32034,98.41,32552928
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2016,37305,114.6,32552928
+Arunachal Pradesh,Northeast,Pneumonia,2016,98312,302.01,32552928
+Arunachal Pradesh,Northeast,Tuberculosis,2017,52881,106.01,49885254
+Arunachal Pradesh,Northeast,Malaria,2017,50060,100.35,49885254
+Arunachal Pradesh,Northeast,Dengue,2017,41780,83.75,49885254
+Arunachal Pradesh,Northeast,HIV/AIDS,2017,80599,161.57,49885254
+Arunachal Pradesh,Northeast,Measles,2017,80776,161.92,49885254
+Arunachal Pradesh,Northeast,Hepatitis B,2017,47855,95.93,49885254
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2017,4833,9.69,49885254
+Arunachal Pradesh,Northeast,Pneumonia,2017,19281,,49885254
+Arunachal Pradesh,Northeast,Tuberculosis,2018,75136,214.33,35055841
+Arunachal Pradesh,Northeast,Malaria,2018,69177,197.33,35055841
+Arunachal Pradesh,Northeast,Dengue,2018,91297,260.43,35055841
+Arunachal Pradesh,Northeast,HIV/AIDS,2018,64288,183.39,35055841
+Arunachal Pradesh,Northeast,Measles,2018,81367,232.11,35055841
+Arunachal Pradesh,Northeast,Hepatitis B,2018,10305,29.4,35055841
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2018,42403,120.96,35055841
+Arunachal Pradesh,Northeast,Pneumonia,2018,28722,81.93,35055841
+Arunachal Pradesh,Northeast,Tuberculosis,2019,97884,115.45,84787789
+Arunachal Pradesh,Northeast,Malaria,2019,65466,77.21,84787789
+Arunachal Pradesh,Northeast,Dengue,2019,17872,21.08,84787789
+Arunachal Pradesh,Northeast,HIV/AIDS,2019,50116,59.11,84787789
+Arunachal Pradesh,Northeast,Measles,2019,35888,42.33,84787789
+Arunachal Pradesh,Northeast,Hepatitis B,2019,37229,43.91,84787789
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2019,34039,40.15,84787789
+Arunachal Pradesh,Northeast,Pneumonia,2019,46400,54.72,84787789
+Arunachal Pradesh,Northeast,Tuberculosis,2020,25139,40.98,61344355
+Arunachal Pradesh,Northeast,Malaria,2020,83830,136.65,61344355
+Arunachal Pradesh,Northeast,Dengue,2020,97132,158.34,61344355
+Arunachal Pradesh,Northeast,HIV/AIDS,2020,46791,76.28,61344355
+Arunachal Pradesh,Northeast,Measles,2020,36292,,61344355
+Arunachal Pradesh,Northeast,Hepatitis B,2020,22310,36.37,61344355
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2020,26913,43.87,61344355
+Arunachal Pradesh,Northeast,Pneumonia,2020,61431,100.14,61344355
+Arunachal Pradesh,Northeast,Tuberculosis,2021,88648,141.34,62718593
+Arunachal Pradesh,Northeast,Malaria,2021,52400,83.55,62718593
+Arunachal Pradesh,Northeast,Dengue,2021,292,0.47,62718593
+Arunachal Pradesh,Northeast,HIV/AIDS,2021,36670,58.47,62718593
+Arunachal Pradesh,Northeast,Measles,2021,81490,129.93,62718593
+Arunachal Pradesh,Northeast,Hepatitis B,2021,56089,89.43,62718593
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2021,86492,137.9,62718593
+Arunachal Pradesh,Northeast,Pneumonia,2021,91537,145.95,62718593
+Arunachal Pradesh,Northeast,Tuberculosis,2022,6549,379.14,1727332
+Arunachal Pradesh,Northeast,Malaria,2022,94332,5461.14,1727332
+Arunachal Pradesh,Northeast,Dengue,2022,8774,507.95,1727332
+Arunachal Pradesh,Northeast,HIV/AIDS,2022,83313,,1727332
+Arunachal Pradesh,Northeast,Measles,2022,45736,2647.78,1727332
+Arunachal Pradesh,Northeast,Hepatitis B,2022,90940,5264.77,1727332
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2022,12613,730.2,1727332
+Arunachal Pradesh,Northeast,Pneumonia,2022,60636,3510.38,1727332
+Arunachal Pradesh,Northeast,Tuberculosis,2023,85736,130.38,65760473
+Arunachal Pradesh,Northeast,Malaria,2023,31667,48.16,65760473
+Arunachal Pradesh,Northeast,Dengue,2023,99127,150.74,65760473
+Arunachal Pradesh,Northeast,HIV/AIDS,2023,38499,58.54,65760473
+Arunachal Pradesh,Northeast,Measles,2023,55279,84.06,65760473
+Arunachal Pradesh,Northeast,Hepatitis B,2023,54015,82.14,65760473
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2023,28364,43.13,65760473
+Arunachal Pradesh,Northeast,Pneumonia,2023,3658,5.56,65760473
+Arunachal Pradesh,Northeast,Tuberculosis,2024,528,0.49,108472311
+Arunachal Pradesh,Northeast,Malaria,2024,92462,85.24,108472311
+Arunachal Pradesh,Northeast,Dengue,2024,42898,39.55,108472311
+Arunachal Pradesh,Northeast,HIV/AIDS,2024,78537,72.4,108472311
+Arunachal Pradesh,Northeast,Measles,2024,47653,43.93,108472311
+Arunachal Pradesh,Northeast,Hepatitis B,2024,39561,,108472311
+Arunachal Pradesh,Northeast,Diarrhoeal Disease,2024,28522,26.29,108472311
+Arunachal Pradesh,Northeast,Pneumonia,2024,36308,33.47,108472311
+Assam,Northeast,Tuberculosis,2015,8866,8.51,104226721
+Assam,Northeast,Malaria,2015,58376,56.01,104226721
+Assam,Northeast,Dengue,2015,14956,14.35,104226721
+Assam,Northeast,HIV/AIDS,2015,98129,94.15,104226721
+Assam,Northeast,Measles,2015,82879,79.52,104226721
+Assam,Northeast,Hepatitis B,2015,52069,49.96,104226721
+Assam,Northeast,Diarrhoeal Disease,2015,36533,35.05,104226721
+Assam,Northeast,Pneumonia,2015,68989,66.19,104226721
+Assam,Northeast,Tuberculosis,2016,17813,32.08,55526942
+Assam,Northeast,Malaria,2016,86687,156.12,55526942
+Assam,Northeast,Dengue,2016,14504,,55526942
+Assam,Northeast,HIV/AIDS,2016,67300,121.2,55526942
+Assam,Northeast,Measles,2016,71967,129.61,55526942
+Assam,Northeast,Hepatitis B,2016,16833,30.32,55526942
+Assam,Northeast,Diarrhoeal Disease,2016,76939,,55526942
+Assam,Northeast,Pneumonia,2016,95346,171.71,55526942
+Assam,Northeast,Tuberculosis,2017,66670,71.86,92781042
+Assam,Northeast,Malaria,2017,34029,36.68,92781042
+Assam,Northeast,Dengue,2017,30279,32.63,92781042
+Assam,Northeast,HIV/AIDS,2017,24329,26.22,92781042
+Assam,Northeast,Measles,2017,99072,106.78,92781042
+Assam,Northeast,Hepatitis B,2017,17577,18.94,92781042
+Assam,Northeast,Diarrhoeal Disease,2017,74476,80.27,92781042
+Assam,Northeast,Pneumonia,2017,52927,57.05,92781042
+Assam,Northeast,Tuberculosis,2018,91634,309.29,29626858
+Assam,Northeast,Malaria,2018,90816,306.53,29626858
+Assam,Northeast,Dengue,2018,24235,81.8,29626858
+Assam,Northeast,HIV/AIDS,2018,43607,147.19,29626858
+Assam,Northeast,Measles,2018,8800,29.7,29626858
+Assam,Northeast,Hepatitis B,2018,2814,9.5,29626858
+Assam,Northeast,Diarrhoeal Disease,2018,54132,182.71,29626858
+Assam,Northeast,Pneumonia,2018,33891,114.39,29626858
+Assam,Northeast,Tuberculosis,2019,8098,28.43,28482263
+Assam,Northeast,Malaria,2019,69877,245.34,28482263
+Assam,Northeast,Dengue,2019,16377,57.5,28482263
+Assam,Northeast,HIV/AIDS,2019,20431,71.73,28482263
+Assam,Northeast,Measles,2019,43662,153.3,28482263
+Assam,Northeast,Hepatitis B,2019,57665,202.46,28482263
+Assam,Northeast,Diarrhoeal Disease,2019,43347,152.19,28482263
+Assam,Northeast,Pneumonia,2019,42596,149.55,28482263
+Assam,Northeast,Tuberculosis,2020,75651,90.98,83155024
+Assam,Northeast,Malaria,2020,55686,66.97,83155024
+Assam,Northeast,Dengue,2020,74981,90.17,83155024
+Assam,Northeast,HIV/AIDS,2020,92890,,83155024
+Assam,Northeast,Measles,2020,97342,117.06,83155024
+Assam,Northeast,Hepatitis B,2020,8831,10.62,83155024
+Assam,Northeast,Diarrhoeal Disease,2020,64186,,83155024
+Assam,Northeast,Pneumonia,2020,21557,25.92,83155024
+Assam,Northeast,Tuberculosis,2021,36417,38.47,94667093
+Assam,Northeast,Malaria,2021,77375,81.73,94667093
+Assam,Northeast,Dengue,2021,76721,81.04,94667093
+Assam,Northeast,HIV/AIDS,2021,9604,10.15,94667093
+Assam,Northeast,Measles,2021,13143,13.88,94667093
+Assam,Northeast,Hepatitis B,2021,44630,47.14,94667093
+Assam,Northeast,Diarrhoeal Disease,2021,74028,,94667093
+Assam,Northeast,Pneumonia,2021,80201,84.72,94667093
+Assam,Northeast,Tuberculosis,2022,19038,16.92,112533114
+Assam,Northeast,Malaria,2022,72842,64.73,112533114
+Assam,Northeast,Dengue,2022,48003,42.66,112533114
+Assam,Northeast,HIV/AIDS,2022,17442,15.5,112533114
+Assam,Northeast,Measles,2022,90031,80.0,112533114
+Assam,Northeast,Hepatitis B,2022,60918,54.13,112533114
+Assam,Northeast,Diarrhoeal Disease,2022,32550,28.92,112533114
+Assam,Northeast,Pneumonia,2022,23259,20.67,112533114
+Assam,Northeast,Tuberculosis,2023,10470,25.82,40552538
+Assam,Northeast,Malaria,2023,36671,90.43,40552538
+Assam,Northeast,Dengue,2023,34714,85.6,40552538
+Assam,Northeast,HIV/AIDS,2023,7752,19.12,40552538
+Assam,Northeast,Measles,2023,20530,50.63,40552538
+Assam,Northeast,Hepatitis B,2023,61033,150.5,40552538
+Assam,Northeast,Diarrhoeal Disease,2023,86374,212.99,40552538
+Assam,Northeast,Pneumonia,2023,76928,189.7,40552538
+Assam,Northeast,Tuberculosis,2024,57865,52.92,109337130
+Assam,Northeast,Malaria,2024,89613,81.96,109337130
+Assam,Northeast,Dengue,2024,66538,60.86,109337130
+Assam,Northeast,HIV/AIDS,2024,44678,40.86,109337130
+Assam,Northeast,Measles,2024,8521,7.79,109337130
+Assam,Northeast,Hepatitis B,2024,15533,14.21,109337130
+Assam,Northeast,Diarrhoeal Disease,2024,43854,40.11,109337130
+Assam,Northeast,Pneumonia,2024,76878,70.31,109337130
+Bihar,East,Tuberculosis,2015,79658,109.68,72625933
+Bihar,East,Malaria,2015,74900,103.13,72625933
+Bihar,East,Dengue,2015,8571,11.8,72625933
+Bihar,East,HIV/AIDS,2015,90709,124.9,72625933
+Bihar,East,Measles,2015,26335,36.26,72625933
+Bihar,East,Hepatitis B,2015,29960,41.25,72625933
+Bihar,East,Diarrhoeal Disease,2015,38949,53.63,72625933
+Bihar,East,Pneumonia,2015,2366,3.26,72625933
+Bihar,East,Tuberculosis,2016,52222,,47591023
+Bihar,East,Malaria,2016,75861,159.4,47591023
+Bihar,East,Dengue,2016,8822,18.54,47591023
+Bihar,East,HIV/AIDS,2016,55328,116.26,47591023
+Bihar,East,Measles,2016,21520,45.22,47591023
+Bihar,East,Hepatitis B,2016,80064,,47591023
+Bihar,East,Diarrhoeal Disease,2016,78934,165.86,47591023
+Bihar,East,Pneumonia,2016,5943,,47591023
+Bihar,East,Tuberculosis,2017,90349,156.01,57911043
+Bihar,East,Malaria,2017,41578,71.8,57911043
+Bihar,East,Dengue,2017,41557,71.76,57911043
+Bihar,East,HIV/AIDS,2017,54771,94.58,57911043
+Bihar,East,Measles,2017,12407,21.42,57911043
+Bihar,East,Hepatitis B,2017,21291,36.77,57911043
+Bihar,East,Diarrhoeal Disease,2017,86422,149.23,57911043
+Bihar,East,Pneumonia,2017,60819,105.02,57911043
+Bihar,East,Tuberculosis,2018,16544,,24547813
+Bihar,East,Malaria,2018,86554,352.59,24547813
+Bihar,East,Dengue,2018,24173,98.47,24547813
+Bihar,East,HIV/AIDS,2018,92477,376.72,24547813
+Bihar,East,Measles,2018,98923,402.98,24547813
+Bihar,East,Hepatitis B,2018,70686,287.95,24547813
+Bihar,East,Diarrhoeal Disease,2018,29777,121.3,24547813
+Bihar,East,Pneumonia,2018,23678,96.46,24547813
+Bihar,East,Tuberculosis,2019,28531,30.17,94579833
+Bihar,East,Malaria,2019,87126,92.12,94579833
+Bihar,East,Dengue,2019,79749,84.32,94579833
+Bihar,East,HIV/AIDS,2019,71348,75.44,94579833
+Bihar,East,Measles,2019,79130,83.66,94579833
+Bihar,East,Hepatitis B,2019,4374,4.62,94579833
+Bihar,East,Diarrhoeal Disease,2019,14188,15.0,94579833
+Bihar,East,Pneumonia,2019,96957,102.51,94579833
+Bihar,East,Tuberculosis,2020,95422,161.32,59150094
+Bihar,East,Malaria,2020,37860,64.01,59150094
+Bihar,East,Dengue,2020,12825,,59150094
+Bihar,East,HIV/AIDS,2020,87300,147.59,59150094
+Bihar,East,Measles,2020,1697,2.87,59150094
+Bihar,East,Hepatitis B,2020,39552,66.87,59150094
+Bihar,East,Diarrhoeal Disease,2020,56223,95.05,59150094
+Bihar,East,Pneumonia,2020,89132,150.69,59150094
+Bihar,East,Tuberculosis,2021,48686,51.84,93907247
+Bihar,East,Malaria,2021,53250,56.7,93907247
+Bihar,East,Dengue,2021,17381,18.51,93907247
+Bihar,East,HIV/AIDS,2021,7122,,93907247
+Bihar,East,Measles,2021,23835,25.38,93907247
+Bihar,East,Hepatitis B,2021,18444,19.64,93907247
+Bihar,East,Diarrhoeal Disease,2021,15760,16.78,93907247
+Bihar,East,Pneumonia,2021,75289,80.17,93907247
+Bihar,East,Tuberculosis,2022,422,1.38,30568321
+Bihar,East,Malaria,2022,14585,47.71,30568321
+Bihar,East,Dengue,2022,18094,59.19,30568321
+Bihar,East,HIV/AIDS,2022,79164,258.97,30568321
+Bihar,East,Measles,2022,3535,11.56,30568321
+Bihar,East,Hepatitis B,2022,13881,45.41,30568321
+Bihar,East,Diarrhoeal Disease,2022,10574,34.59,30568321
+Bihar,East,Pneumonia,2022,17526,57.33,30568321
+Bihar,East,Tuberculosis,2023,29186,35.21,82901845
+Bihar,East,Malaria,2023,74746,90.16,82901845
+Bihar,East,Dengue,2023,87809,105.92,82901845
+Bihar,East,HIV/AIDS,2023,55833,67.35,82901845
+Bihar,East,Measles,2023,65235,78.69,82901845
+Bihar,East,Hepatitis B,2023,33750,40.71,82901845
+Bihar,East,Diarrhoeal Disease,2023,76956,92.83,82901845
+Bihar,East,Pneumonia,2023,78806,95.06,82901845
+Bihar,East,Tuberculosis,2024,36953,72.0,51320400
+Bihar,East,Malaria,2024,91528,178.35,51320400
+Bihar,East,Dengue,2024,97362,189.71,51320400
+Bihar,East,HIV/AIDS,2024,75152,146.44,51320400
+Bihar,East,Measles,2024,66890,130.34,51320400
+Bihar,East,Hepatitis B,2024,97221,189.44,51320400
+Bihar,East,Diarrhoeal Disease,2024,79599,155.1,51320400
+Bihar,East,Pneumonia,2024,60942,118.75,51320400
+Chhattisgarh,Central,Tuberculosis,2015,63924,119.43,53525935
+Chhattisgarh,Central,Malaria,2015,34810,65.03,53525935
+Chhattisgarh,Central,Dengue,2015,14455,27.01,53525935
+Chhattisgarh,Central,HIV/AIDS,2015,83319,155.66,53525935
+Chhattisgarh,Central,Measles,2015,93947,175.52,53525935
+Chhattisgarh,Central,Hepatitis B,2015,47013,87.83,53525935
+Chhattisgarh,Central,Diarrhoeal Disease,2015,23923,44.69,53525935
+Chhattisgarh,Central,Pneumonia,2015,11451,21.39,53525935
+Chhattisgarh,Central,Tuberculosis,2016,14302,14.63,97736705
+Chhattisgarh,Central,Malaria,2016,70789,72.43,97736705
+Chhattisgarh,Central,Dengue,2016,69042,70.64,97736705
+Chhattisgarh,Central,HIV/AIDS,2016,51648,52.84,97736705
+Chhattisgarh,Central,Measles,2016,23255,23.79,97736705
+Chhattisgarh,Central,Hepatitis B,2016,24390,24.95,97736705
+Chhattisgarh,Central,Diarrhoeal Disease,2016,11980,12.26,97736705
+Chhattisgarh,Central,Pneumonia,2016,41650,42.61,97736705
+Chhattisgarh,Central,Tuberculosis,2017,87347,3485.1,2506299
+Chhattisgarh,Central,Malaria,2017,68579,2736.27,2506299
+Chhattisgarh,Central,Dengue,2017,43923,1752.5,2506299
+Chhattisgarh,Central,HIV/AIDS,2017,17438,695.77,2506299
+Chhattisgarh,Central,Measles,2017,53672,2141.48,2506299
+Chhattisgarh,Central,Hepatitis B,2017,77976,3111.2,2506299
+Chhattisgarh,Central,Diarrhoeal Disease,2017,88072,3514.03,2506299
+Chhattisgarh,Central,Pneumonia,2017,70357,2807.21,2506299
+Chhattisgarh,Central,Tuberculosis,2018,24051,100.8,23859573
+Chhattisgarh,Central,Malaria,2018,90080,377.54,23859573
+Chhattisgarh,Central,Dengue,2018,22797,95.55,23859573
+Chhattisgarh,Central,HIV/AIDS,2018,28957,121.36,23859573
+Chhattisgarh,Central,Measles,2018,45066,188.88,23859573
+Chhattisgarh,Central,Hepatitis B,2018,53219,223.05,23859573
+Chhattisgarh,Central,Diarrhoeal Disease,2018,16690,69.95,23859573
+Chhattisgarh,Central,Pneumonia,2018,12110,50.76,23859573
+Chhattisgarh,Central,Tuberculosis,2019,82791,68.59,120705104
+Chhattisgarh,Central,Malaria,2019,55431,45.92,120705104
+Chhattisgarh,Central,Dengue,2019,88831,73.59,120705104
+Chhattisgarh,Central,HIV/AIDS,2019,61231,50.73,120705104
+Chhattisgarh,Central,Measles,2019,174,0.14,120705104
+Chhattisgarh,Central,Hepatitis B,2019,96755,80.16,120705104
+Chhattisgarh,Central,Diarrhoeal Disease,2019,21657,17.94,120705104
+Chhattisgarh,Central,Pneumonia,2019,23786,19.71,120705104
+Chhattisgarh,Central,Tuberculosis,2020,8005,9.99,80141440
+Chhattisgarh,Central,Malaria,2020,90731,,80141440
+Chhattisgarh,Central,Dengue,2020,67140,83.78,80141440
+Chhattisgarh,Central,HIV/AIDS,2020,36069,45.01,80141440
+Chhattisgarh,Central,Measles,2020,82322,102.72,80141440
+Chhattisgarh,Central,Hepatitis B,2020,65396,81.6,80141440
+Chhattisgarh,Central,Diarrhoeal Disease,2020,41561,51.86,80141440
+Chhattisgarh,Central,Pneumonia,2020,63527,79.27,80141440
+Chhattisgarh,Central,Tuberculosis,2021,1383,1.35,102631754
+Chhattisgarh,Central,Malaria,2021,25293,24.64,102631754
+Chhattisgarh,Central,Dengue,2021,39023,38.02,102631754
+Chhattisgarh,Central,HIV/AIDS,2021,93329,90.94,102631754
+Chhattisgarh,Central,Measles,2021,80343,78.28,102631754
+Chhattisgarh,Central,Hepatitis B,2021,6017,5.86,102631754
+Chhattisgarh,Central,Diarrhoeal Disease,2021,71009,69.19,102631754
+Chhattisgarh,Central,Pneumonia,2021,46810,45.61,102631754
+Chhattisgarh,Central,Tuberculosis,2022,16568,42.78,38730173
+Chhattisgarh,Central,Malaria,2022,57843,149.35,38730173
+Chhattisgarh,Central,Dengue,2022,899,2.32,38730173
+Chhattisgarh,Central,HIV/AIDS,2022,67993,175.56,38730173
+Chhattisgarh,Central,Measles,2022,34365,88.73,38730173
+Chhattisgarh,Central,Hepatitis B,2022,97384,251.44,38730173
+Chhattisgarh,Central,Diarrhoeal Disease,2022,37481,96.77,38730173
+Chhattisgarh,Central,Pneumonia,2022,37640,97.19,38730173
+Chhattisgarh,Central,Tuberculosis,2023,69734,61.02,114273045
+Chhattisgarh,Central,Malaria,2023,35857,31.38,114273045
+Chhattisgarh,Central,Dengue,2023,74426,65.13,114273045
+Chhattisgarh,Central,HIV/AIDS,2023,77998,68.26,114273045
+Chhattisgarh,Central,Measles,2023,73799,64.58,114273045
+Chhattisgarh,Central,Hepatitis B,2023,9846,8.62,114273045
+Chhattisgarh,Central,Diarrhoeal Disease,2023,62132,,114273045
+Chhattisgarh,Central,Pneumonia,2023,60559,52.99,114273045
+Chhattisgarh,Central,Tuberculosis,2024,47542,44.01,108024273
+Chhattisgarh,Central,Malaria,2024,6810,,108024273
+Chhattisgarh,Central,Dengue,2024,66382,61.45,108024273
+Chhattisgarh,Central,HIV/AIDS,2024,9346,8.65,108024273
+Chhattisgarh,Central,Measles,2024,8131,7.53,108024273
+Chhattisgarh,Central,Hepatitis B,2024,86807,80.36,108024273
+Chhattisgarh,Central,Diarrhoeal Disease,2024,13124,12.15,108024273
+Chhattisgarh,Central,Pneumonia,2024,34303,31.75,108024273
+Goa,West,Tuberculosis,2015,13136,,21013602
+Goa,West,Malaria,2015,46474,221.16,21013602
+Goa,West,Dengue,2015,37765,179.72,21013602
+Goa,West,HIV/AIDS,2015,37388,177.92,21013602
+Goa,West,Measles,2015,64551,307.19,21013602
+Goa,West,Hepatitis B,2015,19164,91.2,21013602
+Goa,West,Diarrhoeal Disease,2015,47724,227.11,21013602
+Goa,West,Pneumonia,2015,64263,305.82,21013602
+Goa,West,Tuberculosis,2016,38287,6663.56,574573
+Goa,West,Malaria,2016,35362,6154.48,574573
+Goa,West,Dengue,2016,91169,15867.26,574573
+Goa,West,HIV/AIDS,2016,80963,14090.99,574573
+Goa,West,Measles,2016,82756,14403.04,574573
+Goa,West,Hepatitis B,2016,49855,8676.88,574573
+Goa,West,Diarrhoeal Disease,2016,94287,16409.93,574573
+Goa,West,Pneumonia,2016,29389,5114.93,574573
+Goa,West,Tuberculosis,2017,94478,229.1,41238394
+Goa,West,Malaria,2017,72831,176.61,41238394
+Goa,West,Dengue,2017,83558,202.62,41238394
+Goa,West,HIV/AIDS,2017,83928,203.52,41238394
+Goa,West,Measles,2017,32184,78.04,41238394
+Goa,West,Hepatitis B,2017,88315,214.16,41238394
+Goa,West,Diarrhoeal Disease,2017,60173,145.91,41238394
+Goa,West,Pneumonia,2017,94819,229.93,41238394
+Goa,West,Tuberculosis,2018,71409,,114191554
+Goa,West,Malaria,2018,3357,2.94,114191554
+Goa,West,Dengue,2018,61465,53.83,114191554
+Goa,West,HIV/AIDS,2018,76430,66.93,114191554
+Goa,West,Measles,2018,42178,36.94,114191554
+Goa,West,Hepatitis B,2018,29591,25.91,114191554
+Goa,West,Diarrhoeal Disease,2018,67421,59.04,114191554
+Goa,West,Pneumonia,2018,83938,73.51,114191554
+Goa,West,Tuberculosis,2019,82831,97.41,85036267
+Goa,West,Malaria,2019,21194,24.92,85036267
+Goa,West,Dengue,2019,88462,104.03,85036267
+Goa,West,HIV/AIDS,2019,41762,49.11,85036267
+Goa,West,Measles,2019,8203,9.65,85036267
+Goa,West,Hepatitis B,2019,94208,110.79,85036267
+Goa,West,Diarrhoeal Disease,2019,12540,14.75,85036267
+Goa,West,Pneumonia,2019,57251,67.33,85036267
+Goa,West,Tuberculosis,2020,78631,77.47,101500482
+Goa,West,Malaria,2020,49813,,101500482
+Goa,West,Dengue,2020,12766,,101500482
+Goa,West,HIV/AIDS,2020,17261,17.01,101500482
+Goa,West,Measles,2020,23488,23.14,101500482
+Goa,West,Hepatitis B,2020,21529,21.21,101500482
+Goa,West,Diarrhoeal Disease,2020,70605,69.56,101500482
+Goa,West,Pneumonia,2020,61283,,101500482
+Goa,West,Tuberculosis,2021,95068,79.43,119691181
+Goa,West,Malaria,2021,30484,25.47,119691181
+Goa,West,Dengue,2021,30183,25.22,119691181
+Goa,West,HIV/AIDS,2021,61561,51.43,119691181
+Goa,West,Measles,2021,89168,,119691181
+Goa,West,Hepatitis B,2021,33443,27.94,119691181
+Goa,West,Diarrhoeal Disease,2021,518,0.43,119691181
+Goa,West,Pneumonia,2021,86395,72.18,119691181
+Goa,West,Tuberculosis,2022,76425,537.4,14221335
+Goa,West,Malaria,2022,86291,606.77,14221335
+Goa,West,Dengue,2022,66299,466.19,14221335
+Goa,West,HIV/AIDS,2022,82000,576.6,14221335
+Goa,West,Measles,2022,71588,503.38,14221335
+Goa,West,Hepatitis B,2022,32775,230.46,14221335
+Goa,West,Diarrhoeal Disease,2022,91886,646.11,14221335
+Goa,West,Pneumonia,2022,48105,338.26,14221335
+Goa,West,Tuberculosis,2023,39890,78.35,50913560
+Goa,West,Malaria,2023,36162,71.03,50913560
+Goa,West,Dengue,2023,79571,156.29,50913560
+Goa,West,HIV/AIDS,2023,93077,182.81,50913560
+Goa,West,Measles,2023,63340,124.41,50913560
+Goa,West,Hepatitis B,2023,61075,119.96,50913560
+Goa,West,Diarrhoeal Disease,2023,67852,133.27,50913560
+Goa,West,Pneumonia,2023,20226,39.73,50913560
+Goa,West,Tuberculosis,2024,96570,84.78,113908554
+Goa,West,Malaria,2024,45196,39.68,113908554
+Goa,West,Dengue,2024,28101,24.67,113908554
+Goa,West,HIV/AIDS,2024,27659,24.28,113908554
+Goa,West,Measles,2024,10352,9.09,113908554
+Goa,West,Hepatitis B,2024,1442,1.27,113908554
+Goa,West,Diarrhoeal Disease,2024,19470,17.09,113908554
+Goa,West,Pneumonia,2024,6992,6.14,113908554
+Gujarat,West,Tuberculosis,2015,62422,521.74,11964110
+Gujarat,West,Malaria,2015,40568,339.08,11964110
+Gujarat,West,Dengue,2015,95906,801.61,11964110
+Gujarat,West,HIV/AIDS,2015,59864,500.36,11964110
+Gujarat,West,Measles,2015,41126,343.74,11964110
+Gujarat,West,Hepatitis B,2015,92161,770.31,11964110
+Gujarat,West,Diarrhoeal Disease,2015,37685,314.98,11964110
+Gujarat,West,Pneumonia,2015,60775,507.98,11964110
+Gujarat,West,Tuberculosis,2016,35471,52.03,68170211
+Gujarat,West,Malaria,2016,25753,37.78,68170211
+Gujarat,West,Dengue,2016,52874,77.56,68170211
+Gujarat,West,HIV/AIDS,2016,41394,60.72,68170211
+Gujarat,West,Measles,2016,2310,3.39,68170211
+Gujarat,West,Hepatitis B,2016,530,0.78,68170211
+Gujarat,West,Diarrhoeal Disease,2016,44805,65.73,68170211
+Gujarat,West,Pneumonia,2016,55472,81.37,68170211
+Gujarat,West,Tuberculosis,2017,38356,128.41,29869446
+Gujarat,West,Malaria,2017,23488,78.64,29869446
+Gujarat,West,Dengue,2017,86938,291.06,29869446
+Gujarat,West,HIV/AIDS,2017,65749,220.12,29869446
+Gujarat,West,Measles,2017,39458,132.1,29869446
+Gujarat,West,Hepatitis B,2017,23019,77.07,29869446
+Gujarat,West,Diarrhoeal Disease,2017,64894,217.26,29869446
+Gujarat,West,Pneumonia,2017,81120,271.58,29869446
+Gujarat,West,Tuberculosis,2018,71100,112.86,63000532
+Gujarat,West,Malaria,2018,98879,156.95,63000532
+Gujarat,West,Dengue,2018,73900,117.3,63000532
+Gujarat,West,HIV/AIDS,2018,6504,10.32,63000532
+Gujarat,West,Measles,2018,30448,48.33,63000532
+Gujarat,West,Hepatitis B,2018,95487,151.57,63000532
+Gujarat,West,Diarrhoeal Disease,2018,8246,13.09,63000532
+Gujarat,West,Pneumonia,2018,38978,61.87,63000532
+Gujarat,West,Tuberculosis,2019,36195,1924.82,1880439
+Gujarat,West,Malaria,2019,65357,3475.62,1880439
+Gujarat,West,Dengue,2019,68238,3628.83,1880439
+Gujarat,West,HIV/AIDS,2019,9408,500.31,1880439
+Gujarat,West,Measles,2019,61392,3264.77,1880439
+Gujarat,West,Hepatitis B,2019,95297,5067.81,1880439
+Gujarat,West,Diarrhoeal Disease,2019,88229,4691.94,1880439
+Gujarat,West,Pneumonia,2019,89247,4746.07,1880439
+Gujarat,West,Tuberculosis,2020,67170,,117288043
+Gujarat,West,Malaria,2020,54459,46.43,117288043
+Gujarat,West,Dengue,2020,11350,9.68,117288043
+Gujarat,West,HIV/AIDS,2020,84012,,117288043
+Gujarat,West,Measles,2020,95794,81.67,117288043
+Gujarat,West,Hepatitis B,2020,63642,54.26,117288043
+Gujarat,West,Diarrhoeal Disease,2020,97668,83.27,117288043
+Gujarat,West,Pneumonia,2020,56038,47.78,117288043
+Gujarat,West,Tuberculosis,2021,49570,62.61,79171226
+Gujarat,West,Malaria,2021,54143,68.39,79171226
+Gujarat,West,Dengue,2021,79803,100.8,79171226
+Gujarat,West,HIV/AIDS,2021,30300,38.27,79171226
+Gujarat,West,Measles,2021,26547,33.53,79171226
+Gujarat,West,Hepatitis B,2021,60084,75.89,79171226
+Gujarat,West,Diarrhoeal Disease,2021,71783,90.67,79171226
+Gujarat,West,Pneumonia,2021,16325,20.62,79171226
+Gujarat,West,Tuberculosis,2022,55657,471.75,11797945
+Gujarat,West,Malaria,2022,91649,776.82,11797945
+Gujarat,West,Dengue,2022,11499,97.47,11797945
+Gujarat,West,HIV/AIDS,2022,26734,226.6,11797945
+Gujarat,West,Measles,2022,93458,792.15,11797945
+Gujarat,West,Hepatitis B,2022,76914,651.93,11797945
+Gujarat,West,Diarrhoeal Disease,2022,52819,447.7,11797945
+Gujarat,West,Pneumonia,2022,21228,179.93,11797945
+Gujarat,West,Tuberculosis,2023,75339,71.58,105251837
+Gujarat,West,Malaria,2023,5096,4.84,105251837
+Gujarat,West,Dengue,2023,59978,,105251837
+Gujarat,West,HIV/AIDS,2023,48340,45.93,105251837
+Gujarat,West,Measles,2023,32785,31.15,105251837
+Gujarat,West,Hepatitis B,2023,39086,37.14,105251837
+Gujarat,West,Diarrhoeal Disease,2023,90036,85.54,105251837
+Gujarat,West,Pneumonia,2023,49553,47.08,105251837
+Gujarat,West,Tuberculosis,2024,72920,6458.81,1129001
+Gujarat,West,Malaria,2024,10526,932.33,1129001
+Gujarat,West,Dengue,2024,10961,970.86,1129001
+Gujarat,West,HIV/AIDS,2024,44474,3939.23,1129001
+Gujarat,West,Measles,2024,37228,3297.43,1129001
+Gujarat,West,Hepatitis B,2024,36967,3274.31,1129001
+Gujarat,West,Diarrhoeal Disease,2024,61645,5460.14,1129001
+Gujarat,West,Pneumonia,2024,84422,,1129001
+Haryana,North,Tuberculosis,2015,51331,342.28,14996646
+Haryana,North,Malaria,2015,21217,141.48,14996646
+Haryana,North,Dengue,2015,14124,94.18,14996646
+Haryana,North,HIV/AIDS,2015,79244,528.41,14996646
+Haryana,North,Measles,2015,9520,63.48,14996646
+Haryana,North,Hepatitis B,2015,99919,666.28,14996646
+Haryana,North,Diarrhoeal Disease,2015,84716,564.9,14996646
+Haryana,North,Pneumonia,2015,47408,316.12,14996646
+Haryana,North,Tuberculosis,2016,54958,147.68,37213897
+Haryana,North,Malaria,2016,46966,126.21,37213897
+Haryana,North,Dengue,2016,23947,64.35,37213897
+Haryana,North,HIV/AIDS,2016,26881,72.23,37213897
+Haryana,North,Measles,2016,56099,,37213897
+Haryana,North,Hepatitis B,2016,63411,170.4,37213897
+Haryana,North,Diarrhoeal Disease,2016,21979,59.06,37213897
+Haryana,North,Pneumonia,2016,80247,215.64,37213897
+Haryana,North,Tuberculosis,2017,32999,39.97,82568270
+Haryana,North,Malaria,2017,25866,31.33,82568270
+Haryana,North,Dengue,2017,11670,14.13,82568270
+Haryana,North,HIV/AIDS,2017,7394,8.96,82568270
+Haryana,North,Measles,2017,11393,13.8,82568270
+Haryana,North,Hepatitis B,2017,18129,21.96,82568270
+Haryana,North,Diarrhoeal Disease,2017,71360,86.43,82568270
+Haryana,North,Pneumonia,2017,70029,84.81,82568270
+Haryana,North,Tuberculosis,2018,27313,32.48,84089180
+Haryana,North,Malaria,2018,15698,18.67,84089180
+Haryana,North,Dengue,2018,38809,46.15,84089180
+Haryana,North,HIV/AIDS,2018,53957,64.17,84089180
+Haryana,North,Measles,2018,10357,12.32,84089180
+Haryana,North,Hepatitis B,2018,72762,86.53,84089180
+Haryana,North,Diarrhoeal Disease,2018,33870,,84089180
+Haryana,North,Pneumonia,2018,66460,,84089180
+Haryana,North,Tuberculosis,2019,40758,,91496278
+Haryana,North,Malaria,2019,33236,36.32,91496278
+Haryana,North,Dengue,2019,49308,53.89,91496278
+Haryana,North,HIV/AIDS,2019,94118,102.87,91496278
+Haryana,North,Measles,2019,77900,85.14,91496278
+Haryana,North,Hepatitis B,2019,87482,95.61,91496278
+Haryana,North,Diarrhoeal Disease,2019,45182,49.38,91496278
+Haryana,North,Pneumonia,2019,94701,103.5,91496278
+Haryana,North,Tuberculosis,2020,40066,37.85,105864156
+Haryana,North,Malaria,2020,66537,62.85,105864156
+Haryana,North,Dengue,2020,8848,8.36,105864156
+Haryana,North,HIV/AIDS,2020,81574,77.06,105864156
+Haryana,North,Measles,2020,32776,30.96,105864156
+Haryana,North,Hepatitis B,2020,65455,61.83,105864156
+Haryana,North,Diarrhoeal Disease,2020,53354,50.4,105864156
+Haryana,North,Pneumonia,2020,4297,,105864156
+Haryana,North,Tuberculosis,2021,62162,51.44,120849600
+Haryana,North,Malaria,2021,84511,69.93,120849600
+Haryana,North,Dengue,2021,33937,28.08,120849600
+Haryana,North,HIV/AIDS,2021,71248,58.96,120849600
+Haryana,North,Measles,2021,17853,14.77,120849600
+Haryana,North,Hepatitis B,2021,6054,5.01,120849600
+Haryana,North,Diarrhoeal Disease,2021,43796,36.24,120849600
+Haryana,North,Pneumonia,2021,80715,66.79,120849600
+Haryana,North,Tuberculosis,2022,89153,100.21,88967216
+Haryana,North,Malaria,2022,22602,25.4,88967216
+Haryana,North,Dengue,2022,41979,47.18,88967216
+Haryana,North,HIV/AIDS,2022,47767,53.69,88967216
+Haryana,North,Measles,2022,68703,77.22,88967216
+Haryana,North,Hepatitis B,2022,30133,33.87,88967216
+Haryana,North,Diarrhoeal Disease,2022,99479,111.82,88967216
+Haryana,North,Pneumonia,2022,1906,2.14,88967216
+Haryana,North,Tuberculosis,2023,75475,73.69,102422948
+Haryana,North,Malaria,2023,7077,6.91,102422948
+Haryana,North,Dengue,2023,18830,18.38,102422948
+Haryana,North,HIV/AIDS,2023,57361,56.0,102422948
+Haryana,North,Measles,2023,6984,6.82,102422948
+Haryana,North,Hepatitis B,2023,97591,95.28,102422948
+Haryana,North,Diarrhoeal Disease,2023,97941,,102422948
+Haryana,North,Pneumonia,2023,13275,12.96,102422948
+Haryana,North,Tuberculosis,2024,19572,25.47,76839710
+Haryana,North,Malaria,2024,41986,54.64,76839710
+Haryana,North,Dengue,2024,39511,51.42,76839710
+Haryana,North,HIV/AIDS,2024,32664,42.51,76839710
+Haryana,North,Measles,2024,776,1.01,76839710
+Haryana,North,Hepatitis B,2024,66086,86.01,76839710
+Haryana,North,Diarrhoeal Disease,2024,18357,23.89,76839710
+Haryana,North,Pneumonia,2024,65165,84.81,76839710
+Himachal Pradesh,North,Tuberculosis,2015,23436,99.89,23462680
+Himachal Pradesh,North,Malaria,2015,41806,178.18,23462680
+Himachal Pradesh,North,Dengue,2015,82247,350.54,23462680
+Himachal Pradesh,North,HIV/AIDS,2015,88156,,23462680
+Himachal Pradesh,North,Measles,2015,60481,257.78,23462680
+Himachal Pradesh,North,Hepatitis B,2015,70523,,23462680
+Himachal Pradesh,North,Diarrhoeal Disease,2015,4185,17.84,23462680
+Himachal Pradesh,North,Pneumonia,2015,51961,221.46,23462680
+Himachal Pradesh,North,Tuberculosis,2016,77540,128.5,60340306
+Himachal Pradesh,North,Malaria,2016,94177,156.08,60340306
+Himachal Pradesh,North,Dengue,2016,87816,145.53,60340306
+Himachal Pradesh,North,HIV/AIDS,2016,32136,53.26,60340306
+Himachal Pradesh,North,Measles,2016,7866,13.04,60340306
+Himachal Pradesh,North,Hepatitis B,2016,34196,56.67,60340306
+Himachal Pradesh,North,Diarrhoeal Disease,2016,78476,130.06,60340306
+Himachal Pradesh,North,Pneumonia,2016,55968,92.75,60340306
+Himachal Pradesh,North,Tuberculosis,2017,91249,75.78,120418538
+Himachal Pradesh,North,Malaria,2017,12612,10.47,120418538
+Himachal Pradesh,North,Dengue,2017,14957,12.42,120418538
+Himachal Pradesh,North,HIV/AIDS,2017,57173,47.48,120418538
+Himachal Pradesh,North,Measles,2017,17786,,120418538
+Himachal Pradesh,North,Hepatitis B,2017,37088,30.8,120418538
+Himachal Pradesh,North,Diarrhoeal Disease,2017,14174,11.77,120418538
+Himachal Pradesh,North,Pneumonia,2017,37302,30.98,120418538
+Himachal Pradesh,North,Tuberculosis,2018,29296,33.08,88559104
+Himachal Pradesh,North,Malaria,2018,47592,53.74,88559104
+Himachal Pradesh,North,Dengue,2018,73712,83.23,88559104
+Himachal Pradesh,North,HIV/AIDS,2018,76043,,88559104
+Himachal Pradesh,North,Measles,2018,73786,83.32,88559104
+Himachal Pradesh,North,Hepatitis B,2018,84050,94.91,88559104
+Himachal Pradesh,North,Diarrhoeal Disease,2018,98509,111.24,88559104
+Himachal Pradesh,North,Pneumonia,2018,18528,20.92,88559104
+Himachal Pradesh,North,Tuberculosis,2019,74531,1082.6,6884458
+Himachal Pradesh,North,Malaria,2019,67816,985.06,6884458
+Himachal Pradesh,North,Dengue,2019,14416,209.4,6884458
+Himachal Pradesh,North,HIV/AIDS,2019,90242,1310.81,6884458
+Himachal Pradesh,North,Measles,2019,19144,278.08,6884458
+Himachal Pradesh,North,Hepatitis B,2019,96630,1403.6,6884458
+Himachal Pradesh,North,Diarrhoeal Disease,2019,64922,943.02,6884458
+Himachal Pradesh,North,Pneumonia,2019,44512,646.56,6884458
+Himachal Pradesh,North,Tuberculosis,2020,7955,8.09,98359598
+Himachal Pradesh,North,Malaria,2020,44633,45.38,98359598
+Himachal Pradesh,North,Dengue,2020,58264,59.24,98359598
+Himachal Pradesh,North,HIV/AIDS,2020,61114,,98359598
+Himachal Pradesh,North,Measles,2020,15404,15.66,98359598
+Himachal Pradesh,North,Hepatitis B,2020,90865,92.38,98359598
+Himachal Pradesh,North,Diarrhoeal Disease,2020,58993,59.98,98359598
+Himachal Pradesh,North,Pneumonia,2020,72976,74.19,98359598
+Himachal Pradesh,North,Tuberculosis,2021,29454,170.89,17235909
+Himachal Pradesh,North,Malaria,2021,83642,485.28,17235909
+Himachal Pradesh,North,Dengue,2021,78009,452.6,17235909
+Himachal Pradesh,North,HIV/AIDS,2021,51516,298.89,17235909
+Himachal Pradesh,North,Measles,2021,33067,191.85,17235909
+Himachal Pradesh,North,Hepatitis B,2021,79968,463.96,17235909
+Himachal Pradesh,North,Diarrhoeal Disease,2021,93759,543.97,17235909
+Himachal Pradesh,North,Pneumonia,2021,69829,405.14,17235909
+Himachal Pradesh,North,Tuberculosis,2022,81461,102.62,79380408
+Himachal Pradesh,North,Malaria,2022,21922,27.62,79380408
+Himachal Pradesh,North,Dengue,2022,2573,3.24,79380408
+Himachal Pradesh,North,HIV/AIDS,2022,63896,80.49,79380408
+Himachal Pradesh,North,Measles,2022,20567,25.91,79380408
+Himachal Pradesh,North,Hepatitis B,2022,90555,114.08,79380408
+Himachal Pradesh,North,Diarrhoeal Disease,2022,45120,56.84,79380408
+Himachal Pradesh,North,Pneumonia,2022,9128,11.5,79380408
+Himachal Pradesh,North,Tuberculosis,2023,196,0.53,37039406
+Himachal Pradesh,North,Malaria,2023,6830,18.44,37039406
+Himachal Pradesh,North,Dengue,2023,88646,239.33,37039406
+Himachal Pradesh,North,HIV/AIDS,2023,98041,264.69,37039406
+Himachal Pradesh,North,Measles,2023,20072,54.19,37039406
+Himachal Pradesh,North,Hepatitis B,2023,73727,199.05,37039406
+Himachal Pradesh,North,Diarrhoeal Disease,2023,95378,257.5,37039406
+Himachal Pradesh,North,Pneumonia,2023,98128,264.93,37039406
+Himachal Pradesh,North,Tuberculosis,2024,25286,26.34,95981359
+Himachal Pradesh,North,Malaria,2024,81792,85.22,95981359
+Himachal Pradesh,North,Dengue,2024,16212,16.89,95981359
+Himachal Pradesh,North,HIV/AIDS,2024,14155,14.75,95981359
+Himachal Pradesh,North,Measles,2024,3012,3.14,95981359
+Himachal Pradesh,North,Hepatitis B,2024,71624,74.62,95981359
+Himachal Pradesh,North,Diarrhoeal Disease,2024,74338,77.45,95981359
+Himachal Pradesh,North,Pneumonia,2024,93133,97.03,95981359
+Jharkhand,East,Tuberculosis,2015,55088,93.38,58990837
+Jharkhand,East,Malaria,2015,66398,112.56,58990837
+Jharkhand,East,Dengue,2015,84798,143.75,58990837
+Jharkhand,East,HIV/AIDS,2015,6170,10.46,58990837
+Jharkhand,East,Measles,2015,56115,95.12,58990837
+Jharkhand,East,Hepatitis B,2015,10903,18.48,58990837
+Jharkhand,East,Diarrhoeal Disease,2015,67048,113.66,58990837
+Jharkhand,East,Pneumonia,2015,16727,28.36,58990837
+Jharkhand,East,Tuberculosis,2016,82214,70.86,116015215
+Jharkhand,East,Malaria,2016,7184,6.19,116015215
+Jharkhand,East,Dengue,2016,89283,76.96,116015215
+Jharkhand,East,HIV/AIDS,2016,77830,67.09,116015215
+Jharkhand,East,Measles,2016,42668,36.78,116015215
+Jharkhand,East,Hepatitis B,2016,23055,19.87,116015215
+Jharkhand,East,Diarrhoeal Disease,2016,58956,50.82,116015215
+Jharkhand,East,Pneumonia,2016,86807,74.82,116015215
+Jharkhand,East,Tuberculosis,2017,78720,308.03,25555554
+Jharkhand,East,Malaria,2017,30154,117.99,25555554
+Jharkhand,East,Dengue,2017,52254,204.47,25555554
+Jharkhand,East,HIV/AIDS,2017,13068,51.14,25555554
+Jharkhand,East,Measles,2017,50160,196.28,25555554
+Jharkhand,East,Hepatitis B,2017,57755,226.0,25555554
+Jharkhand,East,Diarrhoeal Disease,2017,66393,259.8,25555554
+Jharkhand,East,Pneumonia,2017,81557,319.14,25555554
+Jharkhand,East,Tuberculosis,2018,41984,89.15,47095916
+Jharkhand,East,Malaria,2018,45588,96.8,47095916
+Jharkhand,East,Dengue,2018,2819,5.99,47095916
+Jharkhand,East,HIV/AIDS,2018,192,0.41,47095916
+Jharkhand,East,Measles,2018,55527,,47095916
+Jharkhand,East,Hepatitis B,2018,67213,142.72,47095916
+Jharkhand,East,Diarrhoeal Disease,2018,50124,106.43,47095916
+Jharkhand,East,Pneumonia,2018,33169,70.43,47095916
+Jharkhand,East,Tuberculosis,2019,1560,28.57,5459394
+Jharkhand,East,Malaria,2019,44271,810.91,5459394
+Jharkhand,East,Dengue,2019,68140,1248.12,5459394
+Jharkhand,East,HIV/AIDS,2019,50438,923.88,5459394
+Jharkhand,East,Measles,2019,31426,575.63,5459394
+Jharkhand,East,Hepatitis B,2019,54259,993.86,5459394
+Jharkhand,East,Diarrhoeal Disease,2019,84169,1541.73,5459394
+Jharkhand,East,Pneumonia,2019,52069,953.75,5459394
+Jharkhand,East,Tuberculosis,2020,42407,37.32,113627731
+Jharkhand,East,Malaria,2020,63888,56.23,113627731
+Jharkhand,East,Dengue,2020,29652,26.1,113627731
+Jharkhand,East,HIV/AIDS,2020,38195,33.61,113627731
+Jharkhand,East,Measles,2020,78874,69.41,113627731
+Jharkhand,East,Hepatitis B,2020,4169,3.67,113627731
+Jharkhand,East,Diarrhoeal Disease,2020,49004,43.13,113627731
+Jharkhand,East,Pneumonia,2020,1111,0.98,113627731
+Jharkhand,East,Tuberculosis,2021,74072,72.6,102029378
+Jharkhand,East,Malaria,2021,69547,68.16,102029378
+Jharkhand,East,Dengue,2021,46898,45.97,102029378
+Jharkhand,East,HIV/AIDS,2021,99985,98.0,102029378
+Jharkhand,East,Measles,2021,87017,85.29,102029378
+Jharkhand,East,Hepatitis B,2021,8273,8.11,102029378
+Jharkhand,East,Diarrhoeal Disease,2021,56042,54.93,102029378
+Jharkhand,East,Pneumonia,2021,29360,28.78,102029378
+Jharkhand,East,Tuberculosis,2022,55782,,124952409
+Jharkhand,East,Malaria,2022,29877,23.91,124952409
+Jharkhand,East,Dengue,2022,49170,39.35,124952409
+Jharkhand,East,HIV/AIDS,2022,34041,27.24,124952409
+Jharkhand,East,Measles,2022,98178,78.57,124952409
+Jharkhand,East,Hepatitis B,2022,22651,18.13,124952409
+Jharkhand,East,Diarrhoeal Disease,2022,90813,72.68,124952409
+Jharkhand,East,Pneumonia,2022,95951,76.79,124952409
+Jharkhand,East,Tuberculosis,2023,36135,48.33,74762773
+Jharkhand,East,Malaria,2023,68609,91.77,74762773
+Jharkhand,East,Dengue,2023,72225,96.61,74762773
+Jharkhand,East,HIV/AIDS,2023,94634,126.58,74762773
+Jharkhand,East,Measles,2023,66119,88.44,74762773
+Jharkhand,East,Hepatitis B,2023,27264,36.47,74762773
+Jharkhand,East,Diarrhoeal Disease,2023,79816,106.76,74762773
+Jharkhand,East,Pneumonia,2023,28872,38.62,74762773
+Jharkhand,East,Tuberculosis,2024,61700,79.18,77925753
+Jharkhand,East,Malaria,2024,18770,,77925753
+Jharkhand,East,Dengue,2024,44879,57.59,77925753
+Jharkhand,East,HIV/AIDS,2024,47953,,77925753
+Jharkhand,East,Measles,2024,94435,121.19,77925753
+Jharkhand,East,Hepatitis B,2024,66071,84.79,77925753
+Jharkhand,East,Diarrhoeal Disease,2024,38934,49.96,77925753
+Jharkhand,East,Pneumonia,2024,76355,97.98,77925753
+Karnataka,South,Tuberculosis,2015,58443,287.17,20351682
+Karnataka,South,Malaria,2015,55580,273.1,20351682
+Karnataka,South,Dengue,2015,33034,162.32,20351682
+Karnataka,South,HIV/AIDS,2015,93600,459.91,20351682
+Karnataka,South,Measles,2015,31081,152.72,20351682
+Karnataka,South,Hepatitis B,2015,53770,264.2,20351682
+Karnataka,South,Diarrhoeal Disease,2015,72607,356.76,20351682
+Karnataka,South,Pneumonia,2015,38875,191.02,20351682
+Karnataka,South,Tuberculosis,2016,84546,69.8,121125720
+Karnataka,South,Malaria,2016,61318,50.62,121125720
+Karnataka,South,Dengue,2016,65429,54.02,121125720
+Karnataka,South,HIV/AIDS,2016,85791,70.83,121125720
+Karnataka,South,Measles,2016,31748,26.21,121125720
+Karnataka,South,Hepatitis B,2016,95616,78.94,121125720
+Karnataka,South,Diarrhoeal Disease,2016,21243,17.54,121125720
+Karnataka,South,Pneumonia,2016,34553,28.53,121125720
+Karnataka,South,Tuberculosis,2017,75866,81.95,92571938
+Karnataka,South,Malaria,2017,42391,45.79,92571938
+Karnataka,South,Dengue,2017,65449,70.7,92571938
+Karnataka,South,HIV/AIDS,2017,96205,103.92,92571938
+Karnataka,South,Measles,2017,51976,56.15,92571938
+Karnataka,South,Hepatitis B,2017,31955,34.52,92571938
+Karnataka,South,Diarrhoeal Disease,2017,14027,15.15,92571938
+Karnataka,South,Pneumonia,2017,85624,92.49,92571938
+Karnataka,South,Tuberculosis,2018,66266,264.67,25037311
+Karnataka,South,Malaria,2018,92861,370.89,25037311
+Karnataka,South,Dengue,2018,78223,312.43,25037311
+Karnataka,South,HIV/AIDS,2018,12326,49.23,25037311
+Karnataka,South,Measles,2018,29973,119.71,25037311
+Karnataka,South,Hepatitis B,2018,29463,117.68,25037311
+Karnataka,South,Diarrhoeal Disease,2018,59703,,25037311
+Karnataka,South,Pneumonia,2018,41684,166.49,25037311
+Karnataka,South,Tuberculosis,2019,43653,118.86,36725927
+Karnataka,South,Malaria,2019,61973,168.74,36725927
+Karnataka,South,Dengue,2019,27088,73.76,36725927
+Karnataka,South,HIV/AIDS,2019,10483,28.54,36725927
+Karnataka,South,Measles,2019,25448,69.29,36725927
+Karnataka,South,Hepatitis B,2019,36115,98.34,36725927
+Karnataka,South,Diarrhoeal Disease,2019,26365,71.79,36725927
+Karnataka,South,Pneumonia,2019,99483,270.88,36725927
+Karnataka,South,Tuberculosis,2020,8828,20.67,42704683
+Karnataka,South,Malaria,2020,89453,209.47,42704683
+Karnataka,South,Dengue,2020,4549,10.65,42704683
+Karnataka,South,HIV/AIDS,2020,27457,64.3,42704683
+Karnataka,South,Measles,2020,942,,42704683
+Karnataka,South,Hepatitis B,2020,22658,53.06,42704683
+Karnataka,South,Diarrhoeal Disease,2020,4307,10.09,42704683
+Karnataka,South,Pneumonia,2020,10252,24.01,42704683
+Karnataka,South,Tuberculosis,2021,11714,21.36,54836898
+Karnataka,South,Malaria,2021,46734,85.22,54836898
+Karnataka,South,Dengue,2021,87534,159.63,54836898
+Karnataka,South,HIV/AIDS,2021,2020,3.68,54836898
+Karnataka,South,Measles,2021,43326,79.01,54836898
+Karnataka,South,Hepatitis B,2021,34801,63.46,54836898
+Karnataka,South,Diarrhoeal Disease,2021,38200,69.66,54836898
+Karnataka,South,Pneumonia,2021,80974,147.66,54836898
+Karnataka,South,Tuberculosis,2022,43797,43.34,101058127
+Karnataka,South,Malaria,2022,76512,75.71,101058127
+Karnataka,South,Dengue,2022,26707,26.43,101058127
+Karnataka,South,HIV/AIDS,2022,69760,69.03,101058127
+Karnataka,South,Measles,2022,18787,,101058127
+Karnataka,South,Hepatitis B,2022,99560,98.52,101058127
+Karnataka,South,Diarrhoeal Disease,2022,80819,79.97,101058127
+Karnataka,South,Pneumonia,2022,52175,,101058127
+Karnataka,South,Tuberculosis,2023,85624,79.41,107829631
+Karnataka,South,Malaria,2023,63843,59.21,107829631
+Karnataka,South,Dengue,2023,83442,77.38,107829631
+Karnataka,South,HIV/AIDS,2023,23479,21.77,107829631
+Karnataka,South,Measles,2023,79472,73.7,107829631
+Karnataka,South,Hepatitis B,2023,9432,8.75,107829631
+Karnataka,South,Diarrhoeal Disease,2023,26525,24.6,107829631
+Karnataka,South,Pneumonia,2023,50692,47.01,107829631
+Karnataka,South,Tuberculosis,2024,97197,98.94,98237411
+Karnataka,South,Malaria,2024,10286,10.47,98237411
+Karnataka,South,Dengue,2024,93090,94.76,98237411
+Karnataka,South,HIV/AIDS,2024,98582,,98237411
+Karnataka,South,Measles,2024,3891,3.96,98237411
+Karnataka,South,Hepatitis B,2024,40618,41.35,98237411
+Karnataka,South,Diarrhoeal Disease,2024,56391,57.4,98237411
+Karnataka,South,Pneumonia,2024,71035,72.31,98237411
+Kerala,South,Tuberculosis,2015,53802,97.51,55173631
+Kerala,South,Malaria,2015,34129,61.86,55173631
+Kerala,South,Dengue,2015,88514,160.43,55173631
+Kerala,South,HIV/AIDS,2015,85604,,55173631
+Kerala,South,Measles,2015,78027,141.42,55173631
+Kerala,South,Hepatitis B,2015,95502,173.09,55173631
+Kerala,South,Diarrhoeal Disease,2015,54516,98.81,55173631
+Kerala,South,Pneumonia,2015,67768,122.83,55173631
+Kerala,South,Tuberculosis,2016,39418,877.41,4492562
+Kerala,South,Malaria,2016,71609,1593.95,4492562
+Kerala,South,Dengue,2016,64625,1438.49,4492562
+Kerala,South,HIV/AIDS,2016,80644,1795.06,4492562
+Kerala,South,Measles,2016,92841,2066.55,4492562
+Kerala,South,Hepatitis B,2016,89438,1990.8,4492562
+Kerala,South,Diarrhoeal Disease,2016,77514,1725.39,4492562
+Kerala,South,Pneumonia,2016,39370,876.34,4492562
+Kerala,South,Tuberculosis,2017,63085,156.3,40360428
+Kerala,South,Malaria,2017,69015,171.0,40360428
+Kerala,South,Dengue,2017,30886,76.53,40360428
+Kerala,South,HIV/AIDS,2017,96095,238.09,40360428
+Kerala,South,Measles,2017,13481,33.4,40360428
+Kerala,South,Hepatitis B,2017,27857,69.02,40360428
+Kerala,South,Diarrhoeal Disease,2017,23837,59.06,40360428
+Kerala,South,Pneumonia,2017,93065,230.58,40360428
+Kerala,South,Tuberculosis,2018,28808,104.58,27545254
+Kerala,South,Malaria,2018,41209,149.6,27545254
+Kerala,South,Dengue,2018,45180,164.02,27545254
+Kerala,South,HIV/AIDS,2018,65307,237.09,27545254
+Kerala,South,Measles,2018,20716,75.21,27545254
+Kerala,South,Hepatitis B,2018,34165,124.03,27545254
+Kerala,South,Diarrhoeal Disease,2018,39861,144.71,27545254
+Kerala,South,Pneumonia,2018,27637,100.33,27545254
+Kerala,South,Tuberculosis,2019,80463,329.77,24399771
+Kerala,South,Malaria,2019,42209,172.99,24399771
+Kerala,South,Dengue,2019,56871,233.08,24399771
+Kerala,South,HIV/AIDS,2019,12458,51.06,24399771
+Kerala,South,Measles,2019,41485,170.02,24399771
+Kerala,South,Hepatitis B,2019,79716,326.71,24399771
+Kerala,South,Diarrhoeal Disease,2019,27720,113.61,24399771
+Kerala,South,Pneumonia,2019,63737,261.22,24399771
+Kerala,South,Tuberculosis,2020,99874,1175.7,8494890
+Kerala,South,Malaria,2020,98008,1153.73,8494890
+Kerala,South,Dengue,2020,84545,995.25,8494890
+Kerala,South,HIV/AIDS,2020,64734,762.03,8494890
+Kerala,South,Measles,2020,85574,1007.36,8494890
+Kerala,South,Hepatitis B,2020,995,11.71,8494890
+Kerala,South,Diarrhoeal Disease,2020,72979,859.09,8494890
+Kerala,South,Pneumonia,2020,77806,915.92,8494890
+Kerala,South,Tuberculosis,2021,36882,90.55,40729465
+Kerala,South,Malaria,2021,59771,146.75,40729465
+Kerala,South,Dengue,2021,9047,22.21,40729465
+Kerala,South,HIV/AIDS,2021,8042,19.74,40729465
+Kerala,South,Measles,2021,43140,105.92,40729465
+Kerala,South,Hepatitis B,2021,95451,234.35,40729465
+Kerala,South,Diarrhoeal Disease,2021,36544,89.72,40729465
+Kerala,South,Pneumonia,2021,58090,142.62,40729465
+Kerala,South,Tuberculosis,2022,33202,29.36,113085882
+Kerala,South,Malaria,2022,4707,4.16,113085882
+Kerala,South,Dengue,2022,47121,41.67,113085882
+Kerala,South,HIV/AIDS,2022,23324,20.63,113085882
+Kerala,South,Measles,2022,28158,24.9,113085882
+Kerala,South,Hepatitis B,2022,18684,16.52,113085882
+Kerala,South,Diarrhoeal Disease,2022,35149,31.08,113085882
+Kerala,South,Pneumonia,2022,4519,4.0,113085882
+Kerala,South,Tuberculosis,2023,61561,48.06,128090378
+Kerala,South,Malaria,2023,72034,56.24,128090378
+Kerala,South,Dengue,2023,40524,31.64,128090378
+Kerala,South,HIV/AIDS,2023,23843,18.61,128090378
+Kerala,South,Measles,2023,88168,68.83,128090378
+Kerala,South,Hepatitis B,2023,24623,19.22,128090378
+Kerala,South,Diarrhoeal Disease,2023,14953,11.67,128090378
+Kerala,South,Pneumonia,2023,57131,44.6,128090378
+Kerala,South,Tuberculosis,2024,55985,783.06,7149476
+Kerala,South,Malaria,2024,13577,189.9,7149476
+Kerala,South,Dengue,2024,7375,103.15,7149476
+Kerala,South,HIV/AIDS,2024,71183,995.64,7149476
+Kerala,South,Measles,2024,72068,1008.02,7149476
+Kerala,South,Hepatitis B,2024,33995,475.49,7149476
+Kerala,South,Diarrhoeal Disease,2024,64605,903.63,7149476
+Kerala,South,Pneumonia,2024,30434,425.68,7149476
+Madhya Pradesh,Central,Tuberculosis,2015,35050,66.15,52988794
+Madhya Pradesh,Central,Malaria,2015,94510,178.36,52988794
+Madhya Pradesh,Central,Dengue,2015,6487,12.24,52988794
+Madhya Pradesh,Central,HIV/AIDS,2015,30322,57.22,52988794
+Madhya Pradesh,Central,Measles,2015,87267,164.69,52988794
+Madhya Pradesh,Central,Hepatitis B,2015,74640,140.86,52988794
+Madhya Pradesh,Central,Diarrhoeal Disease,2015,77085,145.47,52988794
+Madhya Pradesh,Central,Pneumonia,2015,73005,137.77,52988794
+Madhya Pradesh,Central,Tuberculosis,2016,78580,180.84,43451705
+Madhya Pradesh,Central,Malaria,2016,78005,179.52,43451705
+Madhya Pradesh,Central,Dengue,2016,1354,3.12,43451705
+Madhya Pradesh,Central,HIV/AIDS,2016,99219,228.34,43451705
+Madhya Pradesh,Central,Measles,2016,99844,229.78,43451705
+Madhya Pradesh,Central,Hepatitis B,2016,3303,7.6,43451705
+Madhya Pradesh,Central,Diarrhoeal Disease,2016,5682,13.08,43451705
+Madhya Pradesh,Central,Pneumonia,2016,4064,9.35,43451705
+Madhya Pradesh,Central,Tuberculosis,2017,55627,47.39,117384987
+Madhya Pradesh,Central,Malaria,2017,7551,6.43,117384987
+Madhya Pradesh,Central,Dengue,2017,93262,79.45,117384987
+Madhya Pradesh,Central,HIV/AIDS,2017,51716,44.06,117384987
+Madhya Pradesh,Central,Measles,2017,68890,58.69,117384987
+Madhya Pradesh,Central,Hepatitis B,2017,12167,10.37,117384987
+Madhya Pradesh,Central,Diarrhoeal Disease,2017,68324,58.21,117384987
+Madhya Pradesh,Central,Pneumonia,2017,96469,82.18,117384987
+Madhya Pradesh,Central,Tuberculosis,2018,30859,1274.37,2421519
+Madhya Pradesh,Central,Malaria,2018,77011,3180.28,2421519
+Madhya Pradesh,Central,Dengue,2018,6339,261.78,2421519
+Madhya Pradesh,Central,HIV/AIDS,2018,99695,4117.04,2421519
+Madhya Pradesh,Central,Measles,2018,57503,2374.67,2421519
+Madhya Pradesh,Central,Hepatitis B,2018,55332,2285.01,2421519
+Madhya Pradesh,Central,Diarrhoeal Disease,2018,64072,2645.94,2421519
+Madhya Pradesh,Central,Pneumonia,2018,76076,3141.66,2421519
+Madhya Pradesh,Central,Tuberculosis,2019,3306,3.54,93500554
+Madhya Pradesh,Central,Malaria,2019,48935,52.34,93500554
+Madhya Pradesh,Central,Dengue,2019,44330,47.41,93500554
+Madhya Pradesh,Central,HIV/AIDS,2019,47611,50.92,93500554
+Madhya Pradesh,Central,Measles,2019,90881,97.2,93500554
+Madhya Pradesh,Central,Hepatitis B,2019,91843,98.23,93500554
+Madhya Pradesh,Central,Diarrhoeal Disease,2019,83969,89.81,93500554
+Madhya Pradesh,Central,Pneumonia,2019,68100,72.83,93500554
+Madhya Pradesh,Central,Tuberculosis,2020,23748,36.69,64718949
+Madhya Pradesh,Central,Malaria,2020,6254,9.66,64718949
+Madhya Pradesh,Central,Dengue,2020,88727,137.1,64718949
+Madhya Pradesh,Central,HIV/AIDS,2020,42176,65.17,64718949
+Madhya Pradesh,Central,Measles,2020,9787,15.12,64718949
+Madhya Pradesh,Central,Hepatitis B,2020,9756,15.07,64718949
+Madhya Pradesh,Central,Diarrhoeal Disease,2020,59761,92.34,64718949
+Madhya Pradesh,Central,Pneumonia,2020,32420,50.09,64718949
+Madhya Pradesh,Central,Tuberculosis,2021,78980,194.15,40679136
+Madhya Pradesh,Central,Malaria,2021,90027,221.31,40679136
+Madhya Pradesh,Central,Dengue,2021,98170,241.33,40679136
+Madhya Pradesh,Central,HIV/AIDS,2021,23937,58.84,40679136
+Madhya Pradesh,Central,Measles,2021,58098,142.82,40679136
+Madhya Pradesh,Central,Hepatitis B,2021,80673,198.32,40679136
+Madhya Pradesh,Central,Diarrhoeal Disease,2021,47906,117.77,40679136
+Madhya Pradesh,Central,Pneumonia,2021,20583,50.6,40679136
+Madhya Pradesh,Central,Tuberculosis,2022,47022,,78218575
+Madhya Pradesh,Central,Malaria,2022,36976,47.27,78218575
+Madhya Pradesh,Central,Dengue,2022,34110,43.61,78218575
+Madhya Pradesh,Central,HIV/AIDS,2022,62155,79.46,78218575
+Madhya Pradesh,Central,Measles,2022,80886,103.41,78218575
+Madhya Pradesh,Central,Hepatitis B,2022,6727,8.6,78218575
+Madhya Pradesh,Central,Diarrhoeal Disease,2022,44762,57.23,78218575
+Madhya Pradesh,Central,Pneumonia,2022,29997,38.35,78218575
+Madhya Pradesh,Central,Tuberculosis,2023,69770,117.46,59398809
+Madhya Pradesh,Central,Malaria,2023,45667,76.88,59398809
+Madhya Pradesh,Central,Dengue,2023,12174,20.5,59398809
+Madhya Pradesh,Central,HIV/AIDS,2023,19473,32.78,59398809
+Madhya Pradesh,Central,Measles,2023,52773,,59398809
+Madhya Pradesh,Central,Hepatitis B,2023,26849,45.2,59398809
+Madhya Pradesh,Central,Diarrhoeal Disease,2023,82859,139.5,59398809
+Madhya Pradesh,Central,Pneumonia,2023,32862,55.32,59398809
+Madhya Pradesh,Central,Tuberculosis,2024,79539,84.07,94607815
+Madhya Pradesh,Central,Malaria,2024,65262,68.98,94607815
+Madhya Pradesh,Central,Dengue,2024,15164,,94607815
+Madhya Pradesh,Central,HIV/AIDS,2024,76855,81.24,94607815
+Madhya Pradesh,Central,Measles,2024,95105,100.53,94607815
+Madhya Pradesh,Central,Hepatitis B,2024,95727,101.18,94607815
+Madhya Pradesh,Central,Diarrhoeal Disease,2024,14027,14.83,94607815
+Madhya Pradesh,Central,Pneumonia,2024,91220,96.42,94607815
+Maharashtra,West,Tuberculosis,2015,99060,95.03,104244542
+Maharashtra,West,Malaria,2015,27143,26.04,104244542
+Maharashtra,West,Dengue,2015,95783,91.88,104244542
+Maharashtra,West,HIV/AIDS,2015,64061,61.45,104244542
+Maharashtra,West,Measles,2015,61389,58.89,104244542
+Maharashtra,West,Hepatitis B,2015,50017,47.98,104244542
+Maharashtra,West,Diarrhoeal Disease,2015,18848,18.08,104244542
+Maharashtra,West,Pneumonia,2015,71830,,104244542
+Maharashtra,West,Tuberculosis,2016,34784,137.02,25386737
+Maharashtra,West,Malaria,2016,92803,365.56,25386737
+Maharashtra,West,Dengue,2016,44710,176.12,25386737
+Maharashtra,West,HIV/AIDS,2016,97198,382.87,25386737
+Maharashtra,West,Measles,2016,25744,101.41,25386737
+Maharashtra,West,Hepatitis B,2016,21536,84.83,25386737
+Maharashtra,West,Diarrhoeal Disease,2016,72818,286.83,25386737
+Maharashtra,West,Pneumonia,2016,79667,313.81,25386737
+Maharashtra,West,Tuberculosis,2017,88683,148.87,59570222
+Maharashtra,West,Malaria,2017,35646,59.84,59570222
+Maharashtra,West,Dengue,2017,92261,154.88,59570222
+Maharashtra,West,HIV/AIDS,2017,17670,29.66,59570222
+Maharashtra,West,Measles,2017,30535,51.26,59570222
+Maharashtra,West,Hepatitis B,2017,9282,15.58,59570222
+Maharashtra,West,Diarrhoeal Disease,2017,9772,16.4,59570222
+Maharashtra,West,Pneumonia,2017,36759,61.71,59570222
+Maharashtra,West,Tuberculosis,2018,20842,20.28,102746977
+Maharashtra,West,Malaria,2018,97057,94.46,102746977
+Maharashtra,West,Dengue,2018,42039,40.92,102746977
+Maharashtra,West,HIV/AIDS,2018,3031,2.95,102746977
+Maharashtra,West,Measles,2018,6125,5.96,102746977
+Maharashtra,West,Hepatitis B,2018,87711,85.37,102746977
+Maharashtra,West,Diarrhoeal Disease,2018,94015,91.5,102746977
+Maharashtra,West,Pneumonia,2018,80797,78.64,102746977
+Maharashtra,West,Tuberculosis,2019,42761,2101.11,2035163
+Maharashtra,West,Malaria,2019,83136,4084.98,2035163
+Maharashtra,West,Dengue,2019,24596,1208.55,2035163
+Maharashtra,West,HIV/AIDS,2019,53256,2616.79,2035163
+Maharashtra,West,Measles,2019,49430,2428.8,2035163
+Maharashtra,West,Hepatitis B,2019,84547,4154.31,2035163
+Maharashtra,West,Diarrhoeal Disease,2019,67530,3318.16,2035163
+Maharashtra,West,Pneumonia,2019,4426,217.48,2035163
+Maharashtra,West,Tuberculosis,2020,8761,8.54,102543168
+Maharashtra,West,Malaria,2020,19999,19.5,102543168
+Maharashtra,West,Dengue,2020,83992,81.91,102543168
+Maharashtra,West,HIV/AIDS,2020,69163,67.45,102543168
+Maharashtra,West,Measles,2020,50064,48.82,102543168
+Maharashtra,West,Hepatitis B,2020,38029,37.09,102543168
+Maharashtra,West,Diarrhoeal Disease,2020,12952,12.63,102543168
+Maharashtra,West,Pneumonia,2020,88193,86.01,102543168
+Maharashtra,West,Tuberculosis,2021,26665,103.61,25734764
+Maharashtra,West,Malaria,2021,80980,314.67,25734764
+Maharashtra,West,Dengue,2021,6471,25.14,25734764
+Maharashtra,West,HIV/AIDS,2021,86406,335.76,25734764
+Maharashtra,West,Measles,2021,84010,,25734764
+Maharashtra,West,Hepatitis B,2021,33326,129.5,25734764
+Maharashtra,West,Diarrhoeal Disease,2021,23949,93.06,25734764
+Maharashtra,West,Pneumonia,2021,70715,274.78,25734764
+Maharashtra,West,Tuberculosis,2022,10583,8.87,119327252
+Maharashtra,West,Malaria,2022,20721,17.36,119327252
+Maharashtra,West,Dengue,2022,31494,26.39,119327252
+Maharashtra,West,HIV/AIDS,2022,63110,52.89,119327252
+Maharashtra,West,Measles,2022,3885,3.26,119327252
+Maharashtra,West,Hepatitis B,2022,2444,2.05,119327252
+Maharashtra,West,Diarrhoeal Disease,2022,11283,9.46,119327252
+Maharashtra,West,Pneumonia,2022,53198,44.58,119327252
+Maharashtra,West,Tuberculosis,2023,1235,1.44,85691793
+Maharashtra,West,Malaria,2023,62272,72.67,85691793
+Maharashtra,West,Dengue,2023,37431,43.68,85691793
+Maharashtra,West,HIV/AIDS,2023,82115,95.83,85691793
+Maharashtra,West,Measles,2023,99276,115.85,85691793
+Maharashtra,West,Hepatitis B,2023,56166,65.54,85691793
+Maharashtra,West,Diarrhoeal Disease,2023,67066,78.26,85691793
+Maharashtra,West,Pneumonia,2023,48004,56.02,85691793
+Maharashtra,West,Tuberculosis,2024,74207,142.66,52017247
+Maharashtra,West,Malaria,2024,80698,155.14,52017247
+Maharashtra,West,Dengue,2024,28185,54.18,52017247
+Maharashtra,West,HIV/AIDS,2024,35206,67.68,52017247
+Maharashtra,West,Measles,2024,23201,44.6,52017247
+Maharashtra,West,Hepatitis B,2024,97210,186.88,52017247
+Maharashtra,West,Diarrhoeal Disease,2024,78517,150.94,52017247
+Maharashtra,West,Pneumonia,2024,82599,158.79,52017247
+Manipur,Northeast,Tuberculosis,2015,73369,72.81,100771191
+Manipur,Northeast,Malaria,2015,84676,84.03,100771191
+Manipur,Northeast,Dengue,2015,14565,14.45,100771191
+Manipur,Northeast,HIV/AIDS,2015,69120,68.59,100771191
+Manipur,Northeast,Measles,2015,15088,14.97,100771191
+Manipur,Northeast,Hepatitis B,2015,89042,88.36,100771191
+Manipur,Northeast,Diarrhoeal Disease,2015,82350,81.72,100771191
+Manipur,Northeast,Pneumonia,2015,97457,96.71,100771191
+Manipur,Northeast,Tuberculosis,2016,55488,74.93,74053650
+Manipur,Northeast,Malaria,2016,15218,,74053650
+Manipur,Northeast,Dengue,2016,59776,80.72,74053650
+Manipur,Northeast,HIV/AIDS,2016,8654,,74053650
+Manipur,Northeast,Measles,2016,72412,97.78,74053650
+Manipur,Northeast,Hepatitis B,2016,35229,47.57,74053650
+Manipur,Northeast,Diarrhoeal Disease,2016,5614,7.58,74053650
+Manipur,Northeast,Pneumonia,2016,19181,25.9,74053650
+Manipur,Northeast,Tuberculosis,2017,87193,361.17,24141983
+Manipur,Northeast,Malaria,2017,19475,,24141983
+Manipur,Northeast,Dengue,2017,28654,118.69,24141983
+Manipur,Northeast,HIV/AIDS,2017,21967,90.99,24141983
+Manipur,Northeast,Measles,2017,85015,352.15,24141983
+Manipur,Northeast,Hepatitis B,2017,26152,108.33,24141983
+Manipur,Northeast,Diarrhoeal Disease,2017,77776,322.16,24141983
+Manipur,Northeast,Pneumonia,2017,90908,376.56,24141983
+Manipur,Northeast,Tuberculosis,2018,48988,1966.94,2490570
+Manipur,Northeast,Malaria,2018,73725,2960.17,2490570
+Manipur,Northeast,Dengue,2018,11831,475.03,2490570
+Manipur,Northeast,HIV/AIDS,2018,70746,2840.55,2490570
+Manipur,Northeast,Measles,2018,16215,651.06,2490570
+Manipur,Northeast,Hepatitis B,2018,83070,3335.38,2490570
+Manipur,Northeast,Diarrhoeal Disease,2018,2809,112.79,2490570
+Manipur,Northeast,Pneumonia,2018,25483,1023.18,2490570
+Manipur,Northeast,Tuberculosis,2019,91461,379.85,24077943
+Manipur,Northeast,Malaria,2019,27109,112.59,24077943
+Manipur,Northeast,Dengue,2019,30638,127.25,24077943
+Manipur,Northeast,HIV/AIDS,2019,91660,380.68,24077943
+Manipur,Northeast,Measles,2019,22936,95.26,24077943
+Manipur,Northeast,Hepatitis B,2019,81846,339.92,24077943
+Manipur,Northeast,Diarrhoeal Disease,2019,1075,4.46,24077943
+Manipur,Northeast,Pneumonia,2019,41665,173.04,24077943
+Manipur,Northeast,Tuberculosis,2020,9457,8.52,110959047
+Manipur,Northeast,Malaria,2020,61843,55.73,110959047
+Manipur,Northeast,Dengue,2020,94862,85.49,110959047
+Manipur,Northeast,HIV/AIDS,2020,44547,40.15,110959047
+Manipur,Northeast,Measles,2020,76390,68.85,110959047
+Manipur,Northeast,Hepatitis B,2020,90787,81.82,110959047
+Manipur,Northeast,Diarrhoeal Disease,2020,786,0.71,110959047
+Manipur,Northeast,Pneumonia,2020,15028,13.54,110959047
+Manipur,Northeast,Tuberculosis,2021,45666,74.3,61457705
+Manipur,Northeast,Malaria,2021,88180,143.48,61457705
+Manipur,Northeast,Dengue,2021,16855,27.43,61457705
+Manipur,Northeast,HIV/AIDS,2021,42562,69.25,61457705
+Manipur,Northeast,Measles,2021,70545,114.79,61457705
+Manipur,Northeast,Hepatitis B,2021,96199,,61457705
+Manipur,Northeast,Diarrhoeal Disease,2021,72863,118.56,61457705
+Manipur,Northeast,Pneumonia,2021,52395,85.25,61457705
+Manipur,Northeast,Tuberculosis,2022,12089,9.45,127946659
+Manipur,Northeast,Malaria,2022,3983,3.11,127946659
+Manipur,Northeast,Dengue,2022,73045,,127946659
+Manipur,Northeast,HIV/AIDS,2022,6291,4.92,127946659
+Manipur,Northeast,Measles,2022,41287,32.27,127946659
+Manipur,Northeast,Hepatitis B,2022,22079,17.26,127946659
+Manipur,Northeast,Diarrhoeal Disease,2022,47182,36.88,127946659
+Manipur,Northeast,Pneumonia,2022,15361,12.01,127946659
+Manipur,Northeast,Tuberculosis,2023,42101,64.8,64975145
+Manipur,Northeast,Malaria,2023,95804,147.45,64975145
+Manipur,Northeast,Dengue,2023,98760,152.0,64975145
+Manipur,Northeast,HIV/AIDS,2023,62526,96.23,64975145
+Manipur,Northeast,Measles,2023,6872,10.58,64975145
+Manipur,Northeast,Hepatitis B,2023,95356,146.76,64975145
+Manipur,Northeast,Diarrhoeal Disease,2023,73116,112.53,64975145
+Manipur,Northeast,Pneumonia,2023,55792,85.87,64975145
+Manipur,Northeast,Tuberculosis,2024,19569,15.47,126521278
+Manipur,Northeast,Malaria,2024,92354,72.99,126521278
+Manipur,Northeast,Dengue,2024,52941,41.84,126521278
+Manipur,Northeast,HIV/AIDS,2024,3197,2.53,126521278
+Manipur,Northeast,Measles,2024,86950,68.72,126521278
+Manipur,Northeast,Hepatitis B,2024,52775,41.71,126521278
+Manipur,Northeast,Diarrhoeal Disease,2024,92565,73.16,126521278
+Manipur,Northeast,Pneumonia,2024,70185,55.47,126521278
+Meghalaya,Northeast,Tuberculosis,2015,93986,167.72,56036395
+Meghalaya,Northeast,Malaria,2015,31308,55.87,56036395
+Meghalaya,Northeast,Dengue,2015,88618,158.14,56036395
+Meghalaya,Northeast,HIV/AIDS,2015,94968,169.48,56036395
+Meghalaya,Northeast,Measles,2015,26819,47.86,56036395
+Meghalaya,Northeast,Hepatitis B,2015,42758,76.3,56036395
+Meghalaya,Northeast,Diarrhoeal Disease,2015,73476,131.12,56036395
+Meghalaya,Northeast,Pneumonia,2015,28961,51.68,56036395
+Meghalaya,Northeast,Tuberculosis,2016,14885,20.24,73552182
+Meghalaya,Northeast,Malaria,2016,30283,41.17,73552182
+Meghalaya,Northeast,Dengue,2016,5964,8.11,73552182
+Meghalaya,Northeast,HIV/AIDS,2016,3341,4.54,73552182
+Meghalaya,Northeast,Measles,2016,68490,93.12,73552182
+Meghalaya,Northeast,Hepatitis B,2016,56503,76.82,73552182
+Meghalaya,Northeast,Diarrhoeal Disease,2016,37539,51.04,73552182
+Meghalaya,Northeast,Pneumonia,2016,93642,127.31,73552182
+Meghalaya,Northeast,Tuberculosis,2017,67423,111.84,60285368
+Meghalaya,Northeast,Malaria,2017,25458,42.23,60285368
+Meghalaya,Northeast,Dengue,2017,98867,164.0,60285368
+Meghalaya,Northeast,HIV/AIDS,2017,43501,72.16,60285368
+Meghalaya,Northeast,Measles,2017,40095,66.51,60285368
+Meghalaya,Northeast,Hepatitis B,2017,13406,22.24,60285368
+Meghalaya,Northeast,Diarrhoeal Disease,2017,42391,70.32,60285368
+Meghalaya,Northeast,Pneumonia,2017,87549,145.22,60285368
+Meghalaya,Northeast,Tuberculosis,2018,98884,167.53,59025506
+Meghalaya,Northeast,Malaria,2018,85831,145.41,59025506
+Meghalaya,Northeast,Dengue,2018,34282,58.08,59025506
+Meghalaya,Northeast,HIV/AIDS,2018,93932,159.14,59025506
+Meghalaya,Northeast,Measles,2018,61385,104.0,59025506
+Meghalaya,Northeast,Hepatitis B,2018,74254,125.8,59025506
+Meghalaya,Northeast,Diarrhoeal Disease,2018,69057,117.0,59025506
+Meghalaya,Northeast,Pneumonia,2018,72227,122.37,59025506
+Meghalaya,Northeast,Tuberculosis,2019,29736,102.63,28973832
+Meghalaya,Northeast,Malaria,2019,69235,238.96,28973832
+Meghalaya,Northeast,Dengue,2019,84235,290.73,28973832
+Meghalaya,Northeast,HIV/AIDS,2019,23299,80.41,28973832
+Meghalaya,Northeast,Measles,2019,67402,232.63,28973832
+Meghalaya,Northeast,Hepatitis B,2019,32649,112.68,28973832
+Meghalaya,Northeast,Diarrhoeal Disease,2019,14608,,28973832
+Meghalaya,Northeast,Pneumonia,2019,25841,89.19,28973832
+Meghalaya,Northeast,Tuberculosis,2020,94055,133.11,70660163
+Meghalaya,Northeast,Malaria,2020,18174,25.72,70660163
+Meghalaya,Northeast,Dengue,2020,42222,59.75,70660163
+Meghalaya,Northeast,HIV/AIDS,2020,76131,107.74,70660163
+Meghalaya,Northeast,Measles,2020,31407,44.45,70660163
+Meghalaya,Northeast,Hepatitis B,2020,20380,28.84,70660163
+Meghalaya,Northeast,Diarrhoeal Disease,2020,74845,105.92,70660163
+Meghalaya,Northeast,Pneumonia,2020,59369,84.02,70660163
+Meghalaya,Northeast,Tuberculosis,2021,77630,245.06,31678164
+Meghalaya,Northeast,Malaria,2021,51530,162.67,31678164
+Meghalaya,Northeast,Dengue,2021,67939,214.47,31678164
+Meghalaya,Northeast,HIV/AIDS,2021,79911,252.26,31678164
+Meghalaya,Northeast,Measles,2021,58932,186.03,31678164
+Meghalaya,Northeast,Hepatitis B,2021,86083,271.74,31678164
+Meghalaya,Northeast,Diarrhoeal Disease,2021,70946,223.96,31678164
+Meghalaya,Northeast,Pneumonia,2021,3560,11.24,31678164
+Meghalaya,Northeast,Tuberculosis,2022,13206,15.3,86339524
+Meghalaya,Northeast,Malaria,2022,7022,8.13,86339524
+Meghalaya,Northeast,Dengue,2022,21699,25.13,86339524
+Meghalaya,Northeast,HIV/AIDS,2022,51482,59.63,86339524
+Meghalaya,Northeast,Measles,2022,53610,62.09,86339524
+Meghalaya,Northeast,Hepatitis B,2022,36698,42.5,86339524
+Meghalaya,Northeast,Diarrhoeal Disease,2022,66224,76.7,86339524
+Meghalaya,Northeast,Pneumonia,2022,35070,40.62,86339524
+Meghalaya,Northeast,Tuberculosis,2023,88117,697.65,12630566
+Meghalaya,Northeast,Malaria,2023,33275,263.45,12630566
+Meghalaya,Northeast,Dengue,2023,80548,637.72,12630566
+Meghalaya,Northeast,HIV/AIDS,2023,64684,512.12,12630566
+Meghalaya,Northeast,Measles,2023,68526,542.54,12630566
+Meghalaya,Northeast,Hepatitis B,2023,74825,592.41,12630566
+Meghalaya,Northeast,Diarrhoeal Disease,2023,59047,467.49,12630566
+Meghalaya,Northeast,Pneumonia,2023,69626,551.25,12630566
+Meghalaya,Northeast,Tuberculosis,2024,11426,53.38,21404478
+Meghalaya,Northeast,Malaria,2024,58300,272.37,21404478
+Meghalaya,Northeast,Dengue,2024,56186,262.5,21404478
+Meghalaya,Northeast,HIV/AIDS,2024,31755,148.36,21404478
+Meghalaya,Northeast,Measles,2024,36332,169.74,21404478
+Meghalaya,Northeast,Hepatitis B,2024,30887,144.3,21404478
+Meghalaya,Northeast,Diarrhoeal Disease,2024,93031,434.63,21404478
+Meghalaya,Northeast,Pneumonia,2024,65004,303.69,21404478
+Mizoram,Northeast,Tuberculosis,2015,22281,,84223639
+Mizoram,Northeast,Malaria,2015,2269,2.69,84223639
+Mizoram,Northeast,Dengue,2015,60463,71.79,84223639
+Mizoram,Northeast,HIV/AIDS,2015,35098,41.67,84223639
+Mizoram,Northeast,Measles,2015,8559,10.16,84223639
+Mizoram,Northeast,Hepatitis B,2015,7988,9.48,84223639
+Mizoram,Northeast,Diarrhoeal Disease,2015,12827,,84223639
+Mizoram,Northeast,Pneumonia,2015,43880,52.1,84223639
+Mizoram,Northeast,Tuberculosis,2016,42194,275.86,15295395
+Mizoram,Northeast,Malaria,2016,54851,358.61,15295395
+Mizoram,Northeast,Dengue,2016,44629,291.78,15295395
+Mizoram,Northeast,HIV/AIDS,2016,67640,442.22,15295395
+Mizoram,Northeast,Measles,2016,17964,117.45,15295395
+Mizoram,Northeast,Hepatitis B,2016,82933,542.21,15295395
+Mizoram,Northeast,Diarrhoeal Disease,2016,6738,44.05,15295395
+Mizoram,Northeast,Pneumonia,2016,92706,606.1,15295395
+Mizoram,Northeast,Tuberculosis,2017,39180,713.53,5491043
+Mizoram,Northeast,Malaria,2017,430,7.83,5491043
+Mizoram,Northeast,Dengue,2017,62914,1145.76,5491043
+Mizoram,Northeast,HIV/AIDS,2017,36945,672.82,5491043
+Mizoram,Northeast,Measles,2017,94473,1720.49,5491043
+Mizoram,Northeast,Hepatitis B,2017,13324,242.65,5491043
+Mizoram,Northeast,Diarrhoeal Disease,2017,79429,1446.52,5491043
+Mizoram,Northeast,Pneumonia,2017,2298,41.85,5491043
+Mizoram,Northeast,Tuberculosis,2018,49412,244.4,20217793
+Mizoram,Northeast,Malaria,2018,90392,447.09,20217793
+Mizoram,Northeast,Dengue,2018,34504,170.66,20217793
+Mizoram,Northeast,HIV/AIDS,2018,99115,490.24,20217793
+Mizoram,Northeast,Measles,2018,12613,62.39,20217793
+Mizoram,Northeast,Hepatitis B,2018,96582,477.71,20217793
+Mizoram,Northeast,Diarrhoeal Disease,2018,27873,137.86,20217793
+Mizoram,Northeast,Pneumonia,2018,26920,133.15,20217793
+Mizoram,Northeast,Tuberculosis,2019,36215,60.39,59967826
+Mizoram,Northeast,Malaria,2019,13034,21.73,59967826
+Mizoram,Northeast,Dengue,2019,31026,51.74,59967826
+Mizoram,Northeast,HIV/AIDS,2019,95489,159.23,59967826
+Mizoram,Northeast,Measles,2019,49168,81.99,59967826
+Mizoram,Northeast,Hepatitis B,2019,18242,30.42,59967826
+Mizoram,Northeast,Diarrhoeal Disease,2019,1563,2.61,59967826
+Mizoram,Northeast,Pneumonia,2019,29831,49.75,59967826
+Mizoram,Northeast,Tuberculosis,2020,92889,248.81,37332630
+Mizoram,Northeast,Malaria,2020,44795,119.99,37332630
+Mizoram,Northeast,Dengue,2020,57148,153.08,37332630
+Mizoram,Northeast,HIV/AIDS,2020,64209,171.99,37332630
+Mizoram,Northeast,Measles,2020,6386,,37332630
+Mizoram,Northeast,Hepatitis B,2020,62420,167.2,37332630
+Mizoram,Northeast,Diarrhoeal Disease,2020,83444,223.51,37332630
+Mizoram,Northeast,Pneumonia,2020,5075,13.59,37332630
+Mizoram,Northeast,Tuberculosis,2021,97559,112.2,86948981
+Mizoram,Northeast,Malaria,2021,50596,58.19,86948981
+Mizoram,Northeast,Dengue,2021,53248,61.24,86948981
+Mizoram,Northeast,HIV/AIDS,2021,52638,60.54,86948981
+Mizoram,Northeast,Measles,2021,839,0.96,86948981
+Mizoram,Northeast,Hepatitis B,2021,17762,20.43,86948981
+Mizoram,Northeast,Diarrhoeal Disease,2021,62141,71.47,86948981
+Mizoram,Northeast,Pneumonia,2021,85717,98.58,86948981
+Mizoram,Northeast,Tuberculosis,2022,80530,80.15,100469695
+Mizoram,Northeast,Malaria,2022,50315,50.08,100469695
+Mizoram,Northeast,Dengue,2022,56705,56.44,100469695
+Mizoram,Northeast,HIV/AIDS,2022,25350,25.23,100469695
+Mizoram,Northeast,Measles,2022,4089,4.07,100469695
+Mizoram,Northeast,Hepatitis B,2022,70117,69.79,100469695
+Mizoram,Northeast,Diarrhoeal Disease,2022,17669,17.59,100469695
+Mizoram,Northeast,Pneumonia,2022,41789,41.59,100469695
+Mizoram,Northeast,Tuberculosis,2023,90069,86.39,104255890
+Mizoram,Northeast,Malaria,2023,82316,78.96,104255890
+Mizoram,Northeast,Dengue,2023,81118,77.81,104255890
+Mizoram,Northeast,HIV/AIDS,2023,13264,12.72,104255890
+Mizoram,Northeast,Measles,2023,58849,56.45,104255890
+Mizoram,Northeast,Hepatitis B,2023,13653,13.1,104255890
+Mizoram,Northeast,Diarrhoeal Disease,2023,54614,52.38,104255890
+Mizoram,Northeast,Pneumonia,2023,9606,9.21,104255890
+Mizoram,Northeast,Tuberculosis,2024,79466,75.01,105944443
+Mizoram,Northeast,Malaria,2024,57411,54.19,105944443
+Mizoram,Northeast,Dengue,2024,91387,86.26,105944443
+Mizoram,Northeast,HIV/AIDS,2024,37579,35.47,105944443
+Mizoram,Northeast,Measles,2024,83316,78.64,105944443
+Mizoram,Northeast,Hepatitis B,2024,85112,80.34,105944443
+Mizoram,Northeast,Diarrhoeal Disease,2024,42663,40.27,105944443
+Mizoram,Northeast,Pneumonia,2024,42423,40.04,105944443
+Nagaland,Northeast,Tuberculosis,2015,25439,66.39,38317202
+Nagaland,Northeast,Malaria,2015,1853,4.84,38317202
+Nagaland,Northeast,Dengue,2015,31667,82.64,38317202
+Nagaland,Northeast,HIV/AIDS,2015,77071,201.14,38317202
+Nagaland,Northeast,Measles,2015,81028,211.47,38317202
+Nagaland,Northeast,Hepatitis B,2015,31794,82.98,38317202
+Nagaland,Northeast,Diarrhoeal Disease,2015,52049,135.84,38317202
+Nagaland,Northeast,Pneumonia,2015,79908,208.54,38317202
+Nagaland,Northeast,Tuberculosis,2016,92397,110.1,83917718
+Nagaland,Northeast,Malaria,2016,29995,35.74,83917718
+Nagaland,Northeast,Dengue,2016,31225,37.21,83917718
+Nagaland,Northeast,HIV/AIDS,2016,5125,6.11,83917718
+Nagaland,Northeast,Measles,2016,34236,40.8,83917718
+Nagaland,Northeast,Hepatitis B,2016,45241,53.91,83917718
+Nagaland,Northeast,Diarrhoeal Disease,2016,95072,,83917718
+Nagaland,Northeast,Pneumonia,2016,61439,73.21,83917718
+Nagaland,Northeast,Tuberculosis,2017,90734,826.08,10983663
+Nagaland,Northeast,Malaria,2017,68232,621.21,10983663
+Nagaland,Northeast,Dengue,2017,58707,534.49,10983663
+Nagaland,Northeast,HIV/AIDS,2017,16930,154.14,10983663
+Nagaland,Northeast,Measles,2017,40224,366.22,10983663
+Nagaland,Northeast,Hepatitis B,2017,77220,703.04,10983663
+Nagaland,Northeast,Diarrhoeal Disease,2017,3866,35.2,10983663
+Nagaland,Northeast,Pneumonia,2017,42626,388.09,10983663
+Nagaland,Northeast,Tuberculosis,2018,90971,146.59,62059014
+Nagaland,Northeast,Malaria,2018,52383,84.41,62059014
+Nagaland,Northeast,Dengue,2018,68033,109.63,62059014
+Nagaland,Northeast,HIV/AIDS,2018,80225,129.27,62059014
+Nagaland,Northeast,Measles,2018,64554,104.02,62059014
+Nagaland,Northeast,Hepatitis B,2018,96496,155.49,62059014
+Nagaland,Northeast,Diarrhoeal Disease,2018,10591,17.07,62059014
+Nagaland,Northeast,Pneumonia,2018,22179,35.74,62059014
+Nagaland,Northeast,Tuberculosis,2019,67759,275.86,24562658
+Nagaland,Northeast,Malaria,2019,77378,315.02,24562658
+Nagaland,Northeast,Dengue,2019,10736,43.71,24562658
+Nagaland,Northeast,HIV/AIDS,2019,18972,77.24,24562658
+Nagaland,Northeast,Measles,2019,97197,395.71,24562658
+Nagaland,Northeast,Hepatitis B,2019,49203,200.32,24562658
+Nagaland,Northeast,Diarrhoeal Disease,2019,93724,381.57,24562658
+Nagaland,Northeast,Pneumonia,2019,93478,380.57,24562658
+Nagaland,Northeast,Tuberculosis,2020,23112,89.78,25741941
+Nagaland,Northeast,Malaria,2020,88408,343.44,25741941
+Nagaland,Northeast,Dengue,2020,94489,367.06,25741941
+Nagaland,Northeast,HIV/AIDS,2020,20930,81.31,25741941
+Nagaland,Northeast,Measles,2020,44187,171.65,25741941
+Nagaland,Northeast,Hepatitis B,2020,50369,195.67,25741941
+Nagaland,Northeast,Diarrhoeal Disease,2020,10954,42.55,25741941
+Nagaland,Northeast,Pneumonia,2020,84228,327.2,25741941
+Nagaland,Northeast,Tuberculosis,2021,95294,430.34,22143871
+Nagaland,Northeast,Malaria,2021,88637,400.28,22143871
+Nagaland,Northeast,Dengue,2021,33866,152.94,22143871
+Nagaland,Northeast,HIV/AIDS,2021,46140,208.36,22143871
+Nagaland,Northeast,Measles,2021,14700,66.38,22143871
+Nagaland,Northeast,Hepatitis B,2021,89190,402.78,22143871
+Nagaland,Northeast,Diarrhoeal Disease,2021,85805,387.49,22143871
+Nagaland,Northeast,Pneumonia,2021,2207,9.97,22143871
+Nagaland,Northeast,Tuberculosis,2022,88770,341.32,26008062
+Nagaland,Northeast,Malaria,2022,59708,229.57,26008062
+Nagaland,Northeast,Dengue,2022,79487,305.62,26008062
+Nagaland,Northeast,HIV/AIDS,2022,64939,249.69,26008062
+Nagaland,Northeast,Measles,2022,49735,191.23,26008062
+Nagaland,Northeast,Hepatitis B,2022,93921,361.12,26008062
+Nagaland,Northeast,Diarrhoeal Disease,2022,28183,108.36,26008062
+Nagaland,Northeast,Pneumonia,2022,68705,264.17,26008062
+Nagaland,Northeast,Tuberculosis,2023,44006,36.91,119239516
+Nagaland,Northeast,Malaria,2023,4510,3.78,119239516
+Nagaland,Northeast,Dengue,2023,97928,82.13,119239516
+Nagaland,Northeast,HIV/AIDS,2023,52398,43.94,119239516
+Nagaland,Northeast,Measles,2023,94473,79.23,119239516
+Nagaland,Northeast,Hepatitis B,2023,19593,16.43,119239516
+Nagaland,Northeast,Diarrhoeal Disease,2023,74141,62.18,119239516
+Nagaland,Northeast,Pneumonia,2023,43637,36.6,119239516
+Nagaland,Northeast,Tuberculosis,2024,13251,80.57,16447214
+Nagaland,Northeast,Malaria,2024,95367,579.84,16447214
+Nagaland,Northeast,Dengue,2024,16432,99.91,16447214
+Nagaland,Northeast,HIV/AIDS,2024,98126,596.61,16447214
+Nagaland,Northeast,Measles,2024,79056,480.66,16447214
+Nagaland,Northeast,Hepatitis B,2024,57756,351.16,16447214
+Nagaland,Northeast,Diarrhoeal Disease,2024,28112,170.92,16447214
+Nagaland,Northeast,Pneumonia,2024,77853,473.35,16447214
+Odisha,East,Tuberculosis,2015,43282,221.99,19497442
+Odisha,East,Malaria,2015,69731,357.64,19497442
+Odisha,East,Dengue,2015,8568,43.94,19497442
+Odisha,East,HIV/AIDS,2015,77751,,19497442
+Odisha,East,Measles,2015,7830,40.16,19497442
+Odisha,East,Hepatitis B,2015,75778,388.66,19497442
+Odisha,East,Diarrhoeal Disease,2015,18887,96.87,19497442
+Odisha,East,Pneumonia,2015,84095,431.31,19497442
+Odisha,East,Tuberculosis,2016,76565,271.92,28156794
+Odisha,East,Malaria,2016,94896,337.03,28156794
+Odisha,East,Dengue,2016,44807,159.13,28156794
+Odisha,East,HIV/AIDS,2016,66394,235.8,28156794
+Odisha,East,Measles,2016,61171,217.25,28156794
+Odisha,East,Hepatitis B,2016,54376,193.12,28156794
+Odisha,East,Diarrhoeal Disease,2016,28011,99.48,28156794
+Odisha,East,Pneumonia,2016,78411,278.48,28156794
+Odisha,East,Tuberculosis,2017,53065,207.85,25530362
+Odisha,East,Malaria,2017,42952,168.24,25530362
+Odisha,East,Dengue,2017,56682,222.02,25530362
+Odisha,East,HIV/AIDS,2017,53362,209.01,25530362
+Odisha,East,Measles,2017,30906,121.06,25530362
+Odisha,East,Hepatitis B,2017,7857,30.78,25530362
+Odisha,East,Diarrhoeal Disease,2017,25876,101.35,25530362
+Odisha,East,Pneumonia,2017,31379,122.91,25530362
+Odisha,East,Tuberculosis,2018,19008,25.82,73609839
+Odisha,East,Malaria,2018,87802,119.28,73609839
+Odisha,East,Dengue,2018,80897,109.9,73609839
+Odisha,East,HIV/AIDS,2018,36129,49.08,73609839
+Odisha,East,Measles,2018,82046,111.46,73609839
+Odisha,East,Hepatitis B,2018,84975,115.44,73609839
+Odisha,East,Diarrhoeal Disease,2018,34497,46.86,73609839
+Odisha,East,Pneumonia,2018,89483,121.56,73609839
+Odisha,East,Tuberculosis,2019,57871,55.35,104553090
+Odisha,East,Malaria,2019,5808,5.56,104553090
+Odisha,East,Dengue,2019,12050,11.53,104553090
+Odisha,East,HIV/AIDS,2019,58115,55.58,104553090
+Odisha,East,Measles,2019,74284,71.05,104553090
+Odisha,East,Hepatitis B,2019,28123,26.9,104553090
+Odisha,East,Diarrhoeal Disease,2019,53788,51.45,104553090
+Odisha,East,Pneumonia,2019,52323,50.04,104553090
+Odisha,East,Tuberculosis,2020,90785,222.35,40830465
+Odisha,East,Malaria,2020,47324,115.9,40830465
+Odisha,East,Dengue,2020,89805,219.95,40830465
+Odisha,East,HIV/AIDS,2020,64583,158.17,40830465
+Odisha,East,Measles,2020,21692,53.13,40830465
+Odisha,East,Hepatitis B,2020,19442,47.62,40830465
+Odisha,East,Diarrhoeal Disease,2020,37351,91.48,40830465
+Odisha,East,Pneumonia,2020,44473,108.92,40830465
+Odisha,East,Tuberculosis,2021,28078,28.85,97313146
+Odisha,East,Malaria,2021,41806,42.96,97313146
+Odisha,East,Dengue,2021,46837,48.13,97313146
+Odisha,East,HIV/AIDS,2021,25771,26.48,97313146
+Odisha,East,Measles,2021,86787,89.18,97313146
+Odisha,East,Hepatitis B,2021,70192,72.13,97313146
+Odisha,East,Diarrhoeal Disease,2021,27571,,97313146
+Odisha,East,Pneumonia,2021,78996,81.18,97313146
+Odisha,East,Tuberculosis,2022,32957,45.25,72837171
+Odisha,East,Malaria,2022,39598,54.37,72837171
+Odisha,East,Dengue,2022,81440,111.81,72837171
+Odisha,East,HIV/AIDS,2022,32217,44.23,72837171
+Odisha,East,Measles,2022,41531,57.02,72837171
+Odisha,East,Hepatitis B,2022,9098,12.49,72837171
+Odisha,East,Diarrhoeal Disease,2022,76219,104.64,72837171
+Odisha,East,Pneumonia,2022,30192,41.45,72837171
+Odisha,East,Tuberculosis,2023,33652,38.08,88361947
+Odisha,East,Malaria,2023,49057,55.52,88361947
+Odisha,East,Dengue,2023,63258,71.59,88361947
+Odisha,East,HIV/AIDS,2023,22894,25.91,88361947
+Odisha,East,Measles,2023,24984,28.27,88361947
+Odisha,East,Hepatitis B,2023,15488,17.53,88361947
+Odisha,East,Diarrhoeal Disease,2023,12844,14.54,88361947
+Odisha,East,Pneumonia,2023,26298,29.76,88361947
+Odisha,East,Tuberculosis,2024,4419,5.35,82580344
+Odisha,East,Malaria,2024,89773,108.71,82580344
+Odisha,East,Dengue,2024,6575,7.96,82580344
+Odisha,East,HIV/AIDS,2024,53512,64.8,82580344
+Odisha,East,Measles,2024,76529,92.67,82580344
+Odisha,East,Hepatitis B,2024,73549,89.06,82580344
+Odisha,East,Diarrhoeal Disease,2024,96551,116.92,82580344
+Odisha,East,Pneumonia,2024,44141,53.45,82580344
+Punjab,North,Tuberculosis,2015,7186,16.19,44391686
+Punjab,North,Malaria,2015,90371,203.58,44391686
+Punjab,North,Dengue,2015,205,0.46,44391686
+Punjab,North,HIV/AIDS,2015,70175,158.08,44391686
+Punjab,North,Measles,2015,44373,99.96,44391686
+Punjab,North,Hepatitis B,2015,97502,219.64,44391686
+Punjab,North,Diarrhoeal Disease,2015,10069,22.68,44391686
+Punjab,North,Pneumonia,2015,19327,43.54,44391686
+Punjab,North,Tuberculosis,2016,89298,463.14,19281078
+Punjab,North,Malaria,2016,80048,415.16,19281078
+Punjab,North,Dengue,2016,43091,223.49,19281078
+Punjab,North,HIV/AIDS,2016,8678,45.01,19281078
+Punjab,North,Measles,2016,8370,43.41,19281078
+Punjab,North,Hepatitis B,2016,14211,73.7,19281078
+Punjab,North,Diarrhoeal Disease,2016,22679,117.62,19281078
+Punjab,North,Pneumonia,2016,59257,307.33,19281078
+Punjab,North,Tuberculosis,2017,24816,201.47,12317298
+Punjab,North,Malaria,2017,74643,606.0,12317298
+Punjab,North,Dengue,2017,60710,492.88,12317298
+Punjab,North,HIV/AIDS,2017,49823,404.5,12317298
+Punjab,North,Measles,2017,31983,259.66,12317298
+Punjab,North,Hepatitis B,2017,89534,726.9,12317298
+Punjab,North,Diarrhoeal Disease,2017,71784,582.79,12317298
+Punjab,North,Pneumonia,2017,24843,201.69,12317298
+Punjab,North,Tuberculosis,2018,24824,56.02,44311267
+Punjab,North,Malaria,2018,12165,27.45,44311267
+Punjab,North,Dengue,2018,44204,99.76,44311267
+Punjab,North,HIV/AIDS,2018,57649,130.1,44311267
+Punjab,North,Measles,2018,6422,14.49,44311267
+Punjab,North,Hepatitis B,2018,82417,,44311267
+Punjab,North,Diarrhoeal Disease,2018,71838,162.12,44311267
+Punjab,North,Pneumonia,2018,35739,80.65,44311267
+Punjab,North,Tuberculosis,2019,17118,154.54,11076721
+Punjab,North,Malaria,2019,82087,741.08,11076721
+Punjab,North,Dengue,2019,31794,287.03,11076721
+Punjab,North,HIV/AIDS,2019,65388,590.32,11076721
+Punjab,North,Measles,2019,17546,158.4,11076721
+Punjab,North,Hepatitis B,2019,75958,685.74,11076721
+Punjab,North,Diarrhoeal Disease,2019,21106,190.54,11076721
+Punjab,North,Pneumonia,2019,78968,712.92,11076721
+Punjab,North,Tuberculosis,2020,28035,138.12,20298157
+Punjab,North,Malaria,2020,5209,25.66,20298157
+Punjab,North,Dengue,2020,30077,148.18,20298157
+Punjab,North,HIV/AIDS,2020,66988,330.02,20298157
+Punjab,North,Measles,2020,226,1.11,20298157
+Punjab,North,Hepatitis B,2020,19042,93.81,20298157
+Punjab,North,Diarrhoeal Disease,2020,84446,416.03,20298157
+Punjab,North,Pneumonia,2020,59152,291.42,20298157
+Punjab,North,Tuberculosis,2021,48311,,124628169
+Punjab,North,Malaria,2021,34006,27.29,124628169
+Punjab,North,Dengue,2021,31148,24.99,124628169
+Punjab,North,HIV/AIDS,2021,4090,3.28,124628169
+Punjab,North,Measles,2021,99022,79.45,124628169
+Punjab,North,Hepatitis B,2021,8329,6.68,124628169
+Punjab,North,Diarrhoeal Disease,2021,23765,19.07,124628169
+Punjab,North,Pneumonia,2021,20634,16.56,124628169
+Punjab,North,Tuberculosis,2022,52784,48.3,109294655
+Punjab,North,Malaria,2022,14279,13.06,109294655
+Punjab,North,Dengue,2022,8602,7.87,109294655
+Punjab,North,HIV/AIDS,2022,27990,25.61,109294655
+Punjab,North,Measles,2022,89861,82.22,109294655
+Punjab,North,Hepatitis B,2022,43183,39.51,109294655
+Punjab,North,Diarrhoeal Disease,2022,88154,,109294655
+Punjab,North,Pneumonia,2022,65477,59.91,109294655
+Punjab,North,Tuberculosis,2023,78918,76.12,103669066
+Punjab,North,Malaria,2023,737,0.71,103669066
+Punjab,North,Dengue,2023,99461,95.94,103669066
+Punjab,North,HIV/AIDS,2023,99915,,103669066
+Punjab,North,Measles,2023,18893,18.22,103669066
+Punjab,North,Hepatitis B,2023,56609,,103669066
+Punjab,North,Diarrhoeal Disease,2023,26635,25.69,103669066
+Punjab,North,Pneumonia,2023,68503,66.08,103669066
+Punjab,North,Tuberculosis,2024,95967,366.94,26153672
+Punjab,North,Malaria,2024,3094,11.83,26153672
+Punjab,North,Dengue,2024,53626,205.04,26153672
+Punjab,North,HIV/AIDS,2024,42670,163.15,26153672
+Punjab,North,Measles,2024,58900,225.21,26153672
+Punjab,North,Hepatitis B,2024,44285,169.33,26153672
+Punjab,North,Diarrhoeal Disease,2024,57540,220.01,26153672
+Punjab,North,Pneumonia,2024,92417,353.36,26153672
+Rajasthan,North,Tuberculosis,2015,72582,,116621624
+Rajasthan,North,Malaria,2015,82526,70.76,116621624
+Rajasthan,North,Dengue,2015,48364,41.47,116621624
+Rajasthan,North,HIV/AIDS,2015,77056,66.07,116621624
+Rajasthan,North,Measles,2015,44734,38.36,116621624
+Rajasthan,North,Hepatitis B,2015,65754,56.38,116621624
+Rajasthan,North,Diarrhoeal Disease,2015,44857,38.46,116621624
+Rajasthan,North,Pneumonia,2015,46897,40.21,116621624
+Rajasthan,North,Tuberculosis,2016,19514,111.43,17512406
+Rajasthan,North,Malaria,2016,26685,152.38,17512406
+Rajasthan,North,Dengue,2016,70614,403.22,17512406
+Rajasthan,North,HIV/AIDS,2016,68718,392.4,17512406
+Rajasthan,North,Measles,2016,10001,57.11,17512406
+Rajasthan,North,Hepatitis B,2016,42282,241.44,17512406
+Rajasthan,North,Diarrhoeal Disease,2016,291,1.66,17512406
+Rajasthan,North,Pneumonia,2016,86907,496.26,17512406
+Rajasthan,North,Tuberculosis,2017,93572,204.17,45830531
+Rajasthan,North,Malaria,2017,38031,82.98,45830531
+Rajasthan,North,Dengue,2017,86926,189.67,45830531
+Rajasthan,North,HIV/AIDS,2017,56359,122.97,45830531
+Rajasthan,North,Measles,2017,41520,90.59,45830531
+Rajasthan,North,Hepatitis B,2017,9711,21.19,45830531
+Rajasthan,North,Diarrhoeal Disease,2017,50196,109.53,45830531
+Rajasthan,North,Pneumonia,2017,55030,120.07,45830531
+Rajasthan,North,Tuberculosis,2018,49248,41.02,120055731
+Rajasthan,North,Malaria,2018,25608,21.33,120055731
+Rajasthan,North,Dengue,2018,6845,5.7,120055731
+Rajasthan,North,HIV/AIDS,2018,33714,28.08,120055731
+Rajasthan,North,Measles,2018,183,0.15,120055731
+Rajasthan,North,Hepatitis B,2018,96476,80.36,120055731
+Rajasthan,North,Diarrhoeal Disease,2018,31443,26.19,120055731
+Rajasthan,North,Pneumonia,2018,16776,13.97,120055731
+Rajasthan,North,Tuberculosis,2019,84878,81.99,103517500
+Rajasthan,North,Malaria,2019,92173,89.04,103517500
+Rajasthan,North,Dengue,2019,45901,44.34,103517500
+Rajasthan,North,HIV/AIDS,2019,67952,65.64,103517500
+Rajasthan,North,Measles,2019,51425,,103517500
+Rajasthan,North,Hepatitis B,2019,23982,23.17,103517500
+Rajasthan,North,Diarrhoeal Disease,2019,5762,5.57,103517500
+Rajasthan,North,Pneumonia,2019,23844,23.03,103517500
+Rajasthan,North,Tuberculosis,2020,33487,53.29,62844328
+Rajasthan,North,Malaria,2020,6654,10.59,62844328
+Rajasthan,North,Dengue,2020,79963,127.24,62844328
+Rajasthan,North,HIV/AIDS,2020,60853,96.83,62844328
+Rajasthan,North,Measles,2020,15634,24.88,62844328
+Rajasthan,North,Hepatitis B,2020,69944,,62844328
+Rajasthan,North,Diarrhoeal Disease,2020,19694,31.34,62844328
+Rajasthan,North,Pneumonia,2020,54683,87.01,62844328
+Rajasthan,North,Tuberculosis,2021,83983,86.98,96559053
+Rajasthan,North,Malaria,2021,94275,97.63,96559053
+Rajasthan,North,Dengue,2021,36379,37.68,96559053
+Rajasthan,North,HIV/AIDS,2021,58244,60.32,96559053
+Rajasthan,North,Measles,2021,78858,81.67,96559053
+Rajasthan,North,Hepatitis B,2021,68273,70.71,96559053
+Rajasthan,North,Diarrhoeal Disease,2021,43699,45.26,96559053
+Rajasthan,North,Pneumonia,2021,81111,84.0,96559053
+Rajasthan,North,Tuberculosis,2022,25230,,77129919
+Rajasthan,North,Malaria,2022,31000,40.19,77129919
+Rajasthan,North,Dengue,2022,37372,48.45,77129919
+Rajasthan,North,HIV/AIDS,2022,3297,,77129919
+Rajasthan,North,Measles,2022,82006,106.32,77129919
+Rajasthan,North,Hepatitis B,2022,79920,103.62,77129919
+Rajasthan,North,Diarrhoeal Disease,2022,65291,84.65,77129919
+Rajasthan,North,Pneumonia,2022,40919,53.05,77129919
+Rajasthan,North,Tuberculosis,2023,42173,92.7,45495110
+Rajasthan,North,Malaria,2023,2444,5.37,45495110
+Rajasthan,North,Dengue,2023,83042,182.53,45495110
+Rajasthan,North,HIV/AIDS,2023,46049,101.22,45495110
+Rajasthan,North,Measles,2023,89973,197.76,45495110
+Rajasthan,North,Hepatitis B,2023,3243,7.13,45495110
+Rajasthan,North,Diarrhoeal Disease,2023,87656,192.67,45495110
+Rajasthan,North,Pneumonia,2023,55662,122.35,45495110
+Rajasthan,North,Tuberculosis,2024,58102,,84513809
+Rajasthan,North,Malaria,2024,37586,44.47,84513809
+Rajasthan,North,Dengue,2024,60890,72.05,84513809
+Rajasthan,North,HIV/AIDS,2024,73501,,84513809
+Rajasthan,North,Measles,2024,73050,86.44,84513809
+Rajasthan,North,Hepatitis B,2024,37417,44.27,84513809
+Rajasthan,North,Diarrhoeal Disease,2024,74228,87.83,84513809
+Rajasthan,North,Pneumonia,2024,67420,,84513809
+Sikkim,Northeast,Tuberculosis,2015,98446,110.25,89294413
+Sikkim,Northeast,Malaria,2015,41192,46.13,89294413
+Sikkim,Northeast,Dengue,2015,13210,14.79,89294413
+Sikkim,Northeast,HIV/AIDS,2015,2352,2.63,89294413
+Sikkim,Northeast,Measles,2015,55617,62.28,89294413
+Sikkim,Northeast,Hepatitis B,2015,10230,11.46,89294413
+Sikkim,Northeast,Diarrhoeal Disease,2015,31316,35.07,89294413
+Sikkim,Northeast,Pneumonia,2015,34112,38.2,89294413
+Sikkim,Northeast,Tuberculosis,2016,77970,,96112373
+Sikkim,Northeast,Malaria,2016,48304,50.26,96112373
+Sikkim,Northeast,Dengue,2016,46424,48.3,96112373
+Sikkim,Northeast,HIV/AIDS,2016,31332,32.6,96112373
+Sikkim,Northeast,Measles,2016,49087,51.07,96112373
+Sikkim,Northeast,Hepatitis B,2016,91519,,96112373
+Sikkim,Northeast,Diarrhoeal Disease,2016,54004,56.19,96112373
+Sikkim,Northeast,Pneumonia,2016,37613,,96112373
+Sikkim,Northeast,Tuberculosis,2017,39768,45.56,87285086
+Sikkim,Northeast,Malaria,2017,57291,65.64,87285086
+Sikkim,Northeast,Dengue,2017,88587,101.49,87285086
+Sikkim,Northeast,HIV/AIDS,2017,29058,33.29,87285086
+Sikkim,Northeast,Measles,2017,3509,4.02,87285086
+Sikkim,Northeast,Hepatitis B,2017,29717,,87285086
+Sikkim,Northeast,Diarrhoeal Disease,2017,51185,58.64,87285086
+Sikkim,Northeast,Pneumonia,2017,51507,59.01,87285086
+Sikkim,Northeast,Tuberculosis,2018,33298,89.78,37088107
+Sikkim,Northeast,Malaria,2018,87498,235.92,37088107
+Sikkim,Northeast,Dengue,2018,50938,137.34,37088107
+Sikkim,Northeast,HIV/AIDS,2018,57889,156.09,37088107
+Sikkim,Northeast,Measles,2018,54353,146.55,37088107
+Sikkim,Northeast,Hepatitis B,2018,3595,9.69,37088107
+Sikkim,Northeast,Diarrhoeal Disease,2018,61755,166.51,37088107
+Sikkim,Northeast,Pneumonia,2018,132,0.36,37088107
+Sikkim,Northeast,Tuberculosis,2019,28804,33.52,85925023
+Sikkim,Northeast,Malaria,2019,60515,70.43,85925023
+Sikkim,Northeast,Dengue,2019,55746,64.88,85925023
+Sikkim,Northeast,HIV/AIDS,2019,96627,112.46,85925023
+Sikkim,Northeast,Measles,2019,31701,36.89,85925023
+Sikkim,Northeast,Hepatitis B,2019,94223,109.66,85925023
+Sikkim,Northeast,Diarrhoeal Disease,2019,34540,40.2,85925023
+Sikkim,Northeast,Pneumonia,2019,34328,39.95,85925023
+Sikkim,Northeast,Tuberculosis,2020,38828,37.6,103277924
+Sikkim,Northeast,Malaria,2020,75598,73.2,103277924
+Sikkim,Northeast,Dengue,2020,42320,40.98,103277924
+Sikkim,Northeast,HIV/AIDS,2020,44110,42.71,103277924
+Sikkim,Northeast,Measles,2020,94419,91.42,103277924
+Sikkim,Northeast,Hepatitis B,2020,64532,62.48,103277924
+Sikkim,Northeast,Diarrhoeal Disease,2020,77519,75.06,103277924
+Sikkim,Northeast,Pneumonia,2020,40820,39.52,103277924
+Sikkim,Northeast,Tuberculosis,2021,35407,42.56,83188246
+Sikkim,Northeast,Malaria,2021,59022,70.95,83188246
+Sikkim,Northeast,Dengue,2021,7284,8.76,83188246
+Sikkim,Northeast,HIV/AIDS,2021,45333,54.49,83188246
+Sikkim,Northeast,Measles,2021,79164,95.16,83188246
+Sikkim,Northeast,Hepatitis B,2021,42977,51.66,83188246
+Sikkim,Northeast,Diarrhoeal Disease,2021,31428,37.78,83188246
+Sikkim,Northeast,Pneumonia,2021,95828,115.19,83188246
+Sikkim,Northeast,Tuberculosis,2022,65986,53.62,123060907
+Sikkim,Northeast,Malaria,2022,79270,64.42,123060907
+Sikkim,Northeast,Dengue,2022,79288,64.43,123060907
+Sikkim,Northeast,HIV/AIDS,2022,34010,27.64,123060907
+Sikkim,Northeast,Measles,2022,87063,,123060907
+Sikkim,Northeast,Hepatitis B,2022,94085,76.45,123060907
+Sikkim,Northeast,Diarrhoeal Disease,2022,18043,14.66,123060907
+Sikkim,Northeast,Pneumonia,2022,52708,42.83,123060907
+Sikkim,Northeast,Tuberculosis,2023,75119,121.07,62048017
+Sikkim,Northeast,Malaria,2023,51237,82.58,62048017
+Sikkim,Northeast,Dengue,2023,82273,132.6,62048017
+Sikkim,Northeast,HIV/AIDS,2023,81697,131.67,62048017
+Sikkim,Northeast,Measles,2023,30315,48.86,62048017
+Sikkim,Northeast,Hepatitis B,2023,8766,14.13,62048017
+Sikkim,Northeast,Diarrhoeal Disease,2023,51657,83.25,62048017
+Sikkim,Northeast,Pneumonia,2023,2671,4.3,62048017
+Sikkim,Northeast,Tuberculosis,2024,46729,51.2,91266570
+Sikkim,Northeast,Malaria,2024,10350,11.34,91266570
+Sikkim,Northeast,Dengue,2024,83181,91.14,91266570
+Sikkim,Northeast,HIV/AIDS,2024,61086,66.93,91266570
+Sikkim,Northeast,Measles,2024,8151,8.93,91266570
+Sikkim,Northeast,Hepatitis B,2024,46396,50.84,91266570
+Sikkim,Northeast,Diarrhoeal Disease,2024,39756,,91266570
+Sikkim,Northeast,Pneumonia,2024,63531,69.61,91266570
+Tamil Nadu,South,Tuberculosis,2015,3144,15.87,19813504
+Tamil Nadu,South,Malaria,2015,12512,63.15,19813504
+Tamil Nadu,South,Dengue,2015,33525,169.2,19813504
+Tamil Nadu,South,HIV/AIDS,2015,81745,412.57,19813504
+Tamil Nadu,South,Measles,2015,78142,394.39,19813504
+Tamil Nadu,South,Hepatitis B,2015,3161,15.95,19813504
+Tamil Nadu,South,Diarrhoeal Disease,2015,32285,162.94,19813504
+Tamil Nadu,South,Pneumonia,2015,13207,66.66,19813504
+Tamil Nadu,South,Tuberculosis,2016,78023,210.59,37049283
+Tamil Nadu,South,Malaria,2016,85670,231.23,37049283
+Tamil Nadu,South,Dengue,2016,53220,143.65,37049283
+Tamil Nadu,South,HIV/AIDS,2016,24154,65.19,37049283
+Tamil Nadu,South,Measles,2016,2088,5.64,37049283
+Tamil Nadu,South,Hepatitis B,2016,5851,15.79,37049283
+Tamil Nadu,South,Diarrhoeal Disease,2016,63372,171.05,37049283
+Tamil Nadu,South,Pneumonia,2016,40063,108.13,37049283
+Tamil Nadu,South,Tuberculosis,2017,3781,6.51,58045523
+Tamil Nadu,South,Malaria,2017,97186,167.43,58045523
+Tamil Nadu,South,Dengue,2017,7824,13.48,58045523
+Tamil Nadu,South,HIV/AIDS,2017,20422,35.18,58045523
+Tamil Nadu,South,Measles,2017,55087,94.9,58045523
+Tamil Nadu,South,Hepatitis B,2017,41781,,58045523
+Tamil Nadu,South,Diarrhoeal Disease,2017,97905,168.67,58045523
+Tamil Nadu,South,Pneumonia,2017,45574,78.51,58045523
+Tamil Nadu,South,Tuberculosis,2018,97502,1600.26,6092879
+Tamil Nadu,South,Malaria,2018,82909,1360.75,6092879
+Tamil Nadu,South,Dengue,2018,59331,973.78,6092879
+Tamil Nadu,South,HIV/AIDS,2018,72868,1195.95,6092879
+Tamil Nadu,South,Measles,2018,12901,211.74,6092879
+Tamil Nadu,South,Hepatitis B,2018,89735,1472.78,6092879
+Tamil Nadu,South,Diarrhoeal Disease,2018,88324,1449.63,6092879
+Tamil Nadu,South,Pneumonia,2018,97583,,6092879
+Tamil Nadu,South,Tuberculosis,2019,45239,48.78,92749663
+Tamil Nadu,South,Malaria,2019,2920,3.15,92749663
+Tamil Nadu,South,Dengue,2019,95665,103.14,92749663
+Tamil Nadu,South,HIV/AIDS,2019,45831,49.41,92749663
+Tamil Nadu,South,Measles,2019,85629,92.32,92749663
+Tamil Nadu,South,Hepatitis B,2019,58828,63.43,92749663
+Tamil Nadu,South,Diarrhoeal Disease,2019,50673,,92749663
+Tamil Nadu,South,Pneumonia,2019,764,0.82,92749663
+Tamil Nadu,South,Tuberculosis,2020,5238,43.66,11997982
+Tamil Nadu,South,Malaria,2020,1499,12.49,11997982
+Tamil Nadu,South,Dengue,2020,46146,384.61,11997982
+Tamil Nadu,South,HIV/AIDS,2020,2000,16.67,11997982
+Tamil Nadu,South,Measles,2020,62097,,11997982
+Tamil Nadu,South,Hepatitis B,2020,64134,534.54,11997982
+Tamil Nadu,South,Diarrhoeal Disease,2020,14930,,11997982
+Tamil Nadu,South,Pneumonia,2020,82346,686.33,11997982
+Tamil Nadu,South,Tuberculosis,2021,85405,102.68,83174316
+Tamil Nadu,South,Malaria,2021,86478,103.97,83174316
+Tamil Nadu,South,Dengue,2021,94306,113.38,83174316
+Tamil Nadu,South,HIV/AIDS,2021,26747,32.16,83174316
+Tamil Nadu,South,Measles,2021,97646,117.4,83174316
+Tamil Nadu,South,Hepatitis B,2021,77759,93.49,83174316
+Tamil Nadu,South,Diarrhoeal Disease,2021,67939,81.68,83174316
+Tamil Nadu,South,Pneumonia,2021,76297,91.73,83174316
+Tamil Nadu,South,Tuberculosis,2022,15221,14.02,108547105
+Tamil Nadu,South,Malaria,2022,19375,17.85,108547105
+Tamil Nadu,South,Dengue,2022,89134,82.12,108547105
+Tamil Nadu,South,HIV/AIDS,2022,59046,54.4,108547105
+Tamil Nadu,South,Measles,2022,60224,,108547105
+Tamil Nadu,South,Hepatitis B,2022,9526,8.78,108547105
+Tamil Nadu,South,Diarrhoeal Disease,2022,58112,53.54,108547105
+Tamil Nadu,South,Pneumonia,2022,2013,1.85,108547105
+Tamil Nadu,South,Tuberculosis,2023,72374,553.56,13074332
+Tamil Nadu,South,Malaria,2023,82098,627.93,13074332
+Tamil Nadu,South,Dengue,2023,98707,754.97,13074332
+Tamil Nadu,South,HIV/AIDS,2023,14737,,13074332
+Tamil Nadu,South,Measles,2023,54965,420.4,13074332
+Tamil Nadu,South,Hepatitis B,2023,20809,159.16,13074332
+Tamil Nadu,South,Diarrhoeal Disease,2023,79157,605.44,13074332
+Tamil Nadu,South,Pneumonia,2023,20097,153.71,13074332
+Tamil Nadu,South,Tuberculosis,2024,74149,83.85,88425382
+Tamil Nadu,South,Malaria,2024,51306,58.02,88425382
+Tamil Nadu,South,Dengue,2024,89673,101.41,88425382
+Tamil Nadu,South,HIV/AIDS,2024,67043,75.82,88425382
+Tamil Nadu,South,Measles,2024,64734,73.21,88425382
+Tamil Nadu,South,Hepatitis B,2024,4872,5.51,88425382
+Tamil Nadu,South,Diarrhoeal Disease,2024,93316,105.53,88425382
+Tamil Nadu,South,Pneumonia,2024,22192,25.1,88425382
+Telangana,South,Tuberculosis,2015,79323,1521.66,5212942
+Telangana,South,Malaria,2015,28467,546.08,5212942
+Telangana,South,Dengue,2015,75297,1444.42,5212942
+Telangana,South,HIV/AIDS,2015,20371,390.78,5212942
+Telangana,South,Measles,2015,57115,1095.64,5212942
+Telangana,South,Hepatitis B,2015,88849,1704.39,5212942
+Telangana,South,Diarrhoeal Disease,2015,69980,1342.43,5212942
+Telangana,South,Pneumonia,2015,61172,1173.46,5212942
+Telangana,South,Tuberculosis,2016,98267,159.53,61596177
+Telangana,South,Malaria,2016,26692,43.33,61596177
+Telangana,South,Dengue,2016,71716,116.43,61596177
+Telangana,South,HIV/AIDS,2016,23866,38.75,61596177
+Telangana,South,Measles,2016,27615,44.83,61596177
+Telangana,South,Hepatitis B,2016,34808,56.51,61596177
+Telangana,South,Diarrhoeal Disease,2016,59078,95.91,61596177
+Telangana,South,Pneumonia,2016,59817,97.11,61596177
+Telangana,South,Tuberculosis,2017,97932,366.68,26707845
+Telangana,South,Malaria,2017,71681,268.39,26707845
+Telangana,South,Dengue,2017,34450,128.99,26707845
+Telangana,South,HIV/AIDS,2017,29214,109.38,26707845
+Telangana,South,Measles,2017,32633,122.19,26707845
+Telangana,South,Hepatitis B,2017,72207,270.36,26707845
+Telangana,South,Diarrhoeal Disease,2017,98344,368.22,26707845
+Telangana,South,Pneumonia,2017,38140,142.8,26707845
+Telangana,South,Tuberculosis,2018,82610,67.6,122213129
+Telangana,South,Malaria,2018,3926,3.21,122213129
+Telangana,South,Dengue,2018,9303,7.61,122213129
+Telangana,South,HIV/AIDS,2018,46634,38.16,122213129
+Telangana,South,Measles,2018,89023,72.84,122213129
+Telangana,South,Hepatitis B,2018,3612,2.96,122213129
+Telangana,South,Diarrhoeal Disease,2018,77027,63.03,122213129
+Telangana,South,Pneumonia,2018,34549,28.27,122213129
+Telangana,South,Tuberculosis,2019,83721,107.92,77577306
+Telangana,South,Malaria,2019,76954,99.2,77577306
+Telangana,South,Dengue,2019,24702,31.84,77577306
+Telangana,South,HIV/AIDS,2019,27383,35.3,77577306
+Telangana,South,Measles,2019,43116,55.58,77577306
+Telangana,South,Hepatitis B,2019,82898,106.86,77577306
+Telangana,South,Diarrhoeal Disease,2019,58058,,77577306
+Telangana,South,Pneumonia,2019,94665,122.03,77577306
+Telangana,South,Tuberculosis,2020,50277,54.73,91866089
+Telangana,South,Malaria,2020,25269,27.51,91866089
+Telangana,South,Dengue,2020,10936,11.9,91866089
+Telangana,South,HIV/AIDS,2020,81107,88.29,91866089
+Telangana,South,Measles,2020,61087,66.5,91866089
+Telangana,South,Hepatitis B,2020,45172,49.17,91866089
+Telangana,South,Diarrhoeal Disease,2020,32632,35.52,91866089
+Telangana,South,Pneumonia,2020,23324,25.39,91866089
+Telangana,South,Tuberculosis,2021,68572,94.26,72746837
+Telangana,South,Malaria,2021,30272,41.61,72746837
+Telangana,South,Dengue,2021,4772,6.56,72746837
+Telangana,South,HIV/AIDS,2021,17970,24.7,72746837
+Telangana,South,Measles,2021,44675,61.41,72746837
+Telangana,South,Hepatitis B,2021,83302,114.51,72746837
+Telangana,South,Diarrhoeal Disease,2021,46916,64.49,72746837
+Telangana,South,Pneumonia,2021,55088,75.73,72746837
+Telangana,South,Tuberculosis,2022,76237,87.1,87531283
+Telangana,South,Malaria,2022,89925,102.73,87531283
+Telangana,South,Dengue,2022,81553,93.17,87531283
+Telangana,South,HIV/AIDS,2022,54965,62.79,87531283
+Telangana,South,Measles,2022,8532,9.75,87531283
+Telangana,South,Hepatitis B,2022,85530,97.71,87531283
+Telangana,South,Diarrhoeal Disease,2022,14253,16.28,87531283
+Telangana,South,Pneumonia,2022,8815,10.07,87531283
+Telangana,South,Tuberculosis,2023,50754,41.22,123132650
+Telangana,South,Malaria,2023,14506,11.78,123132650
+Telangana,South,Dengue,2023,93131,75.63,123132650
+Telangana,South,HIV/AIDS,2023,6825,5.54,123132650
+Telangana,South,Measles,2023,51419,41.76,123132650
+Telangana,South,Hepatitis B,2023,64383,52.29,123132650
+Telangana,South,Diarrhoeal Disease,2023,54986,44.66,123132650
+Telangana,South,Pneumonia,2023,50644,41.13,123132650
+Telangana,South,Tuberculosis,2024,32320,88.52,36512174
+Telangana,South,Malaria,2024,51630,141.4,36512174
+Telangana,South,Dengue,2024,15842,43.39,36512174
+Telangana,South,HIV/AIDS,2024,72068,197.38,36512174
+Telangana,South,Measles,2024,82663,226.4,36512174
+Telangana,South,Hepatitis B,2024,76142,208.54,36512174
+Telangana,South,Diarrhoeal Disease,2024,48836,133.75,36512174
+Telangana,South,Pneumonia,2024,19850,54.37,36512174
+Tripura,Northeast,Tuberculosis,2015,76521,384.4,19906627
+Tripura,Northeast,Malaria,2015,68994,346.59,19906627
+Tripura,Northeast,Dengue,2015,38340,192.6,19906627
+Tripura,Northeast,HIV/AIDS,2015,35465,178.16,19906627
+Tripura,Northeast,Measles,2015,47889,240.57,19906627
+Tripura,Northeast,Hepatitis B,2015,46924,235.72,19906627
+Tripura,Northeast,Diarrhoeal Disease,2015,69489,349.07,19906627
+Tripura,Northeast,Pneumonia,2015,35706,179.37,19906627
+Tripura,Northeast,Tuberculosis,2016,916,0.99,92898827
+Tripura,Northeast,Malaria,2016,30377,32.7,92898827
+Tripura,Northeast,Dengue,2016,44117,47.49,92898827
+Tripura,Northeast,HIV/AIDS,2016,25542,,92898827
+Tripura,Northeast,Measles,2016,4668,5.02,92898827
+Tripura,Northeast,Hepatitis B,2016,57474,61.87,92898827
+Tripura,Northeast,Diarrhoeal Disease,2016,71261,76.71,92898827
+Tripura,Northeast,Pneumonia,2016,94658,101.89,92898827
+Tripura,Northeast,Tuberculosis,2017,32065,153.15,20937506
+Tripura,Northeast,Malaria,2017,71604,341.99,20937506
+Tripura,Northeast,Dengue,2017,62658,299.26,20937506
+Tripura,Northeast,HIV/AIDS,2017,21404,102.23,20937506
+Tripura,Northeast,Measles,2017,987,4.71,20937506
+Tripura,Northeast,Hepatitis B,2017,73964,353.26,20937506
+Tripura,Northeast,Diarrhoeal Disease,2017,28435,135.81,20937506
+Tripura,Northeast,Pneumonia,2017,42898,204.89,20937506
+Tripura,Northeast,Tuberculosis,2018,70143,58.91,119077815
+Tripura,Northeast,Malaria,2018,88114,74.0,119077815
+Tripura,Northeast,Dengue,2018,84786,71.2,119077815
+Tripura,Northeast,HIV/AIDS,2018,43754,36.74,119077815
+Tripura,Northeast,Measles,2018,63345,53.2,119077815
+Tripura,Northeast,Hepatitis B,2018,77563,65.14,119077815
+Tripura,Northeast,Diarrhoeal Disease,2018,89864,75.47,119077815
+Tripura,Northeast,Pneumonia,2018,29353,24.65,119077815
+Tripura,Northeast,Tuberculosis,2019,32993,,97975481
+Tripura,Northeast,Malaria,2019,28158,28.74,97975481
+Tripura,Northeast,Dengue,2019,27680,28.25,97975481
+Tripura,Northeast,HIV/AIDS,2019,55986,57.14,97975481
+Tripura,Northeast,Measles,2019,27898,28.47,97975481
+Tripura,Northeast,Hepatitis B,2019,41035,41.88,97975481
+Tripura,Northeast,Diarrhoeal Disease,2019,17434,17.79,97975481
+Tripura,Northeast,Pneumonia,2019,92892,94.81,97975481
+Tripura,Northeast,Tuberculosis,2020,73215,102.41,71494543
+Tripura,Northeast,Malaria,2020,29166,40.79,71494543
+Tripura,Northeast,Dengue,2020,81097,113.43,71494543
+Tripura,Northeast,HIV/AIDS,2020,25904,36.23,71494543
+Tripura,Northeast,Measles,2020,61339,85.8,71494543
+Tripura,Northeast,Hepatitis B,2020,9721,13.6,71494543
+Tripura,Northeast,Diarrhoeal Disease,2020,613,0.86,71494543
+Tripura,Northeast,Pneumonia,2020,79372,111.02,71494543
+Tripura,Northeast,Tuberculosis,2021,10320,42.5,24282390
+Tripura,Northeast,Malaria,2021,84831,349.35,24282390
+Tripura,Northeast,Dengue,2021,40058,164.97,24282390
+Tripura,Northeast,HIV/AIDS,2021,82946,341.59,24282390
+Tripura,Northeast,Measles,2021,80240,330.45,24282390
+Tripura,Northeast,Hepatitis B,2021,97541,401.69,24282390
+Tripura,Northeast,Diarrhoeal Disease,2021,56110,231.07,24282390
+Tripura,Northeast,Pneumonia,2021,29390,121.03,24282390
+Tripura,Northeast,Tuberculosis,2022,55344,50.61,109363518
+Tripura,Northeast,Malaria,2022,38186,34.92,109363518
+Tripura,Northeast,Dengue,2022,21350,19.52,109363518
+Tripura,Northeast,HIV/AIDS,2022,6172,5.64,109363518
+Tripura,Northeast,Measles,2022,81362,74.4,109363518
+Tripura,Northeast,Hepatitis B,2022,39756,36.35,109363518
+Tripura,Northeast,Diarrhoeal Disease,2022,96807,88.52,109363518
+Tripura,Northeast,Pneumonia,2022,20550,18.79,109363518
+Tripura,Northeast,Tuberculosis,2023,58783,47.34,124171221
+Tripura,Northeast,Malaria,2023,19488,15.69,124171221
+Tripura,Northeast,Dengue,2023,2890,2.33,124171221
+Tripura,Northeast,HIV/AIDS,2023,9000,7.25,124171221
+Tripura,Northeast,Measles,2023,57248,46.1,124171221
+Tripura,Northeast,Hepatitis B,2023,37790,30.43,124171221
+Tripura,Northeast,Diarrhoeal Disease,2023,95541,76.94,124171221
+Tripura,Northeast,Pneumonia,2023,38036,30.63,124171221
+Tripura,Northeast,Tuberculosis,2024,29342,203.91,14389890
+Tripura,Northeast,Malaria,2024,31396,218.18,14389890
+Tripura,Northeast,Dengue,2024,90659,,14389890
+Tripura,Northeast,HIV/AIDS,2024,24632,,14389890
+Tripura,Northeast,Measles,2024,30113,209.26,14389890
+Tripura,Northeast,Hepatitis B,2024,27476,190.94,14389890
+Tripura,Northeast,Diarrhoeal Disease,2024,25170,174.91,14389890
+Tripura,Northeast,Pneumonia,2024,70639,490.89,14389890
+Uttar Pradesh,North,Tuberculosis,2015,94847,642.17,14769842
+Uttar Pradesh,North,Malaria,2015,88018,595.93,14769842
+Uttar Pradesh,North,Dengue,2015,94448,639.47,14769842
+Uttar Pradesh,North,HIV/AIDS,2015,90161,610.44,14769842
+Uttar Pradesh,North,Measles,2015,96600,654.04,14769842
+Uttar Pradesh,North,Hepatitis B,2015,37591,254.51,14769842
+Uttar Pradesh,North,Diarrhoeal Disease,2015,24015,162.59,14769842
+Uttar Pradesh,North,Pneumonia,2015,36766,248.93,14769842
+Uttar Pradesh,North,Tuberculosis,2016,94063,841.14,11182750
+Uttar Pradesh,North,Malaria,2016,7499,67.06,11182750
+Uttar Pradesh,North,Dengue,2016,53551,478.87,11182750
+Uttar Pradesh,North,HIV/AIDS,2016,39607,354.18,11182750
+Uttar Pradesh,North,Measles,2016,59569,532.69,11182750
+Uttar Pradesh,North,Hepatitis B,2016,34050,304.49,11182750
+Uttar Pradesh,North,Diarrhoeal Disease,2016,82956,741.82,11182750
+Uttar Pradesh,North,Pneumonia,2016,13252,,11182750
+Uttar Pradesh,North,Tuberculosis,2017,71832,118.23,60757617
+Uttar Pradesh,North,Malaria,2017,96782,159.29,60757617
+Uttar Pradesh,North,Dengue,2017,95220,156.72,60757617
+Uttar Pradesh,North,HIV/AIDS,2017,61900,101.88,60757617
+Uttar Pradesh,North,Measles,2017,58996,97.1,60757617
+Uttar Pradesh,North,Hepatitis B,2017,83382,137.24,60757617
+Uttar Pradesh,North,Diarrhoeal Disease,2017,43809,72.1,60757617
+Uttar Pradesh,North,Pneumonia,2017,21196,,60757617
+Uttar Pradesh,North,Tuberculosis,2018,93689,125.73,74516122
+Uttar Pradesh,North,Malaria,2018,47139,63.26,74516122
+Uttar Pradesh,North,Dengue,2018,1389,1.86,74516122
+Uttar Pradesh,North,HIV/AIDS,2018,33544,45.02,74516122
+Uttar Pradesh,North,Measles,2018,99811,133.95,74516122
+Uttar Pradesh,North,Hepatitis B,2018,79362,106.5,74516122
+Uttar Pradesh,North,Diarrhoeal Disease,2018,81302,109.11,74516122
+Uttar Pradesh,North,Pneumonia,2018,32405,43.49,74516122
+Uttar Pradesh,North,Tuberculosis,2019,51800,285.1,18169209
+Uttar Pradesh,North,Malaria,2019,40787,224.48,18169209
+Uttar Pradesh,North,Dengue,2019,35636,196.13,18169209
+Uttar Pradesh,North,HIV/AIDS,2019,25879,,18169209
+Uttar Pradesh,North,Measles,2019,83059,457.14,18169209
+Uttar Pradesh,North,Hepatitis B,2019,34004,187.15,18169209
+Uttar Pradesh,North,Diarrhoeal Disease,2019,23742,130.67,18169209
+Uttar Pradesh,North,Pneumonia,2019,12565,69.16,18169209
+Uttar Pradesh,North,Tuberculosis,2020,19142,33.95,56385100
+Uttar Pradesh,North,Malaria,2020,14077,24.97,56385100
+Uttar Pradesh,North,Dengue,2020,21473,38.08,56385100
+Uttar Pradesh,North,HIV/AIDS,2020,44352,78.66,56385100
+Uttar Pradesh,North,Measles,2020,41414,73.45,56385100
+Uttar Pradesh,North,Hepatitis B,2020,4182,7.42,56385100
+Uttar Pradesh,North,Diarrhoeal Disease,2020,95321,169.05,56385100
+Uttar Pradesh,North,Pneumonia,2020,70158,124.43,56385100
+Uttar Pradesh,North,Tuberculosis,2021,69302,69.0,100431369
+Uttar Pradesh,North,Malaria,2021,29129,29.0,100431369
+Uttar Pradesh,North,Dengue,2021,67246,66.96,100431369
+Uttar Pradesh,North,HIV/AIDS,2021,91032,90.64,100431369
+Uttar Pradesh,North,Measles,2021,51344,51.12,100431369
+Uttar Pradesh,North,Hepatitis B,2021,31020,30.89,100431369
+Uttar Pradesh,North,Diarrhoeal Disease,2021,29708,29.58,100431369
+Uttar Pradesh,North,Pneumonia,2021,87073,86.7,100431369
+Uttar Pradesh,North,Tuberculosis,2022,36554,82.26,44435817
+Uttar Pradesh,North,Malaria,2022,5601,12.6,44435817
+Uttar Pradesh,North,Dengue,2022,8156,18.35,44435817
+Uttar Pradesh,North,HIV/AIDS,2022,98635,221.97,44435817
+Uttar Pradesh,North,Measles,2022,57777,130.02,44435817
+Uttar Pradesh,North,Hepatitis B,2022,7344,16.53,44435817
+Uttar Pradesh,North,Diarrhoeal Disease,2022,15037,33.84,44435817
+Uttar Pradesh,North,Pneumonia,2022,36335,81.77,44435817
+Uttar Pradesh,North,Tuberculosis,2023,43111,38.15,113012920
+Uttar Pradesh,North,Malaria,2023,77401,68.49,113012920
+Uttar Pradesh,North,Dengue,2023,35512,31.42,113012920
+Uttar Pradesh,North,HIV/AIDS,2023,18963,16.78,113012920
+Uttar Pradesh,North,Measles,2023,97310,86.11,113012920
+Uttar Pradesh,North,Hepatitis B,2023,12773,11.3,113012920
+Uttar Pradesh,North,Diarrhoeal Disease,2023,25270,22.36,113012920
+Uttar Pradesh,North,Pneumonia,2023,42268,37.4,113012920
+Uttar Pradesh,North,Tuberculosis,2024,86365,250.64,34457481
+Uttar Pradesh,North,Malaria,2024,37711,109.44,34457481
+Uttar Pradesh,North,Dengue,2024,16979,49.28,34457481
+Uttar Pradesh,North,HIV/AIDS,2024,98458,285.74,34457481
+Uttar Pradesh,North,Measles,2024,1427,4.14,34457481
+Uttar Pradesh,North,Hepatitis B,2024,41151,119.43,34457481
+Uttar Pradesh,North,Diarrhoeal Disease,2024,20197,58.61,34457481
+Uttar Pradesh,North,Pneumonia,2024,47331,137.36,34457481
+Uttarakhand,North,Tuberculosis,2015,26908,28.19,95460712
+Uttarakhand,North,Malaria,2015,56501,,95460712
+Uttarakhand,North,Dengue,2015,27749,29.07,95460712
+Uttarakhand,North,HIV/AIDS,2015,78367,82.09,95460712
+Uttarakhand,North,Measles,2015,31725,33.23,95460712
+Uttarakhand,North,Hepatitis B,2015,5830,6.11,95460712
+Uttarakhand,North,Diarrhoeal Disease,2015,99362,104.09,95460712
+Uttarakhand,North,Pneumonia,2015,32171,33.7,95460712
+Uttarakhand,North,Tuberculosis,2016,96958,80.81,119979649
+Uttarakhand,North,Malaria,2016,15925,,119979649
+Uttarakhand,North,Dengue,2016,72687,60.58,119979649
+Uttarakhand,North,HIV/AIDS,2016,31935,26.62,119979649
+Uttarakhand,North,Measles,2016,15898,13.25,119979649
+Uttarakhand,North,Hepatitis B,2016,50930,42.45,119979649
+Uttarakhand,North,Diarrhoeal Disease,2016,20955,17.47,119979649
+Uttarakhand,North,Pneumonia,2016,69455,57.89,119979649
+Uttarakhand,North,Tuberculosis,2017,73837,113.12,65274663
+Uttarakhand,North,Malaria,2017,43400,66.49,65274663
+Uttarakhand,North,Dengue,2017,51087,78.26,65274663
+Uttarakhand,North,HIV/AIDS,2017,85617,131.16,65274663
+Uttarakhand,North,Measles,2017,9252,14.17,65274663
+Uttarakhand,North,Hepatitis B,2017,51430,,65274663
+Uttarakhand,North,Diarrhoeal Disease,2017,27933,42.79,65274663
+Uttarakhand,North,Pneumonia,2017,76998,117.96,65274663
+Uttarakhand,North,Tuberculosis,2018,7050,6.91,102021249
+Uttarakhand,North,Malaria,2018,33681,33.01,102021249
+Uttarakhand,North,Dengue,2018,23100,22.64,102021249
+Uttarakhand,North,HIV/AIDS,2018,34645,33.96,102021249
+Uttarakhand,North,Measles,2018,17609,17.26,102021249
+Uttarakhand,North,Hepatitis B,2018,96516,94.6,102021249
+Uttarakhand,North,Diarrhoeal Disease,2018,58721,57.56,102021249
+Uttarakhand,North,Pneumonia,2018,52907,,102021249
+Uttarakhand,North,Tuberculosis,2019,86540,89.72,96451267
+Uttarakhand,North,Malaria,2019,78463,81.35,96451267
+Uttarakhand,North,Dengue,2019,8464,8.78,96451267
+Uttarakhand,North,HIV/AIDS,2019,86229,89.4,96451267
+Uttarakhand,North,Measles,2019,62190,64.48,96451267
+Uttarakhand,North,Hepatitis B,2019,36176,37.51,96451267
+Uttarakhand,North,Diarrhoeal Disease,2019,71486,74.12,96451267
+Uttarakhand,North,Pneumonia,2019,82184,85.21,96451267
+Uttarakhand,North,Tuberculosis,2020,22588,55.88,40424865
+Uttarakhand,North,Malaria,2020,81197,200.86,40424865
+Uttarakhand,North,Dengue,2020,5318,13.16,40424865
+Uttarakhand,North,HIV/AIDS,2020,77956,192.84,40424865
+Uttarakhand,North,Measles,2020,2894,7.16,40424865
+Uttarakhand,North,Hepatitis B,2020,26784,,40424865
+Uttarakhand,North,Diarrhoeal Disease,2020,83634,206.89,40424865
+Uttarakhand,North,Pneumonia,2020,12150,30.06,40424865
+Uttarakhand,North,Tuberculosis,2021,3447,7.75,44456688
+Uttarakhand,North,Malaria,2021,70245,158.01,44456688
+Uttarakhand,North,Dengue,2021,53504,120.35,44456688
+Uttarakhand,North,HIV/AIDS,2021,29522,66.41,44456688
+Uttarakhand,North,Measles,2021,66774,150.2,44456688
+Uttarakhand,North,Hepatitis B,2021,63217,142.2,44456688
+Uttarakhand,North,Diarrhoeal Disease,2021,94854,213.36,44456688
+Uttarakhand,North,Pneumonia,2021,3701,8.32,44456688
+Uttarakhand,North,Tuberculosis,2022,91825,256.8,35757019
+Uttarakhand,North,Malaria,2022,19332,54.06,35757019
+Uttarakhand,North,Dengue,2022,41817,116.95,35757019
+Uttarakhand,North,HIV/AIDS,2022,53951,150.88,35757019
+Uttarakhand,North,Measles,2022,74820,209.25,35757019
+Uttarakhand,North,Hepatitis B,2022,45087,126.09,35757019
+Uttarakhand,North,Diarrhoeal Disease,2022,86793,242.73,35757019
+Uttarakhand,North,Pneumonia,2022,84460,236.21,35757019
+Uttarakhand,North,Tuberculosis,2023,49311,41.02,120205834
+Uttarakhand,North,Malaria,2023,27337,22.74,120205834
+Uttarakhand,North,Dengue,2023,54639,45.45,120205834
+Uttarakhand,North,HIV/AIDS,2023,48790,40.59,120205834
+Uttarakhand,North,Measles,2023,56511,47.01,120205834
+Uttarakhand,North,Hepatitis B,2023,97314,80.96,120205834
+Uttarakhand,North,Diarrhoeal Disease,2023,61413,51.09,120205834
+Uttarakhand,North,Pneumonia,2023,86268,71.77,120205834
+Uttarakhand,North,Tuberculosis,2024,2739,3.02,90742380
+Uttarakhand,North,Malaria,2024,86554,95.38,90742380
+Uttarakhand,North,Dengue,2024,18955,20.89,90742380
+Uttarakhand,North,HIV/AIDS,2024,82758,91.2,90742380
+Uttarakhand,North,Measles,2024,38424,42.34,90742380
+Uttarakhand,North,Hepatitis B,2024,69665,76.77,90742380
+Uttarakhand,North,Diarrhoeal Disease,2024,73646,81.16,90742380
+Uttarakhand,North,Pneumonia,2024,75025,82.68,90742380
+West Bengal,East,Tuberculosis,2015,83291,375.49,22181938
+West Bengal,East,Malaria,2015,29386,132.48,22181938
+West Bengal,East,Dengue,2015,58241,262.56,22181938
+West Bengal,East,HIV/AIDS,2015,90995,410.22,22181938
+West Bengal,East,Measles,2015,82022,369.77,22181938
+West Bengal,East,Hepatitis B,2015,27360,123.34,22181938
+West Bengal,East,Diarrhoeal Disease,2015,9536,42.99,22181938
+West Bengal,East,Pneumonia,2015,42095,189.77,22181938
+West Bengal,East,Tuberculosis,2016,69010,79.9,86366011
+West Bengal,East,Malaria,2016,48135,55.73,86366011
+West Bengal,East,Dengue,2016,78037,90.36,86366011
+West Bengal,East,HIV/AIDS,2016,20883,24.18,86366011
+West Bengal,East,Measles,2016,64438,74.61,86366011
+West Bengal,East,Hepatitis B,2016,86368,100.0,86366011
+West Bengal,East,Diarrhoeal Disease,2016,4773,5.53,86366011
+West Bengal,East,Pneumonia,2016,44839,51.92,86366011
+West Bengal,East,Tuberculosis,2017,43895,87.85,49968654
+West Bengal,East,Malaria,2017,74460,,49968654
+West Bengal,East,Dengue,2017,97526,195.17,49968654
+West Bengal,East,HIV/AIDS,2017,49693,99.45,49968654
+West Bengal,East,Measles,2017,82743,165.59,49968654
+West Bengal,East,Hepatitis B,2017,66963,134.01,49968654
+West Bengal,East,Diarrhoeal Disease,2017,83916,167.94,49968654
+West Bengal,East,Pneumonia,2017,23793,47.62,49968654
+West Bengal,East,Tuberculosis,2018,76440,70.49,108442755
+West Bengal,East,Malaria,2018,95379,87.95,108442755
+West Bengal,East,Dengue,2018,71392,65.83,108442755
+West Bengal,East,HIV/AIDS,2018,3520,3.25,108442755
+West Bengal,East,Measles,2018,849,0.78,108442755
+West Bengal,East,Hepatitis B,2018,62114,57.28,108442755
+West Bengal,East,Diarrhoeal Disease,2018,95299,87.88,108442755
+West Bengal,East,Pneumonia,2018,15398,14.2,108442755
+West Bengal,East,Tuberculosis,2019,49641,,112319777
+West Bengal,East,Malaria,2019,84463,75.2,112319777
+West Bengal,East,Dengue,2019,33921,30.2,112319777
+West Bengal,East,HIV/AIDS,2019,64000,56.98,112319777
+West Bengal,East,Measles,2019,89504,,112319777
+West Bengal,East,Hepatitis B,2019,78246,69.66,112319777
+West Bengal,East,Diarrhoeal Disease,2019,75304,67.04,112319777
+West Bengal,East,Pneumonia,2019,48550,43.22,112319777
+West Bengal,East,Tuberculosis,2020,49272,61.12,80610352
+West Bengal,East,Malaria,2020,34195,42.42,80610352
+West Bengal,East,Dengue,2020,37665,46.72,80610352
+West Bengal,East,HIV/AIDS,2020,79225,98.28,80610352
+West Bengal,East,Measles,2020,97549,121.01,80610352
+West Bengal,East,Hepatitis B,2020,84456,104.77,80610352
+West Bengal,East,Diarrhoeal Disease,2020,45016,55.84,80610352
+West Bengal,East,Pneumonia,2020,1369,1.7,80610352
+West Bengal,East,Tuberculosis,2021,48470,44.57,108752882
+West Bengal,East,Malaria,2021,70369,64.71,108752882
+West Bengal,East,Dengue,2021,12792,11.76,108752882
+West Bengal,East,HIV/AIDS,2021,34195,31.44,108752882
+West Bengal,East,Measles,2021,50974,46.87,108752882
+West Bengal,East,Hepatitis B,2021,47121,43.33,108752882
+West Bengal,East,Diarrhoeal Disease,2021,4269,3.93,108752882
+West Bengal,East,Pneumonia,2021,91279,,108752882
+West Bengal,East,Tuberculosis,2022,55703,150.52,37008036
+West Bengal,East,Malaria,2022,84358,227.95,37008036
+West Bengal,East,Dengue,2022,98252,265.49,37008036
+West Bengal,East,HIV/AIDS,2022,95132,257.06,37008036
+West Bengal,East,Measles,2022,37678,101.81,37008036
+West Bengal,East,Hepatitis B,2022,16901,45.67,37008036
+West Bengal,East,Diarrhoeal Disease,2022,92089,248.84,37008036
+West Bengal,East,Pneumonia,2022,17890,48.34,37008036
+West Bengal,East,Tuberculosis,2023,66662,65.6,101623042
+West Bengal,East,Malaria,2023,7359,7.24,101623042
+West Bengal,East,Dengue,2023,98923,97.34,101623042
+West Bengal,East,HIV/AIDS,2023,70070,,101623042
+West Bengal,East,Measles,2023,78181,76.93,101623042
+West Bengal,East,Hepatitis B,2023,42543,41.86,101623042
+West Bengal,East,Diarrhoeal Disease,2023,51739,50.91,101623042
+West Bengal,East,Pneumonia,2023,92292,90.82,101623042
+West Bengal,East,Tuberculosis,2024,62193,105.27,59081849
+West Bengal,East,Malaria,2024,34779,58.87,59081849
+West Bengal,East,Dengue,2024,32911,55.7,59081849
+West Bengal,East,HIV/AIDS,2024,63937,108.22,59081849
+West Bengal,East,Measles,2024,29994,50.77,59081849
+West Bengal,East,Hepatitis B,2024,88062,149.05,59081849
+West Bengal,East,Diarrhoeal Disease,2024,84726,143.4,59081849
+West Bengal,East,Pneumonia,2024,39922,67.57,59081849
+Andaman and Nicobar Islands,South,Tuberculosis,2015,13773,652.81,2109808
+Andaman and Nicobar Islands,South,Malaria,2015,23359,1107.16,2109808
+Andaman and Nicobar Islands,South,Dengue,2015,53054,2514.64,2109808
+Andaman and Nicobar Islands,South,HIV/AIDS,2015,38194,1810.31,2109808
+Andaman and Nicobar Islands,South,Measles,2015,80668,3823.48,2109808
+Andaman and Nicobar Islands,South,Hepatitis B,2015,40774,1932.59,2109808
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2015,1310,62.09,2109808
+Andaman and Nicobar Islands,South,Pneumonia,2015,68534,3248.35,2109808
+Andaman and Nicobar Islands,South,Tuberculosis,2016,27351,58.86,46466762
+Andaman and Nicobar Islands,South,Malaria,2016,40401,,46466762
+Andaman and Nicobar Islands,South,Dengue,2016,54226,116.7,46466762
+Andaman and Nicobar Islands,South,HIV/AIDS,2016,2420,5.21,46466762
+Andaman and Nicobar Islands,South,Measles,2016,77625,167.05,46466762
+Andaman and Nicobar Islands,South,Hepatitis B,2016,5412,11.65,46466762
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2016,3634,7.82,46466762
+Andaman and Nicobar Islands,South,Pneumonia,2016,59065,127.11,46466762
+Andaman and Nicobar Islands,South,Tuberculosis,2017,48137,56.8,84743392
+Andaman and Nicobar Islands,South,Malaria,2017,60168,71.0,84743392
+Andaman and Nicobar Islands,South,Dengue,2017,47165,55.66,84743392
+Andaman and Nicobar Islands,South,HIV/AIDS,2017,93285,110.08,84743392
+Andaman and Nicobar Islands,South,Measles,2017,66536,78.51,84743392
+Andaman and Nicobar Islands,South,Hepatitis B,2017,67298,79.41,84743392
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2017,8596,10.14,84743392
+Andaman and Nicobar Islands,South,Pneumonia,2017,45725,53.96,84743392
+Andaman and Nicobar Islands,South,Tuberculosis,2018,93259,183.36,50860719
+Andaman and Nicobar Islands,South,Malaria,2018,67238,132.2,50860719
+Andaman and Nicobar Islands,South,Dengue,2018,51834,101.91,50860719
+Andaman and Nicobar Islands,South,HIV/AIDS,2018,71885,141.34,50860719
+Andaman and Nicobar Islands,South,Measles,2018,35542,69.88,50860719
+Andaman and Nicobar Islands,South,Hepatitis B,2018,31046,,50860719
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2018,88907,174.8,50860719
+Andaman and Nicobar Islands,South,Pneumonia,2018,71881,141.33,50860719
+Andaman and Nicobar Islands,South,Tuberculosis,2019,69079,58.4,118283836
+Andaman and Nicobar Islands,South,Malaria,2019,91819,77.63,118283836
+Andaman and Nicobar Islands,South,Dengue,2019,34256,28.96,118283836
+Andaman and Nicobar Islands,South,HIV/AIDS,2019,90581,,118283836
+Andaman and Nicobar Islands,South,Measles,2019,36108,30.53,118283836
+Andaman and Nicobar Islands,South,Hepatitis B,2019,44272,,118283836
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2019,40232,34.01,118283836
+Andaman and Nicobar Islands,South,Pneumonia,2019,30567,25.84,118283836
+Andaman and Nicobar Islands,South,Tuberculosis,2020,36030,85.35,42212061
+Andaman and Nicobar Islands,South,Malaria,2020,30030,71.14,42212061
+Andaman and Nicobar Islands,South,Dengue,2020,97795,231.68,42212061
+Andaman and Nicobar Islands,South,HIV/AIDS,2020,78490,185.94,42212061
+Andaman and Nicobar Islands,South,Measles,2020,32856,77.84,42212061
+Andaman and Nicobar Islands,South,Hepatitis B,2020,78144,185.12,42212061
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2020,94149,223.04,42212061
+Andaman and Nicobar Islands,South,Pneumonia,2020,82232,194.81,42212061
+Andaman and Nicobar Islands,South,Tuberculosis,2021,77626,,29136464
+Andaman and Nicobar Islands,South,Malaria,2021,23413,80.36,29136464
+Andaman and Nicobar Islands,South,Dengue,2021,65718,,29136464
+Andaman and Nicobar Islands,South,HIV/AIDS,2021,4081,14.01,29136464
+Andaman and Nicobar Islands,South,Measles,2021,45873,157.44,29136464
+Andaman and Nicobar Islands,South,Hepatitis B,2021,80286,275.55,29136464
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2021,98550,338.24,29136464
+Andaman and Nicobar Islands,South,Pneumonia,2021,36629,125.72,29136464
+Andaman and Nicobar Islands,South,Tuberculosis,2022,35090,225.68,15548453
+Andaman and Nicobar Islands,South,Malaria,2022,89260,574.08,15548453
+Andaman and Nicobar Islands,South,Dengue,2022,49657,319.37,15548453
+Andaman and Nicobar Islands,South,HIV/AIDS,2022,72957,469.22,15548453
+Andaman and Nicobar Islands,South,Measles,2022,40513,260.56,15548453
+Andaman and Nicobar Islands,South,Hepatitis B,2022,27155,174.65,15548453
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2022,58663,377.29,15548453
+Andaman and Nicobar Islands,South,Pneumonia,2022,71030,456.83,15548453
+Andaman and Nicobar Islands,South,Tuberculosis,2023,65505,97.84,66952856
+Andaman and Nicobar Islands,South,Malaria,2023,30330,45.3,66952856
+Andaman and Nicobar Islands,South,Dengue,2023,32331,48.29,66952856
+Andaman and Nicobar Islands,South,HIV/AIDS,2023,17345,25.91,66952856
+Andaman and Nicobar Islands,South,Measles,2023,14743,22.02,66952856
+Andaman and Nicobar Islands,South,Hepatitis B,2023,83094,124.11,66952856
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2023,48167,71.94,66952856
+Andaman and Nicobar Islands,South,Pneumonia,2023,16244,24.26,66952856
+Andaman and Nicobar Islands,South,Tuberculosis,2024,52897,153.5,34459908
+Andaman and Nicobar Islands,South,Malaria,2024,13766,39.95,34459908
+Andaman and Nicobar Islands,South,Dengue,2024,99696,289.31,34459908
+Andaman and Nicobar Islands,South,HIV/AIDS,2024,30109,87.37,34459908
+Andaman and Nicobar Islands,South,Measles,2024,42068,122.08,34459908
+Andaman and Nicobar Islands,South,Hepatitis B,2024,84166,244.24,34459908
+Andaman and Nicobar Islands,South,Diarrhoeal Disease,2024,323,0.94,34459908
+Andaman and Nicobar Islands,South,Pneumonia,2024,3207,9.31,34459908
+Chandigarh,North,Tuberculosis,2015,45032,70.53,63848881
+Chandigarh,North,Malaria,2015,60364,94.54,63848881
+Chandigarh,North,Dengue,2015,89178,139.67,63848881
+Chandigarh,North,HIV/AIDS,2015,3402,5.33,63848881
+Chandigarh,North,Measles,2015,43483,68.1,63848881
+Chandigarh,North,Hepatitis B,2015,81444,127.56,63848881
+Chandigarh,North,Diarrhoeal Disease,2015,97109,152.09,63848881
+Chandigarh,North,Pneumonia,2015,50999,79.87,63848881
+Chandigarh,North,Tuberculosis,2016,80531,285.42,28214996
+Chandigarh,North,Malaria,2016,93694,332.07,28214996
+Chandigarh,North,Dengue,2016,85836,304.22,28214996
+Chandigarh,North,HIV/AIDS,2016,7722,27.37,28214996
+Chandigarh,North,Measles,2016,41345,146.54,28214996
+Chandigarh,North,Hepatitis B,2016,81558,289.06,28214996
+Chandigarh,North,Diarrhoeal Disease,2016,76633,271.6,28214996
+Chandigarh,North,Pneumonia,2016,14699,52.1,28214996
+Chandigarh,North,Tuberculosis,2017,31615,120.55,26225092
+Chandigarh,North,Malaria,2017,32440,123.7,26225092
+Chandigarh,North,Dengue,2017,32178,122.7,26225092
+Chandigarh,North,HIV/AIDS,2017,54926,209.44,26225092
+Chandigarh,North,Measles,2017,12099,46.14,26225092
+Chandigarh,North,Hepatitis B,2017,23833,90.88,26225092
+Chandigarh,North,Diarrhoeal Disease,2017,37281,142.16,26225092
+Chandigarh,North,Pneumonia,2017,14600,55.67,26225092
+Chandigarh,North,Tuberculosis,2018,44417,62.67,70871777
+Chandigarh,North,Malaria,2018,20065,28.31,70871777
+Chandigarh,North,Dengue,2018,23116,32.62,70871777
+Chandigarh,North,HIV/AIDS,2018,51735,73.0,70871777
+Chandigarh,North,Measles,2018,71582,101.0,70871777
+Chandigarh,North,Hepatitis B,2018,29718,41.93,70871777
+Chandigarh,North,Diarrhoeal Disease,2018,23199,32.73,70871777
+Chandigarh,North,Pneumonia,2018,80715,113.89,70871777
+Chandigarh,North,Tuberculosis,2019,12589,92.21,13651976
+Chandigarh,North,Malaria,2019,39477,289.17,13651976
+Chandigarh,North,Dengue,2019,41255,302.19,13651976
+Chandigarh,North,HIV/AIDS,2019,25325,185.5,13651976
+Chandigarh,North,Measles,2019,91141,667.6,13651976
+Chandigarh,North,Hepatitis B,2019,33703,246.87,13651976
+Chandigarh,North,Diarrhoeal Disease,2019,26564,194.58,13651976
+Chandigarh,North,Pneumonia,2019,18988,139.09,13651976
+Chandigarh,North,Tuberculosis,2020,18870,33.41,56477512
+Chandigarh,North,Malaria,2020,9078,,56477512
+Chandigarh,North,Dengue,2020,48790,86.39,56477512
+Chandigarh,North,HIV/AIDS,2020,68888,121.97,56477512
+Chandigarh,North,Measles,2020,16064,28.44,56477512
+Chandigarh,North,Hepatitis B,2020,5670,10.04,56477512
+Chandigarh,North,Diarrhoeal Disease,2020,8568,15.17,56477512
+Chandigarh,North,Pneumonia,2020,98154,173.79,56477512
+Chandigarh,North,Tuberculosis,2021,13078,19.84,65918856
+Chandigarh,North,Malaria,2021,74792,113.46,65918856
+Chandigarh,North,Dengue,2021,59872,90.83,65918856
+Chandigarh,North,HIV/AIDS,2021,45555,69.11,65918856
+Chandigarh,North,Measles,2021,49360,74.88,65918856
+Chandigarh,North,Hepatitis B,2021,81176,123.15,65918856
+Chandigarh,North,Diarrhoeal Disease,2021,17857,27.09,65918856
+Chandigarh,North,Pneumonia,2021,22844,34.65,65918856
+Chandigarh,North,Tuberculosis,2022,43612,35.04,124478288
+Chandigarh,North,Malaria,2022,83216,,124478288
+Chandigarh,North,Dengue,2022,939,0.75,124478288
+Chandigarh,North,HIV/AIDS,2022,89888,72.21,124478288
+Chandigarh,North,Measles,2022,80703,64.83,124478288
+Chandigarh,North,Hepatitis B,2022,67008,53.83,124478288
+Chandigarh,North,Diarrhoeal Disease,2022,75792,,124478288
+Chandigarh,North,Pneumonia,2022,14499,11.65,124478288
+Chandigarh,North,Tuberculosis,2023,19998,33.8,59167055
+Chandigarh,North,Malaria,2023,4932,,59167055
+Chandigarh,North,Dengue,2023,27557,46.57,59167055
+Chandigarh,North,HIV/AIDS,2023,73181,123.69,59167055
+Chandigarh,North,Measles,2023,91358,154.41,59167055
+Chandigarh,North,Hepatitis B,2023,66771,112.85,59167055
+Chandigarh,North,Diarrhoeal Disease,2023,28245,47.74,59167055
+Chandigarh,North,Pneumonia,2023,64697,109.35,59167055
+Chandigarh,North,Tuberculosis,2024,35048,203.49,17223450
+Chandigarh,North,Malaria,2024,33196,192.74,17223450
+Chandigarh,North,Dengue,2024,10361,60.16,17223450
+Chandigarh,North,HIV/AIDS,2024,23065,133.92,17223450
+Chandigarh,North,Measles,2024,82539,479.22,17223450
+Chandigarh,North,Hepatitis B,2024,69725,404.83,17223450
+Chandigarh,North,Diarrhoeal Disease,2024,19873,115.38,17223450
+Chandigarh,North,Pneumonia,2024,44044,255.72,17223450
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2015,41849,48.98,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2015,21443,25.09,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2015,9531,11.15,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2015,59465,69.59,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2015,21688,25.38,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2015,32888,38.49,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2015,54723,64.04,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2015,66018,77.26,85448219
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2016,70569,98.51,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2016,40258,56.2,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2016,49421,68.99,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2016,86252,120.4,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2016,81931,114.37,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2016,75077,104.8,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2016,28682,40.04,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2016,40052,55.91,71636382
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2017,7022,106.51,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2017,18239,276.64,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2017,93152,1412.88,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2017,35451,537.7,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2017,98155,1488.76,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2017,34481,522.99,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2017,34304,520.3,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2017,30165,457.53,6593081
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2018,78210,102.88,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2018,85532,112.51,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2018,56600,74.45,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2018,996,1.31,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2018,19871,26.14,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2018,41240,54.25,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2018,64970,85.46,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2018,13852,18.22,76023538
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2019,78721,129.63,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2019,74571,122.8,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2019,28289,46.58,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2019,84951,139.89,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2019,44087,72.6,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2019,273,0.45,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2019,75402,124.16,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2019,30436,50.12,60727388
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2020,87456,245.52,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2020,62993,176.85,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2020,38857,109.09,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2020,34091,95.71,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2020,85086,238.87,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2020,22621,63.51,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2020,34773,97.62,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2020,75633,212.33,35620029
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2021,44885,120.22,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2021,97454,,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2021,73060,,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2021,9073,,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2021,82761,221.66,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2021,55845,149.57,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2021,49941,133.76,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2021,59973,160.63,37336255
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2022,94572,106.56,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2022,4658,5.25,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2022,92567,104.31,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2022,49988,56.33,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2022,44574,50.23,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2022,93672,105.55,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2022,79698,89.8,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2022,93214,105.03,88746403
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2023,21950,30.76,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2023,70807,99.23,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2023,66792,93.6,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2023,83386,116.86,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2023,608,0.85,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2023,58622,82.15,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2023,28999,40.64,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2023,41984,58.84,71355655
+Dadra and Nagar Haveli and Daman and Diu,West,Tuberculosis,2024,15607,23.25,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Malaria,2024,83734,124.72,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Dengue,2024,48548,72.31,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,HIV/AIDS,2024,58788,87.56,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Measles,2024,2890,4.3,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Hepatitis B,2024,14822,22.08,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Diarrhoeal Disease,2024,21786,32.45,67139449
+Dadra and Nagar Haveli and Daman and Diu,West,Pneumonia,2024,60472,90.07,67139449
+Delhi,North,Tuberculosis,2015,57215,398.26,14366148
+Delhi,North,Malaria,2015,63078,439.07,14366148
+Delhi,North,Dengue,2015,98593,686.29,14366148
+Delhi,North,HIV/AIDS,2015,27186,189.24,14366148
+Delhi,North,Measles,2015,11068,77.04,14366148
+Delhi,North,Hepatitis B,2015,78812,548.6,14366148
+Delhi,North,Diarrhoeal Disease,2015,27218,189.46,14366148
+Delhi,North,Pneumonia,2015,68716,478.32,14366148
+Delhi,North,Tuberculosis,2016,56257,71.55,78624399
+Delhi,North,Malaria,2016,42383,53.91,78624399
+Delhi,North,Dengue,2016,93802,119.3,78624399
+Delhi,North,HIV/AIDS,2016,77850,99.02,78624399
+Delhi,North,Measles,2016,45989,58.49,78624399
+Delhi,North,Hepatitis B,2016,65115,82.82,78624399
+Delhi,North,Diarrhoeal Disease,2016,51781,65.86,78624399
+Delhi,North,Pneumonia,2016,86188,109.62,78624399
+Delhi,North,Tuberculosis,2017,37154,38.82,95710895
+Delhi,North,Malaria,2017,18531,19.36,95710895
+Delhi,North,Dengue,2017,49896,52.13,95710895
+Delhi,North,HIV/AIDS,2017,71739,74.95,95710895
+Delhi,North,Measles,2017,9031,9.44,95710895
+Delhi,North,Hepatitis B,2017,48596,50.77,95710895
+Delhi,North,Diarrhoeal Disease,2017,82254,85.94,95710895
+Delhi,North,Pneumonia,2017,61507,64.26,95710895
+Delhi,North,Tuberculosis,2018,62202,51.43,120956480
+Delhi,North,Malaria,2018,24790,20.49,120956480
+Delhi,North,Dengue,2018,33015,27.29,120956480
+Delhi,North,HIV/AIDS,2018,96651,79.91,120956480
+Delhi,North,Measles,2018,39441,32.61,120956480
+Delhi,North,Hepatitis B,2018,95138,78.65,120956480
+Delhi,North,Diarrhoeal Disease,2018,53229,44.01,120956480
+Delhi,North,Pneumonia,2018,71466,59.08,120956480
+Delhi,North,Tuberculosis,2019,26214,311.25,8422250
+Delhi,North,Malaria,2019,87587,1039.95,8422250
+Delhi,North,Dengue,2019,70481,836.84,8422250
+Delhi,North,HIV/AIDS,2019,64739,,8422250
+Delhi,North,Measles,2019,44967,533.91,8422250
+Delhi,North,Hepatitis B,2019,34330,407.61,8422250
+Delhi,North,Diarrhoeal Disease,2019,94970,1127.61,8422250
+Delhi,North,Pneumonia,2019,40111,476.25,8422250
+Delhi,North,Tuberculosis,2020,23553,69.47,33903646
+Delhi,North,Malaria,2020,62348,183.9,33903646
+Delhi,North,Dengue,2020,27395,80.8,33903646
+Delhi,North,HIV/AIDS,2020,40112,118.31,33903646
+Delhi,North,Measles,2020,54312,160.2,33903646
+Delhi,North,Hepatitis B,2020,88982,262.46,33903646
+Delhi,North,Diarrhoeal Disease,2020,30468,89.87,33903646
+Delhi,North,Pneumonia,2020,96054,283.31,33903646
+Delhi,North,Tuberculosis,2021,44075,36.55,120586197
+Delhi,North,Malaria,2021,91943,76.25,120586197
+Delhi,North,Dengue,2021,47147,39.1,120586197
+Delhi,North,HIV/AIDS,2021,32868,27.26,120586197
+Delhi,North,Measles,2021,89694,74.38,120586197
+Delhi,North,Hepatitis B,2021,96311,79.87,120586197
+Delhi,North,Diarrhoeal Disease,2021,12689,,120586197
+Delhi,North,Pneumonia,2021,80967,,120586197
+Delhi,North,Tuberculosis,2022,62221,83.15,74833122
+Delhi,North,Malaria,2022,45673,61.03,74833122
+Delhi,North,Dengue,2022,5506,7.36,74833122
+Delhi,North,HIV/AIDS,2022,77234,103.21,74833122
+Delhi,North,Measles,2022,41733,55.77,74833122
+Delhi,North,Hepatitis B,2022,32470,43.39,74833122
+Delhi,North,Diarrhoeal Disease,2022,97842,130.75,74833122
+Delhi,North,Pneumonia,2022,47926,64.04,74833122
+Delhi,North,Tuberculosis,2023,92150,80.95,113833883
+Delhi,North,Malaria,2023,23959,21.05,113833883
+Delhi,North,Dengue,2023,50480,44.35,113833883
+Delhi,North,HIV/AIDS,2023,35561,,113833883
+Delhi,North,Measles,2023,88482,77.73,113833883
+Delhi,North,Hepatitis B,2023,35392,31.09,113833883
+Delhi,North,Diarrhoeal Disease,2023,70942,62.32,113833883
+Delhi,North,Pneumonia,2023,7634,6.71,113833883
+Delhi,North,Tuberculosis,2024,28947,43.39,66708570
+Delhi,North,Malaria,2024,29704,44.53,66708570
+Delhi,North,Dengue,2024,24547,36.8,66708570
+Delhi,North,HIV/AIDS,2024,42524,63.75,66708570
+Delhi,North,Measles,2024,98966,148.36,66708570
+Delhi,North,Hepatitis B,2024,40213,,66708570
+Delhi,North,Diarrhoeal Disease,2024,64500,96.69,66708570
+Delhi,North,Pneumonia,2024,54746,82.07,66708570
+Jammu and Kashmir,North,Tuberculosis,2015,96141,335.34,28669587
+Jammu and Kashmir,North,Malaria,2015,42002,146.5,28669587
+Jammu and Kashmir,North,Dengue,2015,77349,269.79,28669587
+Jammu and Kashmir,North,HIV/AIDS,2015,326,,28669587
+Jammu and Kashmir,North,Measles,2015,21719,75.76,28669587
+Jammu and Kashmir,North,Hepatitis B,2015,27021,94.25,28669587
+Jammu and Kashmir,North,Diarrhoeal Disease,2015,94657,330.17,28669587
+Jammu and Kashmir,North,Pneumonia,2015,94909,331.04,28669587
+Jammu and Kashmir,North,Tuberculosis,2016,17329,372.2,4655857
+Jammu and Kashmir,North,Malaria,2016,4004,86.0,4655857
+Jammu and Kashmir,North,Dengue,2016,6600,141.76,4655857
+Jammu and Kashmir,North,HIV/AIDS,2016,63452,1362.84,4655857
+Jammu and Kashmir,North,Measles,2016,74305,1595.95,4655857
+Jammu and Kashmir,North,Hepatitis B,2016,17157,368.5,4655857
+Jammu and Kashmir,North,Diarrhoeal Disease,2016,30629,657.86,4655857
+Jammu and Kashmir,North,Pneumonia,2016,42242,907.29,4655857
+Jammu and Kashmir,North,Tuberculosis,2017,2902,2.44,119051213
+Jammu and Kashmir,North,Malaria,2017,36235,30.44,119051213
+Jammu and Kashmir,North,Dengue,2017,58999,49.56,119051213
+Jammu and Kashmir,North,HIV/AIDS,2017,35242,29.6,119051213
+Jammu and Kashmir,North,Measles,2017,22223,18.67,119051213
+Jammu and Kashmir,North,Hepatitis B,2017,29639,24.9,119051213
+Jammu and Kashmir,North,Diarrhoeal Disease,2017,39790,33.42,119051213
+Jammu and Kashmir,North,Pneumonia,2017,32493,27.29,119051213
+Jammu and Kashmir,North,Tuberculosis,2018,1324,23.57,5616955
+Jammu and Kashmir,North,Malaria,2018,80806,1438.61,5616955
+Jammu and Kashmir,North,Dengue,2018,42631,758.97,5616955
+Jammu and Kashmir,North,HIV/AIDS,2018,24006,427.38,5616955
+Jammu and Kashmir,North,Measles,2018,65571,1167.38,5616955
+Jammu and Kashmir,North,Hepatitis B,2018,93401,1662.84,5616955
+Jammu and Kashmir,North,Diarrhoeal Disease,2018,76434,1360.77,5616955
+Jammu and Kashmir,North,Pneumonia,2018,25387,451.97,5616955
+Jammu and Kashmir,North,Tuberculosis,2019,11895,609.76,1950769
+Jammu and Kashmir,North,Malaria,2019,69316,3553.27,1950769
+Jammu and Kashmir,North,Dengue,2019,63962,3278.81,1950769
+Jammu and Kashmir,North,HIV/AIDS,2019,12367,633.96,1950769
+Jammu and Kashmir,North,Measles,2019,615,31.53,1950769
+Jammu and Kashmir,North,Hepatitis B,2019,89910,4608.95,1950769
+Jammu and Kashmir,North,Diarrhoeal Disease,2019,46931,2405.77,1950769
+Jammu and Kashmir,North,Pneumonia,2019,62096,3183.15,1950769
+Jammu and Kashmir,North,Tuberculosis,2020,36442,44.07,82689832
+Jammu and Kashmir,North,Malaria,2020,62486,75.57,82689832
+Jammu and Kashmir,North,Dengue,2020,46578,56.33,82689832
+Jammu and Kashmir,North,HIV/AIDS,2020,48955,59.2,82689832
+Jammu and Kashmir,North,Measles,2020,30271,36.61,82689832
+Jammu and Kashmir,North,Hepatitis B,2020,97455,117.86,82689832
+Jammu and Kashmir,North,Diarrhoeal Disease,2020,20076,24.28,82689832
+Jammu and Kashmir,North,Pneumonia,2020,66672,80.63,82689832
+Jammu and Kashmir,North,Tuberculosis,2021,20837,21.99,94755386
+Jammu and Kashmir,North,Malaria,2021,28537,30.12,94755386
+Jammu and Kashmir,North,Dengue,2021,26306,27.76,94755386
+Jammu and Kashmir,North,HIV/AIDS,2021,1747,1.84,94755386
+Jammu and Kashmir,North,Measles,2021,24262,25.6,94755386
+Jammu and Kashmir,North,Hepatitis B,2021,49500,52.24,94755386
+Jammu and Kashmir,North,Diarrhoeal Disease,2021,59337,,94755386
+Jammu and Kashmir,North,Pneumonia,2021,23863,25.18,94755386
+Jammu and Kashmir,North,Tuberculosis,2022,28880,37.68,76653894
+Jammu and Kashmir,North,Malaria,2022,37328,48.7,76653894
+Jammu and Kashmir,North,Dengue,2022,7581,9.89,76653894
+Jammu and Kashmir,North,HIV/AIDS,2022,95317,124.35,76653894
+Jammu and Kashmir,North,Measles,2022,1869,,76653894
+Jammu and Kashmir,North,Hepatitis B,2022,23059,30.08,76653894
+Jammu and Kashmir,North,Diarrhoeal Disease,2022,8239,10.75,76653894
+Jammu and Kashmir,North,Pneumonia,2022,72151,94.13,76653894
+Jammu and Kashmir,North,Tuberculosis,2023,61318,401.31,15279468
+Jammu and Kashmir,North,Malaria,2023,84469,552.83,15279468
+Jammu and Kashmir,North,Dengue,2023,27428,179.51,15279468
+Jammu and Kashmir,North,HIV/AIDS,2023,62023,405.92,15279468
+Jammu and Kashmir,North,Measles,2023,79977,523.43,15279468
+Jammu and Kashmir,North,Hepatitis B,2023,47596,311.5,15279468
+Jammu and Kashmir,North,Diarrhoeal Disease,2023,18804,123.07,15279468
+Jammu and Kashmir,North,Pneumonia,2023,29817,195.14,15279468
+Jammu and Kashmir,North,Tuberculosis,2024,99339,210.92,47098811
+Jammu and Kashmir,North,Malaria,2024,32225,,47098811
+Jammu and Kashmir,North,Dengue,2024,72030,152.93,47098811
+Jammu and Kashmir,North,HIV/AIDS,2024,18112,38.46,47098811
+Jammu and Kashmir,North,Measles,2024,5767,12.24,47098811
+Jammu and Kashmir,North,Hepatitis B,2024,15329,32.55,47098811
+Jammu and Kashmir,North,Diarrhoeal Disease,2024,68758,145.99,47098811
+Jammu and Kashmir,North,Pneumonia,2024,96292,204.45,47098811
+Ladakh,North,Tuberculosis,2015,21470,83.1,25834965
+Ladakh,North,Malaria,2015,87024,336.85,25834965
+Ladakh,North,Dengue,2015,56528,,25834965
+Ladakh,North,HIV/AIDS,2015,29958,115.96,25834965
+Ladakh,North,Measles,2015,8825,34.16,25834965
+Ladakh,North,Hepatitis B,2015,8240,31.89,25834965
+Ladakh,North,Diarrhoeal Disease,2015,35097,135.85,25834965
+Ladakh,North,Pneumonia,2015,72693,281.37,25834965
+Ladakh,North,Tuberculosis,2016,23200,27.55,84223063
+Ladakh,North,Malaria,2016,38034,45.16,84223063
+Ladakh,North,Dengue,2016,2341,2.78,84223063
+Ladakh,North,HIV/AIDS,2016,85030,100.96,84223063
+Ladakh,North,Measles,2016,46781,55.54,84223063
+Ladakh,North,Hepatitis B,2016,35046,41.61,84223063
+Ladakh,North,Diarrhoeal Disease,2016,43701,51.89,84223063
+Ladakh,North,Pneumonia,2016,5923,7.03,84223063
+Ladakh,North,Tuberculosis,2017,43569,56.26,77445446
+Ladakh,North,Malaria,2017,32450,41.9,77445446
+Ladakh,North,Dengue,2017,20360,26.29,77445446
+Ladakh,North,HIV/AIDS,2017,42835,55.31,77445446
+Ladakh,North,Measles,2017,3535,4.56,77445446
+Ladakh,North,Hepatitis B,2017,96144,124.14,77445446
+Ladakh,North,Diarrhoeal Disease,2017,88221,113.91,77445446
+Ladakh,North,Pneumonia,2017,68144,87.99,77445446
+Ladakh,North,Tuberculosis,2018,67302,73.35,91750651
+Ladakh,North,Malaria,2018,25635,27.94,91750651
+Ladakh,North,Dengue,2018,86864,94.67,91750651
+Ladakh,North,HIV/AIDS,2018,98982,107.88,91750651
+Ladakh,North,Measles,2018,86443,94.22,91750651
+Ladakh,North,Hepatitis B,2018,42392,46.2,91750651
+Ladakh,North,Diarrhoeal Disease,2018,31054,33.85,91750651
+Ladakh,North,Pneumonia,2018,23015,25.08,91750651
+Ladakh,North,Tuberculosis,2019,65058,187.41,34715123
+Ladakh,North,Malaria,2019,58900,169.67,34715123
+Ladakh,North,Dengue,2019,46248,133.22,34715123
+Ladakh,North,HIV/AIDS,2019,60899,175.42,34715123
+Ladakh,North,Measles,2019,17240,49.66,34715123
+Ladakh,North,Hepatitis B,2019,69920,201.41,34715123
+Ladakh,North,Diarrhoeal Disease,2019,87336,251.58,34715123
+Ladakh,North,Pneumonia,2019,6336,18.25,34715123
+Ladakh,North,Tuberculosis,2020,96966,627.17,15460765
+Ladakh,North,Malaria,2020,62457,403.97,15460765
+Ladakh,North,Dengue,2020,71379,461.68,15460765
+Ladakh,North,HIV/AIDS,2020,45733,295.8,15460765
+Ladakh,North,Measles,2020,60861,393.65,15460765
+Ladakh,North,Hepatitis B,2020,37918,245.25,15460765
+Ladakh,North,Diarrhoeal Disease,2020,48552,314.03,15460765
+Ladakh,North,Pneumonia,2020,51938,335.93,15460765
+Ladakh,North,Tuberculosis,2021,84137,135.27,62200090
+Ladakh,North,Malaria,2021,5643,9.07,62200090
+Ladakh,North,Dengue,2021,6445,10.36,62200090
+Ladakh,North,HIV/AIDS,2021,54497,87.62,62200090
+Ladakh,North,Measles,2021,71709,115.29,62200090
+Ladakh,North,Hepatitis B,2021,87929,141.36,62200090
+Ladakh,North,Diarrhoeal Disease,2021,6988,11.23,62200090
+Ladakh,North,Pneumonia,2021,97995,157.55,62200090
+Ladakh,North,Tuberculosis,2022,90708,111.24,81543089
+Ladakh,North,Malaria,2022,88148,,81543089
+Ladakh,North,Dengue,2022,71600,87.81,81543089
+Ladakh,North,HIV/AIDS,2022,84732,103.91,81543089
+Ladakh,North,Measles,2022,81477,99.92,81543089
+Ladakh,North,Hepatitis B,2022,75440,92.52,81543089
+Ladakh,North,Diarrhoeal Disease,2022,90100,110.49,81543089
+Ladakh,North,Pneumonia,2022,97441,119.5,81543089
+Ladakh,North,Tuberculosis,2023,66957,84.44,79299481
+Ladakh,North,Malaria,2023,84044,105.98,79299481
+Ladakh,North,Dengue,2023,36994,46.65,79299481
+Ladakh,North,HIV/AIDS,2023,82689,104.27,79299481
+Ladakh,North,Measles,2023,15770,19.89,79299481
+Ladakh,North,Hepatitis B,2023,52457,66.15,79299481
+Ladakh,North,Diarrhoeal Disease,2023,45105,56.88,79299481
+Ladakh,North,Pneumonia,2023,54431,68.64,79299481
+Ladakh,North,Tuberculosis,2024,64898,61.95,104758802
+Ladakh,North,Malaria,2024,82355,78.61,104758802
+Ladakh,North,Dengue,2024,77682,74.15,104758802
+Ladakh,North,HIV/AIDS,2024,24119,23.02,104758802
+Ladakh,North,Measles,2024,57792,55.17,104758802
+Ladakh,North,Hepatitis B,2024,78155,74.6,104758802
+Ladakh,North,Diarrhoeal Disease,2024,68792,65.67,104758802
+Ladakh,North,Pneumonia,2024,87590,83.61,104758802
+Lakshadweep,South,Tuberculosis,2015,8532,18.48,46171764
+Lakshadweep,South,Malaria,2015,64175,138.99,46171764
+Lakshadweep,South,Dengue,2015,91399,197.95,46171764
+Lakshadweep,South,HIV/AIDS,2015,64978,140.73,46171764
+Lakshadweep,South,Measles,2015,81300,176.08,46171764
+Lakshadweep,South,Hepatitis B,2015,92382,200.08,46171764
+Lakshadweep,South,Diarrhoeal Disease,2015,24258,52.54,46171764
+Lakshadweep,South,Pneumonia,2015,93994,203.57,46171764
+Lakshadweep,South,Tuberculosis,2016,70683,98.2,71977964
+Lakshadweep,South,Malaria,2016,53173,73.87,71977964
+Lakshadweep,South,Dengue,2016,97872,135.97,71977964
+Lakshadweep,South,HIV/AIDS,2016,52842,73.41,71977964
+Lakshadweep,South,Measles,2016,35207,48.91,71977964
+Lakshadweep,South,Hepatitis B,2016,79757,,71977964
+Lakshadweep,South,Diarrhoeal Disease,2016,8249,11.46,71977964
+Lakshadweep,South,Pneumonia,2016,76950,106.91,71977964
+Lakshadweep,South,Tuberculosis,2017,5927,9.98,59373733
+Lakshadweep,South,Malaria,2017,20047,33.76,59373733
+Lakshadweep,South,Dengue,2017,50059,84.31,59373733
+Lakshadweep,South,HIV/AIDS,2017,26653,44.89,59373733
+Lakshadweep,South,Measles,2017,3694,6.22,59373733
+Lakshadweep,South,Hepatitis B,2017,85404,143.84,59373733
+Lakshadweep,South,Diarrhoeal Disease,2017,66393,111.82,59373733
+Lakshadweep,South,Pneumonia,2017,33942,57.17,59373733
+Lakshadweep,South,Tuberculosis,2018,27765,57.14,48590822
+Lakshadweep,South,Malaria,2018,97524,200.7,48590822
+Lakshadweep,South,Dengue,2018,20606,42.41,48590822
+Lakshadweep,South,HIV/AIDS,2018,68111,140.17,48590822
+Lakshadweep,South,Measles,2018,87091,179.23,48590822
+Lakshadweep,South,Hepatitis B,2018,31190,64.19,48590822
+Lakshadweep,South,Diarrhoeal Disease,2018,80197,165.05,48590822
+Lakshadweep,South,Pneumonia,2018,58723,120.85,48590822
+Lakshadweep,South,Tuberculosis,2019,80713,109.83,73492212
+Lakshadweep,South,Malaria,2019,40955,55.73,73492212
+Lakshadweep,South,Dengue,2019,28604,38.92,73492212
+Lakshadweep,South,HIV/AIDS,2019,86687,117.95,73492212
+Lakshadweep,South,Measles,2019,11828,16.09,73492212
+Lakshadweep,South,Hepatitis B,2019,50608,68.86,73492212
+Lakshadweep,South,Diarrhoeal Disease,2019,43868,59.69,73492212
+Lakshadweep,South,Pneumonia,2019,57771,78.61,73492212
+Lakshadweep,South,Tuberculosis,2020,47813,74.39,64274289
+Lakshadweep,South,Malaria,2020,39310,61.16,64274289
+Lakshadweep,South,Dengue,2020,87859,136.69,64274289
+Lakshadweep,South,HIV/AIDS,2020,35000,54.45,64274289
+Lakshadweep,South,Measles,2020,10111,15.73,64274289
+Lakshadweep,South,Hepatitis B,2020,9047,14.08,64274289
+Lakshadweep,South,Diarrhoeal Disease,2020,25726,40.03,64274289
+Lakshadweep,South,Pneumonia,2020,40696,63.32,64274289
+Lakshadweep,South,Tuberculosis,2021,884,1.49,59175344
+Lakshadweep,South,Malaria,2021,43650,,59175344
+Lakshadweep,South,Dengue,2021,47824,80.82,59175344
+Lakshadweep,South,HIV/AIDS,2021,5618,9.49,59175344
+Lakshadweep,South,Measles,2021,81099,137.05,59175344
+Lakshadweep,South,Hepatitis B,2021,54840,92.67,59175344
+Lakshadweep,South,Diarrhoeal Disease,2021,67057,113.32,59175344
+Lakshadweep,South,Pneumonia,2021,54264,91.7,59175344
+Lakshadweep,South,Tuberculosis,2022,93353,178.35,52343153
+Lakshadweep,South,Malaria,2022,99699,190.47,52343153
+Lakshadweep,South,Dengue,2022,31984,61.1,52343153
+Lakshadweep,South,HIV/AIDS,2022,23802,45.47,52343153
+Lakshadweep,South,Measles,2022,20138,38.47,52343153
+Lakshadweep,South,Hepatitis B,2022,6700,12.8,52343153
+Lakshadweep,South,Diarrhoeal Disease,2022,4042,7.72,52343153
+Lakshadweep,South,Pneumonia,2022,86302,164.88,52343153
+Lakshadweep,South,Tuberculosis,2023,65424,,60614194
+Lakshadweep,South,Malaria,2023,85386,140.87,60614194
+Lakshadweep,South,Dengue,2023,59461,98.1,60614194
+Lakshadweep,South,HIV/AIDS,2023,97925,161.55,60614194
+Lakshadweep,South,Measles,2023,82435,136.0,60614194
+Lakshadweep,South,Hepatitis B,2023,78136,128.91,60614194
+Lakshadweep,South,Diarrhoeal Disease,2023,85845,141.63,60614194
+Lakshadweep,South,Pneumonia,2023,72144,119.02,60614194
+Lakshadweep,South,Tuberculosis,2024,20591,136.44,15091725
+Lakshadweep,South,Malaria,2024,32338,214.28,15091725
+Lakshadweep,South,Dengue,2024,95251,631.15,15091725
+Lakshadweep,South,HIV/AIDS,2024,31616,209.49,15091725
+Lakshadweep,South,Measles,2024,47873,317.21,15091725
+Lakshadweep,South,Hepatitis B,2024,53096,351.82,15091725
+Lakshadweep,South,Diarrhoeal Disease,2024,87395,579.09,15091725
+Lakshadweep,South,Pneumonia,2024,98551,653.01,15091725
+Puducherry,South,Tuberculosis,2015,31406,69.68,45072499
+Puducherry,South,Malaria,2015,98081,217.61,45072499
+Puducherry,South,Dengue,2015,36214,80.35,45072499
+Puducherry,South,HIV/AIDS,2015,50580,112.22,45072499
+Puducherry,South,Measles,2015,40861,90.66,45072499
+Puducherry,South,Hepatitis B,2015,95244,211.31,45072499
+Puducherry,South,Diarrhoeal Disease,2015,56558,125.48,45072499
+Puducherry,South,Pneumonia,2015,10903,24.19,45072499
+Puducherry,South,Tuberculosis,2016,14479,112.59,12859882
+Puducherry,South,Malaria,2016,1920,14.93,12859882
+Puducherry,South,Dengue,2016,10659,82.89,12859882
+Puducherry,South,HIV/AIDS,2016,366,2.85,12859882
+Puducherry,South,Measles,2016,49089,381.72,12859882
+Puducherry,South,Hepatitis B,2016,21725,168.94,12859882
+Puducherry,South,Diarrhoeal Disease,2016,99330,772.4,12859882
+Puducherry,South,Pneumonia,2016,8387,65.22,12859882
+Puducherry,South,Tuberculosis,2017,54380,48.11,113022661
+Puducherry,South,Malaria,2017,95904,84.85,113022661
+Puducherry,South,Dengue,2017,87372,77.3,113022661
+Puducherry,South,HIV/AIDS,2017,97432,86.21,113022661
+Puducherry,South,Measles,2017,46991,41.58,113022661
+Puducherry,South,Hepatitis B,2017,48859,43.23,113022661
+Puducherry,South,Diarrhoeal Disease,2017,48966,43.32,113022661
+Puducherry,South,Pneumonia,2017,77302,,113022661
+Puducherry,South,Tuberculosis,2018,36305,50.39,72044030
+Puducherry,South,Malaria,2018,65399,90.78,72044030
+Puducherry,South,Dengue,2018,41442,,72044030
+Puducherry,South,HIV/AIDS,2018,4904,6.81,72044030
+Puducherry,South,Measles,2018,98545,,72044030
+Puducherry,South,Hepatitis B,2018,96814,134.38,72044030
+Puducherry,South,Diarrhoeal Disease,2018,81802,113.54,72044030
+Puducherry,South,Pneumonia,2018,1036,1.44,72044030
+Puducherry,South,Tuberculosis,2019,20536,18.15,113125617
+Puducherry,South,Malaria,2019,93334,82.5,113125617
+Puducherry,South,Dengue,2019,72542,64.13,113125617
+Puducherry,South,HIV/AIDS,2019,70704,62.5,113125617
+Puducherry,South,Measles,2019,76005,67.19,113125617
+Puducherry,South,Hepatitis B,2019,47727,42.19,113125617
+Puducherry,South,Diarrhoeal Disease,2019,1388,,113125617
+Puducherry,South,Pneumonia,2019,521,0.46,113125617
+Puducherry,South,Tuberculosis,2020,67880,7206.56,941920
+Puducherry,South,Malaria,2020,76637,8136.25,941920
+Puducherry,South,Dengue,2020,38207,4056.29,941920
+Puducherry,South,HIV/AIDS,2020,58298,6189.27,941920
+Puducherry,South,Measles,2020,70901,7527.28,941920
+Puducherry,South,Hepatitis B,2020,10714,1137.46,941920
+Puducherry,South,Diarrhoeal Disease,2020,92740,9845.85,941920
+Puducherry,South,Pneumonia,2020,38226,4058.31,941920
+Puducherry,South,Tuberculosis,2021,89448,96.59,92604564
+Puducherry,South,Malaria,2021,74175,80.1,92604564
+Puducherry,South,Dengue,2021,74294,80.23,92604564
+Puducherry,South,HIV/AIDS,2021,84289,91.02,92604564
+Puducherry,South,Measles,2021,35344,38.17,92604564
+Puducherry,South,Hepatitis B,2021,95460,103.08,92604564
+Puducherry,South,Diarrhoeal Disease,2021,73046,78.88,92604564
+Puducherry,South,Pneumonia,2021,25209,27.22,92604564
+Puducherry,South,Tuberculosis,2022,31495,,98139479
+Puducherry,South,Malaria,2022,81826,,98139479
+Puducherry,South,Dengue,2022,30097,30.67,98139479
+Puducherry,South,HIV/AIDS,2022,48270,49.19,98139479
+Puducherry,South,Measles,2022,89324,91.02,98139479
+Puducherry,South,Hepatitis B,2022,98922,100.8,98139479
+Puducherry,South,Diarrhoeal Disease,2022,12160,12.39,98139479
+Puducherry,South,Pneumonia,2022,71238,72.59,98139479
+Puducherry,South,Tuberculosis,2023,71055,455.26,15607455
+Puducherry,South,Malaria,2023,40757,261.14,15607455
+Puducherry,South,Dengue,2023,22119,141.72,15607455
+Puducherry,South,HIV/AIDS,2023,45419,291.01,15607455
+Puducherry,South,Measles,2023,50769,,15607455
+Puducherry,South,Hepatitis B,2023,90649,580.81,15607455
+Puducherry,South,Diarrhoeal Disease,2023,17435,111.71,15607455
+Puducherry,South,Pneumonia,2023,89652,574.42,15607455
+Puducherry,South,Tuberculosis,2024,85524,73.23,116792879
+Puducherry,South,Malaria,2024,49073,42.02,116792879
+Puducherry,South,Dengue,2024,33783,28.93,116792879
+Puducherry,South,HIV/AIDS,2024,62150,53.21,116792879
+Puducherry,South,Measles,2024,51392,44.0,116792879
+Puducherry,South,Hepatitis B,2024,43670,37.39,116792879
+Puducherry,South,Diarrhoeal Disease,2024,65463,56.05,116792879
+Puducherry,South,Pneumonia,2024,52980,45.36,116792879
